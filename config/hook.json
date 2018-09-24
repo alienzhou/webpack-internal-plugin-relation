@@ -1,0 +1,3192 @@
+{
+  "lib/APIPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "APIPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/AmdMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "renderWithEntry",
+        "type": "tap",
+        "plugin": "AmdMainTemplatePlugin"
+      },
+      {
+        "hook": "globalHashPaths",
+        "type": "tap",
+        "plugin": "AmdMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "AmdMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/AutomaticPrefetchPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "AutomaticPrefetchPlugin"
+      },
+      {
+        "hook": "afterCompile",
+        "type": "tap",
+        "plugin": "AutomaticPrefetchPlugin"
+      },
+      {
+        "hook": "make",
+        "type": "tapAsync",
+        "plugin": "AutomaticPrefetchPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/BannerPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "BannerPlugin"
+      },
+      {
+        "hook": "optimizeChunkAssets",
+        "type": "tap",
+        "plugin": "BannerPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/CachePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "CachePlugin"
+      },
+      {
+        "hook": "childCompiler",
+        "type": "tap",
+        "plugin": "CachePlugin"
+      },
+      {
+        "hook": "watchRun",
+        "type": "tap",
+        "plugin": "CachePlugin"
+      },
+      {
+        "hook": "run",
+        "type": "tapAsync",
+        "plugin": "CachePlugin"
+      },
+      {
+        "hook": "afterCompile",
+        "type": "tap",
+        "plugin": "CachePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ChunkTemplate.js": {
+    "hooks": [
+      "renderManifest",
+      "modules",
+      "render",
+      "renderWithEntry",
+      "hash",
+      "hashForChunk"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "renderManifest",
+        "type": "call"
+      },
+      {
+        "hook": "hash",
+        "type": "call"
+      },
+      {
+        "hook": "hashForChunk",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/CompatibilityPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "CompatibilityPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/Compilation.js": {
+    "hooks": [
+      "buildModule",
+      "rebuildModule",
+      "failedModule",
+      "succeedModule",
+      "dependencyReference",
+      "finishModules",
+      "finishRebuildingModule",
+      "unseal",
+      "seal",
+      "beforeChunks",
+      "afterChunks",
+      "optimizeDependenciesBasic",
+      "optimizeDependencies",
+      "optimizeDependenciesAdvanced",
+      "afterOptimizeDependencies",
+      "optimize",
+      "optimizeModulesBasic",
+      "optimizeModules",
+      "optimizeModulesAdvanced",
+      "afterOptimizeModules",
+      "optimizeChunksBasic",
+      "optimizeChunks",
+      "optimizeChunksAdvanced",
+      "afterOptimizeChunks",
+      "optimizeTree",
+      "afterOptimizeTree",
+      "optimizeChunkModulesBasic",
+      "optimizeChunkModules",
+      "optimizeChunkModulesAdvanced",
+      "afterOptimizeChunkModules",
+      "shouldRecord",
+      "reviveModules",
+      "optimizeModuleOrder",
+      "advancedOptimizeModuleOrder",
+      "beforeModuleIds",
+      "moduleIds",
+      "optimizeModuleIds",
+      "afterOptimizeModuleIds",
+      "reviveChunks",
+      "optimizeChunkOrder",
+      "beforeChunkIds",
+      "optimizeChunkIds",
+      "afterOptimizeChunkIds",
+      "recordModules",
+      "recordChunks",
+      "beforeHash",
+      "contentHash",
+      "afterHash",
+      "recordHash",
+      "record",
+      "beforeModuleAssets",
+      "shouldGenerateChunkAssets",
+      "beforeChunkAssets",
+      "additionalChunkAssets",
+      "additionalAssets",
+      "optimizeChunkAssets",
+      "afterOptimizeChunkAssets",
+      "optimizeAssets",
+      "afterOptimizeAssets",
+      "needAdditionalSeal",
+      "afterSeal",
+      "chunkHash",
+      "moduleAsset",
+      "chunkAsset",
+      "assetPath",
+      "needAdditionalPass",
+      "childCompiler",
+      "normalModuleLoader",
+      "optimizeExtractedChunksBasic",
+      "optimizeExtractedChunks",
+      "optimizeExtractedChunksAdvanced",
+      "afterOptimizeExtractedChunks"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "buildModule",
+        "type": "call"
+      },
+      {
+        "hook": "failedModule",
+        "type": "call"
+      },
+      {
+        "hook": "succeedModule",
+        "type": "call"
+      },
+      {
+        "hook": "rebuildModule",
+        "type": "call"
+      },
+      {
+        "hook": "finishRebuildingModule",
+        "type": "call"
+      },
+      {
+        "hook": "finishRebuildingModule",
+        "type": "call"
+      },
+      {
+        "hook": "finishModules",
+        "type": "call"
+      },
+      {
+        "hook": "unseal",
+        "type": "call"
+      },
+      {
+        "hook": "seal",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeDependenciesBasic",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeDependencies",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeDependenciesAdvanced",
+        "type": "call"
+      },
+      {
+        "hook": "afterOptimizeDependencies",
+        "type": "call"
+      },
+      {
+        "hook": "beforeChunks",
+        "type": "call"
+      },
+      {
+        "hook": "afterChunks",
+        "type": "call"
+      },
+      {
+        "hook": "optimize",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeModulesBasic",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeModules",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeModulesAdvanced",
+        "type": "call"
+      },
+      {
+        "hook": "afterOptimizeModules",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunksBasic",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunks",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "call"
+      },
+      {
+        "hook": "afterOptimizeChunks",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeTree",
+        "type": "callAsync"
+      },
+      {
+        "hook": "afterOptimizeTree",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunkModulesBasic",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunkModules",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunkModulesAdvanced",
+        "type": "call"
+      },
+      {
+        "hook": "afterOptimizeChunkModules",
+        "type": "call"
+      },
+      {
+        "hook": "shouldRecord",
+        "type": "call"
+      },
+      {
+        "hook": "reviveModules",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeModuleOrder",
+        "type": "call"
+      },
+      {
+        "hook": "advancedOptimizeModuleOrder",
+        "type": "call"
+      },
+      {
+        "hook": "beforeModuleIds",
+        "type": "call"
+      },
+      {
+        "hook": "moduleIds",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeModuleIds",
+        "type": "call"
+      },
+      {
+        "hook": "afterOptimizeModuleIds",
+        "type": "call"
+      },
+      {
+        "hook": "reviveChunks",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunkOrder",
+        "type": "call"
+      },
+      {
+        "hook": "beforeChunkIds",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeChunkIds",
+        "type": "call"
+      },
+      {
+        "hook": "afterOptimizeChunkIds",
+        "type": "call"
+      },
+      {
+        "hook": "recordModules",
+        "type": "call"
+      },
+      {
+        "hook": "recordChunks",
+        "type": "call"
+      },
+      {
+        "hook": "beforeHash",
+        "type": "call"
+      },
+      {
+        "hook": "afterHash",
+        "type": "call"
+      },
+      {
+        "hook": "recordHash",
+        "type": "call"
+      },
+      {
+        "hook": "beforeModuleAssets",
+        "type": "call"
+      },
+      {
+        "hook": "shouldGenerateChunkAssets",
+        "type": "call"
+      },
+      {
+        "hook": "beforeChunkAssets",
+        "type": "call"
+      },
+      {
+        "hook": "additionalChunkAssets",
+        "type": "call"
+      },
+      {
+        "hook": "record",
+        "type": "call"
+      },
+      {
+        "hook": "additionalAssets",
+        "type": "callAsync"
+      },
+      {
+        "hook": "optimizeChunkAssets",
+        "type": "callAsync"
+      },
+      {
+        "hook": "afterOptimizeChunkAssets",
+        "type": "call"
+      },
+      {
+        "hook": "optimizeAssets",
+        "type": "callAsync"
+      },
+      {
+        "hook": "afterOptimizeAssets",
+        "type": "call"
+      },
+      {
+        "hook": "needAdditionalSeal",
+        "type": "call"
+      },
+      {
+        "hook": "afterSeal",
+        "type": "callAsync"
+      },
+      {
+        "hook": "dependencyReference",
+        "type": "call"
+      },
+      {
+        "hook": "chunkHash",
+        "type": "call"
+      },
+      {
+        "hook": "contentHash",
+        "type": "call"
+      },
+      {
+        "hook": "moduleAsset",
+        "type": "call"
+      },
+      {
+        "hook": "chunkAsset",
+        "type": "call"
+      },
+      {
+        "hook": "chunkAsset",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/Compiler.js": {
+    "hooks": [
+      "shouldEmit",
+      "done",
+      "additionalPass",
+      "beforeRun",
+      "run",
+      "emit",
+      "afterEmit",
+      "thisCompilation",
+      "compilation",
+      "normalModuleFactory",
+      "contextModuleFactory",
+      "beforeCompile",
+      "compile",
+      "make",
+      "afterCompile",
+      "watchRun",
+      "failed",
+      "invalid",
+      "watchClose",
+      "environment",
+      "afterEnvironment",
+      "afterPlugins",
+      "afterResolvers",
+      "entryOption"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "shouldEmit",
+        "type": "call"
+      },
+      {
+        "hook": "done",
+        "type": "callAsync"
+      },
+      {
+        "hook": "needAdditionalPass",
+        "type": "call"
+      },
+      {
+        "hook": "done",
+        "type": "callAsync"
+      },
+      {
+        "hook": "additionalPass",
+        "type": "callAsync"
+      },
+      {
+        "hook": "done",
+        "type": "callAsync"
+      },
+      {
+        "hook": "beforeRun",
+        "type": "callAsync"
+      },
+      {
+        "hook": "run",
+        "type": "callAsync"
+      },
+      {
+        "hook": "afterEmit",
+        "type": "callAsync"
+      },
+      {
+        "hook": "emit",
+        "type": "callAsync"
+      },
+      {
+        "hook": "childCompiler",
+        "type": "call"
+      },
+      {
+        "hook": "thisCompilation",
+        "type": "call"
+      },
+      {
+        "hook": "compilation",
+        "type": "call"
+      },
+      {
+        "hook": "normalModuleFactory",
+        "type": "call"
+      },
+      {
+        "hook": "contextModuleFactory",
+        "type": "call"
+      },
+      {
+        "hook": "beforeCompile",
+        "type": "callAsync"
+      },
+      {
+        "hook": "compile",
+        "type": "call"
+      },
+      {
+        "hook": "make",
+        "type": "callAsync"
+      },
+      {
+        "hook": "afterCompile",
+        "type": "callAsync"
+      }
+    ]
+  },
+  "lib/ConstPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ConstPlugin"
+      },
+      {
+        "hook": "statementIf",
+        "type": "tap",
+        "plugin": "ConstPlugin"
+      },
+      {
+        "hook": "expressionConditionalOperator",
+        "type": "tap",
+        "plugin": "ConstPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ContextExclusionPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "contextModuleFactory",
+        "type": "tap",
+        "plugin": "ContextExclusionPlugin"
+      },
+      {
+        "hook": "contextModuleFiles",
+        "type": "tap",
+        "plugin": "ContextExclusionPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ContextModuleFactory.js": {
+    "hooks": [
+      "beforeResolve",
+      "afterResolve",
+      "contextModuleFiles",
+      "alternatives"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "beforeResolve",
+        "type": "callAsync"
+      },
+      {
+        "hook": "afterResolve",
+        "type": "callAsync"
+      },
+      {
+        "hook": "contextModuleFiles",
+        "type": "call"
+      },
+      {
+        "hook": "alternatives",
+        "type": "callAsync"
+      }
+    ]
+  },
+  "lib/ContextReplacementPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "contextModuleFactory",
+        "type": "tap",
+        "plugin": "ContextReplacementPlugin"
+      },
+      {
+        "hook": "beforeResolve",
+        "type": "tap",
+        "plugin": "ContextReplacementPlugin"
+      },
+      {
+        "hook": "afterResolve",
+        "type": "tap",
+        "plugin": "ContextReplacementPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DefinePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "DefinePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DelegatedModuleFactoryPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "factory",
+        "type": "tap",
+        "plugin": "DelegatedModuleFactoryPlugin"
+      },
+      {
+        "hook": "module",
+        "type": "tap",
+        "plugin": "DelegatedModuleFactoryPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DelegatedPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "DelegatedPlugin"
+      },
+      {
+        "hook": "compile",
+        "type": "tap",
+        "plugin": "DelegatedPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DllEntryPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "DllEntryPlugin"
+      },
+      {
+        "hook": "make",
+        "type": "tapAsync",
+        "plugin": "DllEntryPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DllPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "entryOption",
+        "type": "tap",
+        "plugin": "DllPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DllReferencePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "DllReferencePlugin"
+      },
+      {
+        "hook": "beforeCompile",
+        "type": "tapAsync",
+        "plugin": "DllReferencePlugin"
+      },
+      {
+        "hook": "compile",
+        "type": "tap",
+        "plugin": "DllReferencePlugin"
+      },
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "DllReferencePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/DynamicEntryPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "DynamicEntryPlugin"
+      },
+      {
+        "hook": "make",
+        "type": "tapAsync",
+        "plugin": "DynamicEntryPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/EntryOptionPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "entryOption",
+        "type": "tap",
+        "plugin": "EntryOptionPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/EnvironmentPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "EnvironmentPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/EvalDevToolModulePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "EvalDevToolModulePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/EvalDevToolModuleTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "module",
+        "type": "tap",
+        "plugin": "EvalDevToolModuleTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "EvalDevToolModuleTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/EvalSourceMapDevToolModuleTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "module",
+        "type": "tap",
+        "plugin": "EvalSourceMapDevToolModuleTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "EvalSourceMapDevToolModuleTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/EvalSourceMapDevToolPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "EvalSourceMapDevToolPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ExportPropertyMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "renderWithEntry",
+        "type": "tap",
+        "plugin": "ExportPropertyMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "ExportPropertyMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ExtendedAPIPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ExtendedAPIPlugin"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "tap",
+        "plugin": "ExtendedAPIPlugin"
+      },
+      {
+        "hook": "globalHash",
+        "type": "tap",
+        "plugin": "ExtendedAPIPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ExternalModuleFactoryPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "factory",
+        "type": "tap",
+        "plugin": "ExternalModuleFactoryPlugin"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/ExternalsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compile",
+        "type": "tap",
+        "plugin": "ExternalsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/FlagDependencyExportsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "FlagDependencyExportsPlugin"
+      },
+      {
+        "hook": "finishModules",
+        "type": "tap",
+        "plugin": "FlagDependencyExportsPlugin"
+      },
+      {
+        "hook": "rebuildModule",
+        "type": "tap",
+        "plugin": "FlagDependencyExportsPlugin"
+      },
+      {
+        "hook": "finishRebuildingModule",
+        "type": "tap",
+        "plugin": "FlagDependencyExportsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/FlagDependencyUsagePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "FlagDependencyUsagePlugin"
+      },
+      {
+        "hook": "optimizeDependencies",
+        "type": "tap",
+        "plugin": "FlagDependencyUsagePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/FlagInitialModulesAsUsedPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "FlagInitialModulesAsUsedPlugin"
+      },
+      {
+        "hook": "afterOptimizeChunks",
+        "type": "tap",
+        "plugin": "FlagInitialModulesAsUsedPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/FunctionModulePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "FunctionModulePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/FunctionModuleTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "FunctionModuleTemplatePlugin"
+      },
+      {
+        "hook": "package",
+        "type": "tap",
+        "plugin": "FunctionModuleTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "FunctionModuleTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/HashedModuleIdsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "HashedModuleIdsPlugin"
+      },
+      {
+        "hook": "beforeModuleIds",
+        "type": "tap",
+        "plugin": "HashedModuleIdsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/HotModuleReplacement.runtime.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "i",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      },
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/HotModuleReplacementPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "additionalPass",
+        "type": "tapAsync",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "record",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "afterHash",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "shouldGenerateChunkAssets",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "needAdditionalPass",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "additionalChunkAssets",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "moduleRequire",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "bootstrap",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "globalHash",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "currentHash",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "moduleObj",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      },
+      {
+        "hook": "normalModuleLoader",
+        "type": "tap",
+        "plugin": "HotModuleReplacementPlugin"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "hotAcceptCallback",
+        "type": "call"
+      },
+      {
+        "hook": "hotAcceptWithoutCallback",
+        "type": "call"
+      },
+      {
+        "hook": "chunkAsset",
+        "type": "call"
+      },
+      {
+        "hook": "hotBootstrap",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/HotUpdateChunkTemplate.js": {
+    "hooks": [
+      "modules",
+      "render",
+      "hash"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "modules",
+        "type": "call"
+      },
+      {
+        "hook": "render",
+        "type": "call"
+      },
+      {
+        "hook": "hash",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/IgnorePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "normalModuleFactory",
+        "type": "tap",
+        "plugin": "IgnorePlugin"
+      },
+      {
+        "hook": "beforeResolve",
+        "type": "tap",
+        "plugin": "IgnorePlugin"
+      },
+      {
+        "hook": "contextModuleFactory",
+        "type": "tap",
+        "plugin": "IgnorePlugin"
+      },
+      {
+        "hook": "beforeResolve",
+        "type": "tap",
+        "plugin": "IgnorePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/JavascriptModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "JavascriptModulesPlugin"
+      },
+      {
+        "hook": "renderManifest",
+        "type": "tap",
+        "plugin": "JavascriptModulesPlugin"
+      },
+      {
+        "hook": "modules",
+        "type": "tap",
+        "plugin": "JavascriptModulesPlugin"
+      },
+      {
+        "hook": "renderManifest",
+        "type": "tap",
+        "plugin": "JavascriptModulesPlugin"
+      },
+      {
+        "hook": "contentHash",
+        "type": "tap",
+        "plugin": "JavascriptModulesPlugin"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "modules",
+        "type": "call"
+      },
+      {
+        "hook": "render",
+        "type": "call"
+      },
+      {
+        "hook": "renderWithEntry",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/JsonModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "JsonModulesPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/LibManifestPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "emit",
+        "type": "tapAsync",
+        "plugin": "LibManifestPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/LibraryTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "LibraryTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/LoaderOptionsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "LoaderOptionsPlugin"
+      },
+      {
+        "hook": "normalModuleLoader",
+        "type": "tap",
+        "plugin": "LoaderOptionsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/LoaderTargetPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "LoaderTargetPlugin"
+      },
+      {
+        "hook": "normalModuleLoader",
+        "type": "tap",
+        "plugin": "LoaderTargetPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/MainTemplate.js": {
+    "hooks": [
+      "renderManifest",
+      "modules",
+      "moduleObj",
+      "requireEnsure",
+      "bootstrap",
+      "localVars",
+      "require",
+      "requireExtensions",
+      "beforeStartup",
+      "startup",
+      "render",
+      "renderWithEntry",
+      "moduleRequire",
+      "addModule",
+      "currentHash",
+      "assetPath",
+      "hash",
+      "hashForChunk",
+      "globalHashPaths",
+      "globalHash",
+      "hotBootstrap"
+    ],
+    "taps": [
+      {
+        "hook": "startup",
+        "type": "tap",
+        "plugin": "MainTemplate"
+      },
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "MainTemplate"
+      },
+      {
+        "hook": "localVars",
+        "type": "tap",
+        "plugin": "MainTemplate"
+      },
+      {
+        "hook": "require",
+        "type": "tap",
+        "plugin": "MainTemplate"
+      },
+      {
+        "hook": "moduleObj",
+        "type": "tap",
+        "plugin": "MainTemplate"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "tap",
+        "plugin": "MainTemplate"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "modules",
+        "type": "call"
+      },
+      {
+        "hook": "moduleObj",
+        "type": "call"
+      },
+      {
+        "hook": "requireEnsure",
+        "type": "call"
+      },
+      {
+        "hook": "renderManifest",
+        "type": "call"
+      },
+      {
+        "hook": "bootstrap",
+        "type": "call"
+      },
+      {
+        "hook": "localVars",
+        "type": "call"
+      },
+      {
+        "hook": "require",
+        "type": "call"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "call"
+      },
+      {
+        "hook": "beforeStartup",
+        "type": "call"
+      },
+      {
+        "hook": "startup",
+        "type": "call"
+      },
+      {
+        "hook": "render",
+        "type": "call"
+      },
+      {
+        "hook": "renderWithEntry",
+        "type": "call"
+      },
+      {
+        "hook": "moduleRequire",
+        "type": "call"
+      },
+      {
+        "hook": "addModule",
+        "type": "call"
+      },
+      {
+        "hook": "currentHash",
+        "type": "call"
+      },
+      {
+        "hook": "assetPath",
+        "type": "call"
+      },
+      {
+        "hook": "assetPath",
+        "type": "call"
+      },
+      {
+        "hook": "hash",
+        "type": "call"
+      },
+      {
+        "hook": "hashForChunk",
+        "type": "call"
+      },
+      {
+        "hook": "globalHashPaths",
+        "type": "call"
+      },
+      {
+        "hook": "globalHash",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/ModuleTemplate.js": {
+    "hooks": [
+      "content",
+      "module",
+      "render",
+      "package",
+      "hash"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "content",
+        "type": "call"
+      },
+      {
+        "hook": "module",
+        "type": "call"
+      },
+      {
+        "hook": "render",
+        "type": "call"
+      },
+      {
+        "hook": "package",
+        "type": "call"
+      },
+      {
+        "hook": "hash",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/MultiCompiler.js": {
+    "hooks": [
+      "done",
+      "invalid",
+      "run",
+      "watchClose",
+      "watchRun"
+    ],
+    "taps": [
+      {
+        "hook": "done",
+        "type": "tap",
+        "plugin": "MultiCompiler"
+      },
+      {
+        "hook": "invalid",
+        "type": "tap",
+        "plugin": "MultiCompiler"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "done",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/MultiEntryPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "MultiEntryPlugin"
+      },
+      {
+        "hook": "make",
+        "type": "tapAsync",
+        "plugin": "MultiEntryPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/MultiWatching.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "watchClose",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/NamedChunksPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "NamedChunksPlugin"
+      },
+      {
+        "hook": "beforeChunkIds",
+        "type": "tap",
+        "plugin": "NamedChunksPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/NamedModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "NamedModulesPlugin"
+      },
+      {
+        "hook": "beforeModuleIds",
+        "type": "tap",
+        "plugin": "NamedModulesPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/NoEmitOnErrorsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "shouldEmit",
+        "type": "tap",
+        "plugin": "NoEmitOnErrorsPlugin"
+      },
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "NoEmitOnErrorsPlugin"
+      },
+      {
+        "hook": "shouldRecord",
+        "type": "tap",
+        "plugin": "NoEmitOnErrorsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/NodeStuffPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "NodeStuffPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/NormalModule.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "normalModuleLoader",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/NormalModuleFactory.js": {
+    "hooks": [
+      "resolver",
+      "factory",
+      "beforeResolve",
+      "afterResolve",
+      "createModule",
+      "module",
+      "createParser",
+      "parser",
+      "createGenerator",
+      "generator"
+    ],
+    "taps": [
+      {
+        "hook": "factory",
+        "type": "tap",
+        "plugin": "NormalModuleFactory"
+      },
+      {
+        "hook": "resolver",
+        "type": "tap",
+        "plugin": "NormalModuleFactory"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "resolver",
+        "type": "call"
+      },
+      {
+        "hook": "afterResolve",
+        "type": "callAsync"
+      },
+      {
+        "hook": "createModule",
+        "type": "call"
+      },
+      {
+        "hook": "module",
+        "type": "call"
+      },
+      {
+        "hook": "beforeResolve",
+        "type": "callAsync"
+      },
+      {
+        "hook": "factory",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/NormalModuleReplacementPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "normalModuleFactory",
+        "type": "tap",
+        "plugin": "NormalModuleReplacementPlugin"
+      },
+      {
+        "hook": "beforeResolve",
+        "type": "tap",
+        "plugin": "NormalModuleReplacementPlugin"
+      },
+      {
+        "hook": "afterResolve",
+        "type": "tap",
+        "plugin": "NormalModuleReplacementPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/OptionsDefaulter.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "name",
+        "type": "call"
+      },
+      {
+        "hook": "name",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/Parser.js": {
+    "hooks": [
+      "evaluateTypeof",
+      "evaluate",
+      "evaluateIdentifier",
+      "evaluateDefinedIdentifier",
+      "evaluateCallExpressionMember",
+      "statement",
+      "statementIf",
+      "label",
+      "import",
+      "importSpecifier",
+      "export",
+      "exportImport",
+      "exportDeclaration",
+      "exportExpression",
+      "exportSpecifier",
+      "exportImportSpecifier",
+      "varDeclaration",
+      "varDeclarationLet",
+      "varDeclarationConst",
+      "varDeclarationVar",
+      "canRename",
+      "rename",
+      "assigned",
+      "assign",
+      "typeof",
+      "importCall",
+      "call",
+      "callAnyMember",
+      "new",
+      "expression",
+      "expressionAnyMember",
+      "expressionConditionalOperator",
+      "program"
+    ],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "statement",
+        "type": "call"
+      },
+      {
+        "hook": "statementIf",
+        "type": "call"
+      },
+      {
+        "hook": "import",
+        "type": "call"
+      },
+      {
+        "hook": "importSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "importSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "importSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "exportImport",
+        "type": "call"
+      },
+      {
+        "hook": "export",
+        "type": "call"
+      },
+      {
+        "hook": "exportDeclaration",
+        "type": "call"
+      },
+      {
+        "hook": "exportSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "exportImportSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "exportSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "exportSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "export",
+        "type": "call"
+      },
+      {
+        "hook": "exportDeclaration",
+        "type": "call"
+      },
+      {
+        "hook": "exportExpression",
+        "type": "call"
+      },
+      {
+        "hook": "exportSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "exportImport",
+        "type": "call"
+      },
+      {
+        "hook": "exportImportSpecifier",
+        "type": "call"
+      },
+      {
+        "hook": "expressionConditionalOperator",
+        "type": "call"
+      },
+      {
+        "hook": "importCall",
+        "type": "call"
+      },
+      {
+        "hook": "program",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/PrefetchPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "PrefetchPlugin"
+      },
+      {
+        "hook": "make",
+        "type": "tapAsync",
+        "plugin": "PrefetchPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ProgressPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ProgressPlugin"
+      },
+      {
+        "hook": "buildModule",
+        "type": "tap",
+        "plugin": "ProgressPlugin"
+      },
+      {
+        "hook": "failedModule",
+        "type": "tap",
+        "plugin": "ProgressPlugin"
+      },
+      {
+        "hook": "succeedModule",
+        "type": "tap",
+        "plugin": "ProgressPlugin"
+      },
+      {
+        "hook": "done",
+        "type": "tap",
+        "plugin": "ProgressPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ProvidePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ProvidePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/RecordIdsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RecordIdsPlugin"
+      },
+      {
+        "hook": "recordModules",
+        "type": "tap",
+        "plugin": "RecordIdsPlugin"
+      },
+      {
+        "hook": "reviveModules",
+        "type": "tap",
+        "plugin": "RecordIdsPlugin"
+      },
+      {
+        "hook": "recordChunks",
+        "type": "tap",
+        "plugin": "RecordIdsPlugin"
+      },
+      {
+        "hook": "reviveChunks",
+        "type": "tap",
+        "plugin": "RecordIdsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/RequireJsStuffPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RequireJsStuffPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/ResolverFactory.js": {
+    "hooks": [
+      "resolveOptions",
+      "resolver"
+    ],
+    "taps": [],
+    "calls": []
+  },
+  "lib/SetVarMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "renderWithEntry",
+        "type": "tap",
+        "plugin": "SetVarMainTemplatePlugin"
+      },
+      {
+        "hook": "globalHashPaths",
+        "type": "tap",
+        "plugin": "SetVarMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "SetVarMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/SingleEntryPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "SingleEntryPlugin"
+      },
+      {
+        "hook": "make",
+        "type": "tapAsync",
+        "plugin": "SingleEntryPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/SourceMapDevToolModuleOptionsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "buildModule",
+        "type": "tap",
+        "plugin": "SourceMapDevToolModuleOptionsPlugin"
+      },
+      {
+        "hook": "buildModule",
+        "type": "tap",
+        "plugin": "SourceMapDevToolModuleOptionsPlugin"
+      },
+      {
+        "hook": "buildModule",
+        "type": "tap",
+        "plugin": "SourceMapDevToolModuleOptionsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/SourceMapDevToolPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "SourceMapDevToolPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/TemplatedPathPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "TemplatedPathPlugin"
+      },
+      {
+        "hook": "assetPath",
+        "type": "tap",
+        "plugin": "TemplatedPathPlugin"
+      },
+      {
+        "hook": "globalHash",
+        "type": "tap",
+        "plugin": "TemplatedPathPlugin"
+      },
+      {
+        "hook": "hashForChunk",
+        "type": "tap",
+        "plugin": "TemplatedPathPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/UmdMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "renderWithEntry",
+        "type": "tap",
+        "plugin": "UmdMainTemplatePlugin"
+      },
+      {
+        "hook": "globalHashPaths",
+        "type": "tap",
+        "plugin": "UmdMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "UmdMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/UseStrictPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "UseStrictPlugin"
+      },
+      {
+        "hook": "program",
+        "type": "tap",
+        "plugin": "UseStrictPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/WarnCaseSensitiveModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "WarnCaseSensitiveModulesPlugin"
+      },
+      {
+        "hook": "seal",
+        "type": "tap",
+        "plugin": "WarnCaseSensitiveModulesPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/WarnNoModeSetPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "WarnNoModeSetPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/WatchIgnorePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "afterEnvironment",
+        "type": "tap",
+        "plugin": "WatchIgnorePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/Watching.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "watchRun",
+        "type": "callAsync"
+      },
+      {
+        "hook": "shouldEmit",
+        "type": "call"
+      },
+      {
+        "hook": "needAdditionalPass",
+        "type": "call"
+      },
+      {
+        "hook": "done",
+        "type": "callAsync"
+      },
+      {
+        "hook": "additionalPass",
+        "type": "callAsync"
+      },
+      {
+        "hook": "failed",
+        "type": "call"
+      },
+      {
+        "hook": "done",
+        "type": "callAsync"
+      },
+      {
+        "hook": "invalid",
+        "type": "call"
+      },
+      {
+        "hook": "watchClose",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/WebpackOptionsApply.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "entryOption",
+        "type": "call"
+      },
+      {
+        "hook": "afterPlugins",
+        "type": "call"
+      },
+      {
+        "hook": "afterResolvers",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/webpack.js": {
+    "hooks": [],
+    "taps": [],
+    "calls": [
+      {
+        "hook": "environment",
+        "type": "call"
+      },
+      {
+        "hook": "afterEnvironment",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/dependencies/AMDPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "AMDPlugin"
+      },
+      {
+        "hook": "afterResolvers",
+        "type": "tap",
+        "plugin": "AMDPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/CommonJsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "CommonJsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/HarmonyDetectionParserPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "program",
+        "type": "tap",
+        "plugin": "HarmonyDetectionParserPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/HarmonyExportDependencyParserPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "export",
+        "type": "tap",
+        "plugin": "HarmonyExportDependencyParserPlugin"
+      },
+      {
+        "hook": "exportImport",
+        "type": "tap",
+        "plugin": "HarmonyExportDependencyParserPlugin"
+      },
+      {
+        "hook": "exportExpression",
+        "type": "tap",
+        "plugin": "HarmonyExportDependencyParserPlugin"
+      },
+      {
+        "hook": "exportDeclaration",
+        "type": "tap",
+        "plugin": "HarmonyExportDependencyParserPlugin"
+      },
+      {
+        "hook": "exportSpecifier",
+        "type": "tap",
+        "plugin": "HarmonyExportDependencyParserPlugin"
+      },
+      {
+        "hook": "exportImportSpecifier",
+        "type": "tap",
+        "plugin": "HarmonyExportDependencyParserPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/HarmonyImportDependencyParserPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "import",
+        "type": "tap",
+        "plugin": "HarmonyImportDependencyParserPlugin"
+      },
+      {
+        "hook": "importSpecifier",
+        "type": "tap",
+        "plugin": "HarmonyImportDependencyParserPlugin"
+      },
+      {
+        "hook": "hotAcceptCallback",
+        "type": "tap",
+        "plugin": "HarmonyImportDependencyParserPlugin"
+      },
+      {
+        "hook": "hotAcceptWithoutCallback",
+        "type": "tap",
+        "plugin": "HarmonyImportDependencyParserPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/HarmonyModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "HarmonyModulesPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/ImportParserPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "importCall",
+        "type": "tap",
+        "plugin": "ImportParserPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/ImportPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ImportPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/LoaderPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "LoaderPlugin"
+      },
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "LoaderPlugin"
+      },
+      {
+        "hook": "normalModuleLoader",
+        "type": "tap",
+        "plugin": "LoaderPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/RequireContextPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RequireContextPlugin"
+      },
+      {
+        "hook": "alternatives",
+        "type": "tap",
+        "plugin": "RequireContextPlugin"
+      },
+      {
+        "hook": "alternatives",
+        "type": "tap",
+        "plugin": "RequireContextPlugin"
+      },
+      {
+        "hook": "alternatives",
+        "type": "tap",
+        "plugin": "RequireContextPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/RequireEnsurePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RequireEnsurePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/RequireIncludePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RequireIncludePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/dependencies/SystemPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "SystemPlugin"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "importCall",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/node/NodeChunkTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "NodeChunkTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "NodeChunkTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/node/NodeEnvironmentPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "beforeRun",
+        "type": "tap",
+        "plugin": "NodeEnvironmentPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/node/NodeHotUpdateChunkTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "NodeHotUpdateChunkTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "NodeHotUpdateChunkTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/node/NodeMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "localVars",
+        "type": "tap",
+        "plugin": "NodeMainTemplatePlugin"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "tap",
+        "plugin": "NodeMainTemplatePlugin"
+      },
+      {
+        "hook": "requireEnsure",
+        "type": "tap",
+        "plugin": "NodeMainTemplatePlugin"
+      },
+      {
+        "hook": "hotBootstrap",
+        "type": "tap",
+        "plugin": "NodeMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "NodeMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/node/NodeSourcePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "NodeSourcePlugin"
+      },
+      {
+        "hook": "afterResolvers",
+        "type": "tap",
+        "plugin": "NodeSourcePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/node/NodeTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "NodeTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/node/ReadFileCompileWasmTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "ReadFileCompileWasmTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/AggressiveMergingPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "AggressiveMergingPlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "AggressiveMergingPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/AggressiveSplittingPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "AggressiveSplittingPlugin"
+      },
+      {
+        "hook": "optimize",
+        "type": "tap",
+        "plugin": "AggressiveSplittingPlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "AggressiveSplittingPlugin"
+      },
+      {
+        "hook": "recordHash",
+        "type": "tap",
+        "plugin": "AggressiveSplittingPlugin"
+      },
+      {
+        "hook": "needAdditionalSeal",
+        "type": "tap",
+        "plugin": "AggressiveSplittingPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/ChunkModuleIdRangePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ChunkModuleIdRangePlugin"
+      },
+      {
+        "hook": "moduleIds",
+        "type": "tap",
+        "plugin": "ChunkModuleIdRangePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/EnsureChunkConditionsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "EnsureChunkConditionsPlugin"
+      },
+      {
+        "hook": "optimizeChunksBasic",
+        "type": "tap",
+        "plugin": "EnsureChunkConditionsPlugin"
+      },
+      {
+        "hook": "optimizeExtractedChunksBasic",
+        "type": "tap",
+        "plugin": "EnsureChunkConditionsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/FlagIncludedChunksPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "FlagIncludedChunksPlugin"
+      },
+      {
+        "hook": "optimizeChunkIds",
+        "type": "tap",
+        "plugin": "FlagIncludedChunksPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/LimitChunkCountPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "LimitChunkCountPlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "LimitChunkCountPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/MergeDuplicateChunksPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "MergeDuplicateChunksPlugin"
+      },
+      {
+        "hook": "optimizeChunksBasic",
+        "type": "tap",
+        "plugin": "MergeDuplicateChunksPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/MinChunkSizePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "MinChunkSizePlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "MinChunkSizePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/ModuleConcatenationPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "ModuleConcatenationPlugin"
+      },
+      {
+        "hook": "optimizeChunkModules",
+        "type": "tap",
+        "plugin": "ModuleConcatenationPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/NaturalChunkOrderPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "NaturalChunkOrderPlugin"
+      },
+      {
+        "hook": "optimizeChunkOrder",
+        "type": "tap",
+        "plugin": "NaturalChunkOrderPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/OccurrenceChunkOrderPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "OccurrenceOrderChunkIdsPlugin"
+      },
+      {
+        "hook": "optimizeChunkOrder",
+        "type": "tap",
+        "plugin": "OccurrenceOrderChunkIdsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/OccurrenceModuleOrderPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "OccurrenceOrderModuleIdsPlugin"
+      },
+      {
+        "hook": "optimizeModuleOrder",
+        "type": "tap",
+        "plugin": "OccurrenceOrderModuleIdsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/OccurrenceOrderPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "OccurrenceOrderPlugin"
+      },
+      {
+        "hook": "optimizeModuleOrder",
+        "type": "tap",
+        "plugin": "OccurrenceOrderPlugin"
+      },
+      {
+        "hook": "optimizeChunkOrder",
+        "type": "tap",
+        "plugin": "OccurrenceOrderPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/RemoveEmptyChunksPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RemoveEmptyChunksPlugin"
+      },
+      {
+        "hook": "optimizeChunksBasic",
+        "type": "tap",
+        "plugin": "RemoveEmptyChunksPlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "RemoveEmptyChunksPlugin"
+      },
+      {
+        "hook": "optimizeExtractedChunksBasic",
+        "type": "tap",
+        "plugin": "RemoveEmptyChunksPlugin"
+      },
+      {
+        "hook": "optimizeExtractedChunksAdvanced",
+        "type": "tap",
+        "plugin": "RemoveEmptyChunksPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/RemoveParentModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "RemoveParentModulesPlugin"
+      },
+      {
+        "hook": "optimizeChunksBasic",
+        "type": "tap",
+        "plugin": "RemoveParentModulesPlugin"
+      },
+      {
+        "hook": "optimizeExtractedChunksBasic",
+        "type": "tap",
+        "plugin": "RemoveParentModulesPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/RuntimeChunkPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "RuntimeChunkPlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "RuntimeChunkPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/SideEffectsFlagPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "normalModuleFactory",
+        "type": "tap",
+        "plugin": "SideEffectsFlagPlugin"
+      },
+      {
+        "hook": "module",
+        "type": "tap",
+        "plugin": "SideEffectsFlagPlugin"
+      },
+      {
+        "hook": "module",
+        "type": "tap",
+        "plugin": "SideEffectsFlagPlugin"
+      },
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "SideEffectsFlagPlugin"
+      },
+      {
+        "hook": "optimizeDependencies",
+        "type": "tap",
+        "plugin": "SideEffectsFlagPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/optimize/SplitChunksPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "SplitChunksPlugin"
+      },
+      {
+        "hook": "unseal",
+        "type": "tap",
+        "plugin": "SplitChunksPlugin"
+      },
+      {
+        "hook": "optimizeChunksAdvanced",
+        "type": "tap",
+        "plugin": "SplitChunksPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/performance/SizeLimitsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "afterEmit",
+        "type": "tap",
+        "plugin": "SizeLimitsPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/wasm/WasmFinalizeExportsPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "WasmFinalizeExportsPlugin"
+      },
+      {
+        "hook": "finishModules",
+        "type": "tap",
+        "plugin": "WasmFinalizeExportsPlugin"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "hasOwnProperty",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/wasm/WasmMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "localVars",
+        "type": "tap",
+        "plugin": "WasmMainTemplatePlugin"
+      },
+      {
+        "hook": "requireEnsure",
+        "type": "tap",
+        "plugin": "WasmMainTemplatePlugin"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "tap",
+        "plugin": "WasmMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "WasmMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/wasm/WebAssemblyModulesPlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "compilation",
+        "type": "tap",
+        "plugin": "WebAssemblyModulesPlugin"
+      },
+      {
+        "hook": "renderManifest",
+        "type": "tap",
+        "plugin": "WebAssemblyModulesPlugin"
+      },
+      {
+        "hook": "afterChunks",
+        "type": "tap",
+        "plugin": "WebAssemblyModulesPlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/web/FetchCompileWasmTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "FetchCompileWasmTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/web/JsonpChunkTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "JsonpChunkTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "JsonpChunkTemplatePlugin"
+      },
+      {
+        "hook": "hashForChunk",
+        "type": "tap",
+        "plugin": "JsonpChunkTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/web/JsonpExportMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "renderWithEntry",
+        "type": "tap",
+        "plugin": "JsonpExportMainTemplatePlugin"
+      },
+      {
+        "hook": "globalHashPaths",
+        "type": "tap",
+        "plugin": "JsonpExportMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "JsonpExportMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/web/JsonpHotUpdateChunkTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "JsonpHotUpdateChunkTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "JsonpHotUpdateChunkTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/web/JsonpMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "localVars",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "jsonpScript",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "linkPreload",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "linkPrefetch",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "requireEnsure",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin load"
+      },
+      {
+        "hook": "requireExtensions",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "bootstrap",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "beforeStartup",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "beforeStartup",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "startup",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "hotBootstrap",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "JsonpMainTemplatePlugin"
+      }
+    ],
+    "calls": [
+      {
+        "hook": "jsonpScript",
+        "type": "call"
+      },
+      {
+        "hook": "linkPreload",
+        "type": "call"
+      },
+      {
+        "hook": "linkPrefetch",
+        "type": "call"
+      }
+    ]
+  },
+  "lib/web/JsonpTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "JsonpTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/webworker/WebWorkerChunkTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "WebWorkerChunkTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "WebWorkerChunkTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "render",
+        "type": "tap",
+        "plugin": "WebWorkerHotUpdateChunkTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "WebWorkerHotUpdateChunkTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/webworker/WebWorkerMainTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "localVars",
+        "type": "tap",
+        "plugin": "WebWorkerMainTemplatePlugin"
+      },
+      {
+        "hook": "requireEnsure",
+        "type": "tap",
+        "plugin": "WebWorkerMainTemplatePlugin"
+      },
+      {
+        "hook": "bootstrap",
+        "type": "tap",
+        "plugin": "WebWorkerMainTemplatePlugin"
+      },
+      {
+        "hook": "hotBootstrap",
+        "type": "tap",
+        "plugin": "WebWorkerMainTemplatePlugin"
+      },
+      {
+        "hook": "hash",
+        "type": "tap",
+        "plugin": "WebWorkerMainTemplatePlugin"
+      }
+    ],
+    "calls": []
+  },
+  "lib/webworker/WebWorkerTemplatePlugin.js": {
+    "hooks": [],
+    "taps": [
+      {
+        "hook": "thisCompilation",
+        "type": "tap",
+        "plugin": "WebWorkerTemplatePlugin"
+      }
+    ],
+    "calls": []
+  }
+}
