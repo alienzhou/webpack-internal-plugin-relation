@@ -2,1051 +2,1575 @@
   "nodes": [
     {
       "name": "lib/APIPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 0,
       "type": "module",
-      "category": 0
+      "category": 0,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/AmdMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 1,
       "type": "module",
-      "category": 1
+      "category": 1,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/AutomaticPrefetchPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 2,
       "type": "module",
-      "category": 2
+      "category": 2,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/BannerPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 3,
       "type": "module",
-      "category": 3
+      "category": 3,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/CachePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 4,
       "type": "module",
-      "category": 4
+      "category": 4,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ChunkTemplate.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 5,
       "type": "module",
-      "category": 5
+      "category": 5,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/CompatibilityPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 6,
       "type": "module",
-      "category": 6
+      "category": 6,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/Compilation.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 7,
       "type": "module",
-      "category": 7
+      "category": 7,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/Compiler.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 8,
       "type": "module",
-      "category": 8
+      "category": 8,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ConstPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 9,
       "type": "module",
-      "category": 9
+      "category": 9,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ContextExclusionPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 10,
       "type": "module",
-      "category": 10
+      "category": 10,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ContextModuleFactory.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 11,
       "type": "module",
-      "category": 11
+      "category": 11,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ContextReplacementPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 12,
       "type": "module",
-      "category": 12
+      "category": 12,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DefinePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 13,
       "type": "module",
-      "category": 13
+      "category": 13,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DelegatedModuleFactoryPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 14,
       "type": "module",
-      "category": 14
+      "category": 14,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DelegatedPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 15,
       "type": "module",
-      "category": 15
+      "category": 15,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DllEntryPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 16,
       "type": "module",
-      "category": 16
+      "category": 16,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DllPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 17,
       "type": "module",
-      "category": 17
+      "category": 17,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DllReferencePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 18,
       "type": "module",
-      "category": 18
+      "category": 18,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/DynamicEntryPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 19,
       "type": "module",
-      "category": 19
+      "category": 19,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/EntryOptionPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 20,
       "type": "module",
-      "category": 20
+      "category": 20,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/EnvironmentPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 21,
       "type": "module",
-      "category": 21
+      "category": 21,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/EvalDevToolModulePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 22,
       "type": "module",
-      "category": 22
+      "category": 22,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/EvalDevToolModuleTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 23,
       "type": "module",
-      "category": 23
+      "category": 23,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/EvalSourceMapDevToolModuleTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 24,
       "type": "module",
-      "category": 24
+      "category": 24,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/EvalSourceMapDevToolPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 25,
       "type": "module",
-      "category": 25
+      "category": 25,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ExportPropertyMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 26,
       "type": "module",
-      "category": 26
+      "category": 26,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ExtendedAPIPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 27,
       "type": "module",
-      "category": 27
+      "category": 27,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ExternalModuleFactoryPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 28,
       "type": "module",
-      "category": 28
+      "category": 28,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ExternalsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 29,
       "type": "module",
-      "category": 29
+      "category": 29,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/FlagDependencyExportsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 30,
       "type": "module",
-      "category": 30
+      "category": 30,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/FlagDependencyUsagePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 31,
       "type": "module",
-      "category": 31
+      "category": 31,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/FlagInitialModulesAsUsedPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 32,
       "type": "module",
-      "category": 32
+      "category": 32,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/FunctionModulePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 33,
       "type": "module",
-      "category": 33
+      "category": 33,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/FunctionModuleTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 34,
       "type": "module",
-      "category": 34
+      "category": 34,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/HashedModuleIdsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 35,
       "type": "module",
-      "category": 35
+      "category": 35,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/HotModuleReplacement.runtime.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 36,
       "type": "module",
-      "category": 36
+      "category": 36,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/HotModuleReplacementPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 37,
       "type": "module",
-      "category": 37
+      "category": 37,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/HotUpdateChunkTemplate.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 38,
       "type": "module",
-      "category": 38
+      "category": 38,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/IgnorePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 39,
       "type": "module",
-      "category": 39
+      "category": 39,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/JavascriptModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 40,
       "type": "module",
-      "category": 40
+      "category": 40,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/JsonModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 41,
       "type": "module",
-      "category": 41
+      "category": 41,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/LibManifestPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 42,
       "type": "module",
-      "category": 42
+      "category": 42,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/LibraryTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 43,
       "type": "module",
-      "category": 43
+      "category": 43,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/LoaderOptionsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 44,
       "type": "module",
-      "category": 44
+      "category": 44,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/LoaderTargetPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 45,
       "type": "module",
-      "category": 45
+      "category": 45,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/MainTemplate.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 46,
       "type": "module",
-      "category": 46
+      "category": 46,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ModuleTemplate.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 47,
       "type": "module",
-      "category": 47
+      "category": 47,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/MultiCompiler.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 48,
       "type": "module",
-      "category": 48
+      "category": 48,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/MultiEntryPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 49,
       "type": "module",
-      "category": 49
+      "category": 49,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/MultiWatching.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 50,
       "type": "module",
-      "category": 50
+      "category": 50,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NamedChunksPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 51,
       "type": "module",
-      "category": 51
+      "category": 51,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NamedModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 52,
       "type": "module",
-      "category": 52
+      "category": 52,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NoEmitOnErrorsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 53,
       "type": "module",
-      "category": 53
+      "category": 53,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NodeStuffPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 54,
       "type": "module",
-      "category": 54
+      "category": 54,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NormalModule.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 55,
       "type": "module",
-      "category": 55
+      "category": 55,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NormalModuleFactory.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 56,
       "type": "module",
-      "category": 56
+      "category": 56,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/NormalModuleReplacementPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 57,
       "type": "module",
-      "category": 57
+      "category": 57,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/OptionsDefaulter.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 58,
       "type": "module",
-      "category": 58
+      "category": 58,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/Parser.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 59,
       "type": "module",
-      "category": 59
+      "category": 59,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/PrefetchPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 60,
       "type": "module",
-      "category": 60
+      "category": 60,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ProgressPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 61,
       "type": "module",
-      "category": 61
+      "category": 61,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ProvidePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 62,
       "type": "module",
-      "category": 62
+      "category": 62,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/RecordIdsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 63,
       "type": "module",
-      "category": 63
+      "category": 63,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/RequireJsStuffPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 64,
       "type": "module",
-      "category": 64
+      "category": 64,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/ResolverFactory.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 65,
       "type": "module",
-      "category": 65
+      "category": 65,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/SetVarMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 66,
       "type": "module",
-      "category": 66
+      "category": 66,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/SingleEntryPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 67,
       "type": "module",
-      "category": 67
+      "category": 67,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/SourceMapDevToolModuleOptionsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 68,
       "type": "module",
-      "category": 68
+      "category": 68,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/SourceMapDevToolPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 69,
       "type": "module",
-      "category": 69
+      "category": 69,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/TemplatedPathPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 70,
       "type": "module",
-      "category": 70
+      "category": 70,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/UmdMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 71,
       "type": "module",
-      "category": 71
+      "category": 71,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/UseStrictPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 72,
       "type": "module",
-      "category": 72
+      "category": 72,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/WarnCaseSensitiveModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 73,
       "type": "module",
-      "category": 73
+      "category": 73,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/WarnNoModeSetPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 74,
       "type": "module",
-      "category": 74
+      "category": 74,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/WatchIgnorePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 75,
       "type": "module",
-      "category": 75
+      "category": 75,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/Watching.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 76,
       "type": "module",
-      "category": 76
+      "category": 76,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/WebpackOptionsApply.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 77,
       "type": "module",
-      "category": 77
+      "category": 77,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/webpack.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 78,
       "type": "module",
-      "category": 78
+      "category": 78,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/AMDPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 79,
       "type": "module",
-      "category": 79
+      "category": 79,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/CommonJsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 80,
       "type": "module",
-      "category": 80
+      "category": 80,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/HarmonyDetectionParserPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 81,
       "type": "module",
-      "category": 81
+      "category": 81,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 82,
       "type": "module",
-      "category": 82
+      "category": 82,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 83,
       "type": "module",
-      "category": 83
+      "category": 83,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/HarmonyModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 84,
       "type": "module",
-      "category": 84
+      "category": 84,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/ImportParserPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 85,
       "type": "module",
-      "category": 85
+      "category": 85,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/ImportPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 86,
       "type": "module",
-      "category": 86
+      "category": 86,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/LoaderPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 87,
       "type": "module",
-      "category": 87
+      "category": 87,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/RequireContextPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 88,
       "type": "module",
-      "category": 88
+      "category": 88,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/RequireEnsurePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 89,
       "type": "module",
-      "category": 89
+      "category": 89,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/RequireIncludePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 90,
       "type": "module",
-      "category": 90
+      "category": 90,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/dependencies/SystemPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 91,
       "type": "module",
-      "category": 91
+      "category": 91,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/NodeChunkTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 92,
       "type": "module",
-      "category": 92
+      "category": 92,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/NodeEnvironmentPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 93,
       "type": "module",
-      "category": 93
+      "category": 93,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/NodeHotUpdateChunkTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 94,
       "type": "module",
-      "category": 94
+      "category": 94,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/NodeMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 95,
       "type": "module",
-      "category": 95
+      "category": 95,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/NodeSourcePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 96,
       "type": "module",
-      "category": 96
+      "category": 96,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/NodeTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 97,
       "type": "module",
-      "category": 97
+      "category": 97,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/node/ReadFileCompileWasmTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 98,
       "type": "module",
-      "category": 98
+      "category": 98,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/AggressiveMergingPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 99,
       "type": "module",
-      "category": 99
+      "category": 99,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/AggressiveSplittingPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 100,
       "type": "module",
-      "category": 100
+      "category": 100,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/ChunkModuleIdRangePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 101,
       "type": "module",
-      "category": 101
+      "category": 101,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/EnsureChunkConditionsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 102,
       "type": "module",
-      "category": 102
+      "category": 102,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/FlagIncludedChunksPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 103,
       "type": "module",
-      "category": 103
+      "category": 103,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/LimitChunkCountPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 104,
       "type": "module",
-      "category": 104
+      "category": 104,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/MergeDuplicateChunksPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 105,
       "type": "module",
-      "category": 105
+      "category": 105,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/MinChunkSizePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 106,
       "type": "module",
-      "category": 106
+      "category": 106,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/ModuleConcatenationPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 107,
       "type": "module",
-      "category": 107
+      "category": 107,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/NaturalChunkOrderPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 108,
       "type": "module",
-      "category": 108
+      "category": 108,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/OccurrenceChunkOrderPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 109,
       "type": "module",
-      "category": 109
+      "category": 109,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/OccurrenceModuleOrderPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 110,
       "type": "module",
-      "category": 110
+      "category": 110,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/OccurrenceOrderPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 111,
       "type": "module",
-      "category": 111
+      "category": 111,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/RemoveEmptyChunksPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 112,
       "type": "module",
-      "category": 112
+      "category": 112,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/RemoveParentModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 113,
       "type": "module",
-      "category": 113
+      "category": 113,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/RuntimeChunkPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 114,
       "type": "module",
-      "category": 114
+      "category": 114,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/SideEffectsFlagPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 115,
       "type": "module",
-      "category": 115
+      "category": 115,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/optimize/SplitChunksPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 116,
       "type": "module",
-      "category": 116
+      "category": 116,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/performance/SizeLimitsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 117,
       "type": "module",
-      "category": 117
+      "category": 117,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/wasm/WasmFinalizeExportsPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 118,
       "type": "module",
-      "category": 118
+      "category": 118,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/wasm/WasmMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 119,
       "type": "module",
-      "category": 119
+      "category": 119,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/wasm/WebAssemblyModulesPlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 120,
       "type": "module",
-      "category": 120
+      "category": 120,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/web/FetchCompileWasmTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 121,
       "type": "module",
-      "category": 121
+      "category": 121,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/web/JsonpChunkTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 122,
       "type": "module",
-      "category": 122
+      "category": 122,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/web/JsonpExportMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 123,
       "type": "module",
-      "category": 123
+      "category": 123,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/web/JsonpHotUpdateChunkTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 124,
       "type": "module",
-      "category": 124
+      "category": 124,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/web/JsonpMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 125,
       "type": "module",
-      "category": 125
+      "category": 125,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/web/JsonpTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 126,
       "type": "module",
-      "category": 126
+      "category": 126,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/webworker/WebWorkerChunkTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 127,
       "type": "module",
-      "category": 127
+      "category": 127,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 128,
       "type": "module",
-      "category": 128
+      "category": 128,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/webworker/WebWorkerMainTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 129,
       "type": "module",
-      "category": 129
+      "category": 129,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "lib/webworker/WebWorkerTemplatePlugin.js",
-      "value": 13,
-      "color": "#E6F2E1",
+      "value": 14,
+      "color": "#d9eff4",
       "id": 130,
       "type": "module",
-      "category": 130
+      "category": 130,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "renderManifest",
@@ -1054,7 +1578,11 @@
       "color": "#F1DAF0",
       "id": 131,
       "type": "hook",
-      "category": 131
+      "category": 131,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "modules",
@@ -1062,7 +1590,11 @@
       "color": "#F1DAF0",
       "id": 132,
       "type": "hook",
-      "category": 132
+      "category": 132,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "render",
@@ -1070,7 +1602,11 @@
       "color": "#F1DAF0",
       "id": 133,
       "type": "hook",
-      "category": 133
+      "category": 133,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "renderWithEntry",
@@ -1078,7 +1614,11 @@
       "color": "#F1DAF0",
       "id": 134,
       "type": "hook",
-      "category": 134
+      "category": 134,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hash",
@@ -1086,7 +1626,11 @@
       "color": "#F1DAF0",
       "id": 135,
       "type": "hook",
-      "category": 135
+      "category": 135,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hashForChunk",
@@ -1094,7 +1638,11 @@
       "color": "#F1DAF0",
       "id": 136,
       "type": "hook",
-      "category": 136
+      "category": 136,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "buildModule",
@@ -1102,7 +1650,11 @@
       "color": "#F1DAF0",
       "id": 137,
       "type": "hook",
-      "category": 137
+      "category": 137,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "rebuildModule",
@@ -1110,7 +1662,11 @@
       "color": "#F1DAF0",
       "id": 138,
       "type": "hook",
-      "category": 138
+      "category": 138,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "failedModule",
@@ -1118,7 +1674,11 @@
       "color": "#F1DAF0",
       "id": 139,
       "type": "hook",
-      "category": 139
+      "category": 139,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "succeedModule",
@@ -1126,7 +1686,11 @@
       "color": "#F1DAF0",
       "id": 140,
       "type": "hook",
-      "category": 140
+      "category": 140,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "dependencyReference",
@@ -1134,7 +1698,11 @@
       "color": "#F1DAF0",
       "id": 141,
       "type": "hook",
-      "category": 141
+      "category": 141,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "finishModules",
@@ -1142,7 +1710,11 @@
       "color": "#F1DAF0",
       "id": 142,
       "type": "hook",
-      "category": 142
+      "category": 142,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "finishRebuildingModule",
@@ -1150,7 +1722,11 @@
       "color": "#F1DAF0",
       "id": 143,
       "type": "hook",
-      "category": 143
+      "category": 143,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "unseal",
@@ -1158,7 +1734,11 @@
       "color": "#F1DAF0",
       "id": 144,
       "type": "hook",
-      "category": 144
+      "category": 144,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "seal",
@@ -1166,7 +1746,11 @@
       "color": "#F1DAF0",
       "id": 145,
       "type": "hook",
-      "category": 145
+      "category": 145,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeChunks",
@@ -1174,7 +1758,11 @@
       "color": "#F1DAF0",
       "id": 146,
       "type": "hook",
-      "category": 146
+      "category": 146,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterChunks",
@@ -1182,7 +1770,11 @@
       "color": "#F1DAF0",
       "id": 147,
       "type": "hook",
-      "category": 147
+      "category": 147,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeDependenciesBasic",
@@ -1190,7 +1782,11 @@
       "color": "#F1DAF0",
       "id": 148,
       "type": "hook",
-      "category": 148
+      "category": 148,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeDependencies",
@@ -1198,7 +1794,11 @@
       "color": "#F1DAF0",
       "id": 149,
       "type": "hook",
-      "category": 149
+      "category": 149,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeDependenciesAdvanced",
@@ -1206,7 +1806,11 @@
       "color": "#F1DAF0",
       "id": 150,
       "type": "hook",
-      "category": 150
+      "category": 150,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeDependencies",
@@ -1214,7 +1818,11 @@
       "color": "#F1DAF0",
       "id": 151,
       "type": "hook",
-      "category": 151
+      "category": 151,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimize",
@@ -1222,7 +1830,11 @@
       "color": "#F1DAF0",
       "id": 152,
       "type": "hook",
-      "category": 152
+      "category": 152,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeModulesBasic",
@@ -1230,7 +1842,11 @@
       "color": "#F1DAF0",
       "id": 153,
       "type": "hook",
-      "category": 153
+      "category": 153,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeModules",
@@ -1238,7 +1854,11 @@
       "color": "#F1DAF0",
       "id": 154,
       "type": "hook",
-      "category": 154
+      "category": 154,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeModulesAdvanced",
@@ -1246,7 +1866,11 @@
       "color": "#F1DAF0",
       "id": 155,
       "type": "hook",
-      "category": 155
+      "category": 155,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeModules",
@@ -1254,7 +1878,11 @@
       "color": "#F1DAF0",
       "id": 156,
       "type": "hook",
-      "category": 156
+      "category": 156,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunksBasic",
@@ -1262,7 +1890,11 @@
       "color": "#F1DAF0",
       "id": 157,
       "type": "hook",
-      "category": 157
+      "category": 157,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunks",
@@ -1270,7 +1902,11 @@
       "color": "#F1DAF0",
       "id": 158,
       "type": "hook",
-      "category": 158
+      "category": 158,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunksAdvanced",
@@ -1278,7 +1914,11 @@
       "color": "#F1DAF0",
       "id": 159,
       "type": "hook",
-      "category": 159
+      "category": 159,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeChunks",
@@ -1286,7 +1926,11 @@
       "color": "#F1DAF0",
       "id": 160,
       "type": "hook",
-      "category": 160
+      "category": 160,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeTree",
@@ -1294,7 +1938,11 @@
       "color": "#F1DAF0",
       "id": 161,
       "type": "hook",
-      "category": 161
+      "category": 161,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeTree",
@@ -1302,7 +1950,11 @@
       "color": "#F1DAF0",
       "id": 162,
       "type": "hook",
-      "category": 162
+      "category": 162,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunkModulesBasic",
@@ -1310,7 +1962,11 @@
       "color": "#F1DAF0",
       "id": 163,
       "type": "hook",
-      "category": 163
+      "category": 163,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunkModules",
@@ -1318,7 +1974,11 @@
       "color": "#F1DAF0",
       "id": 164,
       "type": "hook",
-      "category": 164
+      "category": 164,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunkModulesAdvanced",
@@ -1326,7 +1986,11 @@
       "color": "#F1DAF0",
       "id": 165,
       "type": "hook",
-      "category": 165
+      "category": 165,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeChunkModules",
@@ -1334,7 +1998,11 @@
       "color": "#F1DAF0",
       "id": 166,
       "type": "hook",
-      "category": 166
+      "category": 166,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "shouldRecord",
@@ -1342,7 +2010,11 @@
       "color": "#F1DAF0",
       "id": 167,
       "type": "hook",
-      "category": 167
+      "category": 167,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "reviveModules",
@@ -1350,7 +2022,11 @@
       "color": "#F1DAF0",
       "id": 168,
       "type": "hook",
-      "category": 168
+      "category": 168,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeModuleOrder",
@@ -1358,7 +2034,11 @@
       "color": "#F1DAF0",
       "id": 169,
       "type": "hook",
-      "category": 169
+      "category": 169,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "advancedOptimizeModuleOrder",
@@ -1366,7 +2046,11 @@
       "color": "#F1DAF0",
       "id": 170,
       "type": "hook",
-      "category": 170
+      "category": 170,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeModuleIds",
@@ -1374,7 +2058,11 @@
       "color": "#F1DAF0",
       "id": 171,
       "type": "hook",
-      "category": 171
+      "category": 171,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "moduleIds",
@@ -1382,7 +2070,11 @@
       "color": "#F1DAF0",
       "id": 172,
       "type": "hook",
-      "category": 172
+      "category": 172,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeModuleIds",
@@ -1390,7 +2082,11 @@
       "color": "#F1DAF0",
       "id": 173,
       "type": "hook",
-      "category": 173
+      "category": 173,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeModuleIds",
@@ -1398,7 +2094,11 @@
       "color": "#F1DAF0",
       "id": 174,
       "type": "hook",
-      "category": 174
+      "category": 174,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "reviveChunks",
@@ -1406,7 +2106,11 @@
       "color": "#F1DAF0",
       "id": 175,
       "type": "hook",
-      "category": 175
+      "category": 175,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunkOrder",
@@ -1414,7 +2118,11 @@
       "color": "#F1DAF0",
       "id": 176,
       "type": "hook",
-      "category": 176
+      "category": 176,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeChunkIds",
@@ -1422,7 +2130,11 @@
       "color": "#F1DAF0",
       "id": 177,
       "type": "hook",
-      "category": 177
+      "category": 177,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunkIds",
@@ -1430,7 +2142,11 @@
       "color": "#F1DAF0",
       "id": 178,
       "type": "hook",
-      "category": 178
+      "category": 178,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeChunkIds",
@@ -1438,7 +2154,11 @@
       "color": "#F1DAF0",
       "id": 179,
       "type": "hook",
-      "category": 179
+      "category": 179,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "recordModules",
@@ -1446,7 +2166,11 @@
       "color": "#F1DAF0",
       "id": 180,
       "type": "hook",
-      "category": 180
+      "category": 180,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "recordChunks",
@@ -1454,7 +2178,11 @@
       "color": "#F1DAF0",
       "id": 181,
       "type": "hook",
-      "category": 181
+      "category": 181,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeHash",
@@ -1462,7 +2190,11 @@
       "color": "#F1DAF0",
       "id": 182,
       "type": "hook",
-      "category": 182
+      "category": 182,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "contentHash",
@@ -1470,7 +2202,11 @@
       "color": "#F1DAF0",
       "id": 183,
       "type": "hook",
-      "category": 183
+      "category": 183,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterHash",
@@ -1478,7 +2214,11 @@
       "color": "#F1DAF0",
       "id": 184,
       "type": "hook",
-      "category": 184
+      "category": 184,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "recordHash",
@@ -1486,7 +2226,11 @@
       "color": "#F1DAF0",
       "id": 185,
       "type": "hook",
-      "category": 185
+      "category": 185,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "record",
@@ -1494,7 +2238,11 @@
       "color": "#F1DAF0",
       "id": 186,
       "type": "hook",
-      "category": 186
+      "category": 186,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeModuleAssets",
@@ -1502,7 +2250,11 @@
       "color": "#F1DAF0",
       "id": 187,
       "type": "hook",
-      "category": 187
+      "category": 187,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "shouldGenerateChunkAssets",
@@ -1510,7 +2262,11 @@
       "color": "#F1DAF0",
       "id": 188,
       "type": "hook",
-      "category": 188
+      "category": 188,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeChunkAssets",
@@ -1518,7 +2274,11 @@
       "color": "#F1DAF0",
       "id": 189,
       "type": "hook",
-      "category": 189
+      "category": 189,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "additionalChunkAssets",
@@ -1526,7 +2286,11 @@
       "color": "#F1DAF0",
       "id": 190,
       "type": "hook",
-      "category": 190
+      "category": 190,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "additionalAssets",
@@ -1534,7 +2298,11 @@
       "color": "#F1DAF0",
       "id": 191,
       "type": "hook",
-      "category": 191
+      "category": 191,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeChunkAssets",
@@ -1542,7 +2310,11 @@
       "color": "#F1DAF0",
       "id": 192,
       "type": "hook",
-      "category": 192
+      "category": 192,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeChunkAssets",
@@ -1550,7 +2322,11 @@
       "color": "#F1DAF0",
       "id": 193,
       "type": "hook",
-      "category": 193
+      "category": 193,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeAssets",
@@ -1558,7 +2334,11 @@
       "color": "#F1DAF0",
       "id": 194,
       "type": "hook",
-      "category": 194
+      "category": 194,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeAssets",
@@ -1566,7 +2346,11 @@
       "color": "#F1DAF0",
       "id": 195,
       "type": "hook",
-      "category": 195
+      "category": 195,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "needAdditionalSeal",
@@ -1574,7 +2358,11 @@
       "color": "#F1DAF0",
       "id": 196,
       "type": "hook",
-      "category": 196
+      "category": 196,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterSeal",
@@ -1582,7 +2370,11 @@
       "color": "#F1DAF0",
       "id": 197,
       "type": "hook",
-      "category": 197
+      "category": 197,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "chunkHash",
@@ -1590,7 +2382,11 @@
       "color": "#F1DAF0",
       "id": 198,
       "type": "hook",
-      "category": 198
+      "category": 198,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "moduleAsset",
@@ -1598,7 +2394,11 @@
       "color": "#F1DAF0",
       "id": 199,
       "type": "hook",
-      "category": 199
+      "category": 199,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "chunkAsset",
@@ -1606,7 +2406,11 @@
       "color": "#F1DAF0",
       "id": 200,
       "type": "hook",
-      "category": 200
+      "category": 200,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "assetPath",
@@ -1614,7 +2418,11 @@
       "color": "#F1DAF0",
       "id": 201,
       "type": "hook",
-      "category": 201
+      "category": 201,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "needAdditionalPass",
@@ -1622,7 +2430,11 @@
       "color": "#F1DAF0",
       "id": 202,
       "type": "hook",
-      "category": 202
+      "category": 202,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "childCompiler",
@@ -1630,7 +2442,11 @@
       "color": "#F1DAF0",
       "id": 203,
       "type": "hook",
-      "category": 203
+      "category": 203,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "normalModuleLoader",
@@ -1638,7 +2454,11 @@
       "color": "#F1DAF0",
       "id": 204,
       "type": "hook",
-      "category": 204
+      "category": 204,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeExtractedChunksBasic",
@@ -1646,7 +2466,11 @@
       "color": "#F1DAF0",
       "id": 205,
       "type": "hook",
-      "category": 205
+      "category": 205,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeExtractedChunks",
@@ -1654,7 +2478,11 @@
       "color": "#F1DAF0",
       "id": 206,
       "type": "hook",
-      "category": 206
+      "category": 206,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "optimizeExtractedChunksAdvanced",
@@ -1662,7 +2490,11 @@
       "color": "#F1DAF0",
       "id": 207,
       "type": "hook",
-      "category": 207
+      "category": 207,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterOptimizeExtractedChunks",
@@ -1670,7 +2502,11 @@
       "color": "#F1DAF0",
       "id": 208,
       "type": "hook",
-      "category": 208
+      "category": 208,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "shouldEmit",
@@ -1678,7 +2514,11 @@
       "color": "#F1DAF0",
       "id": 209,
       "type": "hook",
-      "category": 209
+      "category": 209,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "done",
@@ -1686,7 +2526,11 @@
       "color": "#F1DAF0",
       "id": 210,
       "type": "hook",
-      "category": 210
+      "category": 210,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "additionalPass",
@@ -1694,7 +2538,11 @@
       "color": "#F1DAF0",
       "id": 211,
       "type": "hook",
-      "category": 211
+      "category": 211,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeRun",
@@ -1702,7 +2550,11 @@
       "color": "#F1DAF0",
       "id": 212,
       "type": "hook",
-      "category": 212
+      "category": 212,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "run",
@@ -1710,7 +2562,11 @@
       "color": "#F1DAF0",
       "id": 213,
       "type": "hook",
-      "category": 213
+      "category": 213,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "emit",
@@ -1718,7 +2574,11 @@
       "color": "#F1DAF0",
       "id": 214,
       "type": "hook",
-      "category": 214
+      "category": 214,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterEmit",
@@ -1726,7 +2586,11 @@
       "color": "#F1DAF0",
       "id": 215,
       "type": "hook",
-      "category": 215
+      "category": 215,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "thisCompilation",
@@ -1734,7 +2598,11 @@
       "color": "#F1DAF0",
       "id": 216,
       "type": "hook",
-      "category": 216
+      "category": 216,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "compilation",
@@ -1742,7 +2610,11 @@
       "color": "#F1DAF0",
       "id": 217,
       "type": "hook",
-      "category": 217
+      "category": 217,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "normalModuleFactory",
@@ -1750,7 +2622,11 @@
       "color": "#F1DAF0",
       "id": 218,
       "type": "hook",
-      "category": 218
+      "category": 218,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "contextModuleFactory",
@@ -1758,7 +2634,11 @@
       "color": "#F1DAF0",
       "id": 219,
       "type": "hook",
-      "category": 219
+      "category": 219,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeCompile",
@@ -1766,7 +2646,11 @@
       "color": "#F1DAF0",
       "id": 220,
       "type": "hook",
-      "category": 220
+      "category": 220,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "compile",
@@ -1774,7 +2658,11 @@
       "color": "#F1DAF0",
       "id": 221,
       "type": "hook",
-      "category": 221
+      "category": 221,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "make",
@@ -1782,7 +2670,11 @@
       "color": "#F1DAF0",
       "id": 222,
       "type": "hook",
-      "category": 222
+      "category": 222,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterCompile",
@@ -1790,7 +2682,11 @@
       "color": "#F1DAF0",
       "id": 223,
       "type": "hook",
-      "category": 223
+      "category": 223,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "watchRun",
@@ -1798,7 +2694,11 @@
       "color": "#F1DAF0",
       "id": 224,
       "type": "hook",
-      "category": 224
+      "category": 224,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "failed",
@@ -1806,7 +2706,11 @@
       "color": "#F1DAF0",
       "id": 225,
       "type": "hook",
-      "category": 225
+      "category": 225,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "invalid",
@@ -1814,7 +2718,11 @@
       "color": "#F1DAF0",
       "id": 226,
       "type": "hook",
-      "category": 226
+      "category": 226,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "watchClose",
@@ -1822,7 +2730,11 @@
       "color": "#F1DAF0",
       "id": 227,
       "type": "hook",
-      "category": 227
+      "category": 227,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "environment",
@@ -1830,7 +2742,11 @@
       "color": "#F1DAF0",
       "id": 228,
       "type": "hook",
-      "category": 228
+      "category": 228,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterEnvironment",
@@ -1838,7 +2754,11 @@
       "color": "#F1DAF0",
       "id": 229,
       "type": "hook",
-      "category": 229
+      "category": 229,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterPlugins",
@@ -1846,7 +2766,11 @@
       "color": "#F1DAF0",
       "id": 230,
       "type": "hook",
-      "category": 230
+      "category": 230,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterResolvers",
@@ -1854,7 +2778,11 @@
       "color": "#F1DAF0",
       "id": 231,
       "type": "hook",
-      "category": 231
+      "category": 231,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "entryOption",
@@ -1862,7 +2790,11 @@
       "color": "#F1DAF0",
       "id": 232,
       "type": "hook",
-      "category": 232
+      "category": 232,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeResolve",
@@ -1870,7 +2802,11 @@
       "color": "#F1DAF0",
       "id": 233,
       "type": "hook",
-      "category": 233
+      "category": 233,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterResolve",
@@ -1878,7 +2814,11 @@
       "color": "#F1DAF0",
       "id": 234,
       "type": "hook",
-      "category": 234
+      "category": 234,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "contextModuleFiles",
@@ -1886,7 +2826,11 @@
       "color": "#F1DAF0",
       "id": 235,
       "type": "hook",
-      "category": 235
+      "category": 235,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "alternatives",
@@ -1894,7 +2838,11 @@
       "color": "#F1DAF0",
       "id": 236,
       "type": "hook",
-      "category": 236
+      "category": 236,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "modules",
@@ -1902,7 +2850,11 @@
       "color": "#F1DAF0",
       "id": 237,
       "type": "hook",
-      "category": 237
+      "category": 237,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "render",
@@ -1910,7 +2862,11 @@
       "color": "#F1DAF0",
       "id": 238,
       "type": "hook",
-      "category": 238
+      "category": 238,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hash",
@@ -1918,7 +2874,11 @@
       "color": "#F1DAF0",
       "id": 239,
       "type": "hook",
-      "category": 239
+      "category": 239,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "renderManifest",
@@ -1926,7 +2886,11 @@
       "color": "#F1DAF0",
       "id": 240,
       "type": "hook",
-      "category": 240
+      "category": 240,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "modules",
@@ -1934,7 +2898,11 @@
       "color": "#F1DAF0",
       "id": 241,
       "type": "hook",
-      "category": 241
+      "category": 241,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "moduleObj",
@@ -1942,7 +2910,11 @@
       "color": "#F1DAF0",
       "id": 242,
       "type": "hook",
-      "category": 242
+      "category": 242,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "requireEnsure",
@@ -1950,7 +2922,11 @@
       "color": "#F1DAF0",
       "id": 243,
       "type": "hook",
-      "category": 243
+      "category": 243,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "bootstrap",
@@ -1958,7 +2934,11 @@
       "color": "#F1DAF0",
       "id": 244,
       "type": "hook",
-      "category": 244
+      "category": 244,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "localVars",
@@ -1966,7 +2946,11 @@
       "color": "#F1DAF0",
       "id": 245,
       "type": "hook",
-      "category": 245
+      "category": 245,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "require",
@@ -1974,7 +2958,11 @@
       "color": "#F1DAF0",
       "id": 246,
       "type": "hook",
-      "category": 246
+      "category": 246,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "requireExtensions",
@@ -1982,7 +2970,11 @@
       "color": "#F1DAF0",
       "id": 247,
       "type": "hook",
-      "category": 247
+      "category": 247,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeStartup",
@@ -1990,7 +2982,11 @@
       "color": "#F1DAF0",
       "id": 248,
       "type": "hook",
-      "category": 248
+      "category": 248,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "startup",
@@ -1998,7 +2994,11 @@
       "color": "#F1DAF0",
       "id": 249,
       "type": "hook",
-      "category": 249
+      "category": 249,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "render",
@@ -2006,7 +3006,11 @@
       "color": "#F1DAF0",
       "id": 250,
       "type": "hook",
-      "category": 250
+      "category": 250,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "renderWithEntry",
@@ -2014,7 +3018,11 @@
       "color": "#F1DAF0",
       "id": 251,
       "type": "hook",
-      "category": 251
+      "category": 251,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "moduleRequire",
@@ -2022,7 +3030,11 @@
       "color": "#F1DAF0",
       "id": 252,
       "type": "hook",
-      "category": 252
+      "category": 252,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "addModule",
@@ -2030,7 +3042,11 @@
       "color": "#F1DAF0",
       "id": 253,
       "type": "hook",
-      "category": 253
+      "category": 253,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "currentHash",
@@ -2038,7 +3054,11 @@
       "color": "#F1DAF0",
       "id": 254,
       "type": "hook",
-      "category": 254
+      "category": 254,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "assetPath",
@@ -2046,7 +3066,11 @@
       "color": "#F1DAF0",
       "id": 255,
       "type": "hook",
-      "category": 255
+      "category": 255,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hash",
@@ -2054,7 +3078,11 @@
       "color": "#F1DAF0",
       "id": 256,
       "type": "hook",
-      "category": 256
+      "category": 256,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hashForChunk",
@@ -2062,7 +3090,11 @@
       "color": "#F1DAF0",
       "id": 257,
       "type": "hook",
-      "category": 257
+      "category": 257,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "globalHashPaths",
@@ -2070,7 +3102,11 @@
       "color": "#F1DAF0",
       "id": 258,
       "type": "hook",
-      "category": 258
+      "category": 258,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "globalHash",
@@ -2078,7 +3114,11 @@
       "color": "#F1DAF0",
       "id": 259,
       "type": "hook",
-      "category": 259
+      "category": 259,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hotBootstrap",
@@ -2086,7 +3126,11 @@
       "color": "#F1DAF0",
       "id": 260,
       "type": "hook",
-      "category": 260
+      "category": 260,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "content",
@@ -2094,7 +3138,11 @@
       "color": "#F1DAF0",
       "id": 261,
       "type": "hook",
-      "category": 261
+      "category": 261,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "module",
@@ -2102,7 +3150,11 @@
       "color": "#F1DAF0",
       "id": 262,
       "type": "hook",
-      "category": 262
+      "category": 262,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "render",
@@ -2110,7 +3162,11 @@
       "color": "#F1DAF0",
       "id": 263,
       "type": "hook",
-      "category": 263
+      "category": 263,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "package",
@@ -2118,7 +3174,11 @@
       "color": "#F1DAF0",
       "id": 264,
       "type": "hook",
-      "category": 264
+      "category": 264,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "hash",
@@ -2126,7 +3186,11 @@
       "color": "#F1DAF0",
       "id": 265,
       "type": "hook",
-      "category": 265
+      "category": 265,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "done",
@@ -2134,7 +3198,11 @@
       "color": "#F1DAF0",
       "id": 266,
       "type": "hook",
-      "category": 266
+      "category": 266,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "invalid",
@@ -2142,7 +3210,11 @@
       "color": "#F1DAF0",
       "id": 267,
       "type": "hook",
-      "category": 267
+      "category": 267,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "run",
@@ -2150,7 +3222,11 @@
       "color": "#F1DAF0",
       "id": 268,
       "type": "hook",
-      "category": 268
+      "category": 268,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "watchClose",
@@ -2158,7 +3234,11 @@
       "color": "#F1DAF0",
       "id": 269,
       "type": "hook",
-      "category": 269
+      "category": 269,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "watchRun",
@@ -2166,7 +3246,11 @@
       "color": "#F1DAF0",
       "id": 270,
       "type": "hook",
-      "category": 270
+      "category": 270,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "resolver",
@@ -2174,7 +3258,11 @@
       "color": "#F1DAF0",
       "id": 271,
       "type": "hook",
-      "category": 271
+      "category": 271,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "factory",
@@ -2182,7 +3270,11 @@
       "color": "#F1DAF0",
       "id": 272,
       "type": "hook",
-      "category": 272
+      "category": 272,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "beforeResolve",
@@ -2190,7 +3282,11 @@
       "color": "#F1DAF0",
       "id": 273,
       "type": "hook",
-      "category": 273
+      "category": 273,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "afterResolve",
@@ -2198,7 +3294,11 @@
       "color": "#F1DAF0",
       "id": 274,
       "type": "hook",
-      "category": 274
+      "category": 274,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "createModule",
@@ -2206,7 +3306,11 @@
       "color": "#F1DAF0",
       "id": 275,
       "type": "hook",
-      "category": 275
+      "category": 275,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "module",
@@ -2214,7 +3318,11 @@
       "color": "#F1DAF0",
       "id": 276,
       "type": "hook",
-      "category": 276
+      "category": 276,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "createParser",
@@ -2222,7 +3330,11 @@
       "color": "#F1DAF0",
       "id": 277,
       "type": "hook",
-      "category": 277
+      "category": 277,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "parser",
@@ -2230,7 +3342,11 @@
       "color": "#F1DAF0",
       "id": 278,
       "type": "hook",
-      "category": 278
+      "category": 278,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "createGenerator",
@@ -2238,7 +3354,11 @@
       "color": "#F1DAF0",
       "id": 279,
       "type": "hook",
-      "category": 279
+      "category": 279,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "generator",
@@ -2246,7 +3366,11 @@
       "color": "#F1DAF0",
       "id": 280,
       "type": "hook",
-      "category": 280
+      "category": 280,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "evaluateTypeof",
@@ -2254,7 +3378,11 @@
       "color": "#F1DAF0",
       "id": 281,
       "type": "hook",
-      "category": 281
+      "category": 281,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "evaluate",
@@ -2262,7 +3390,11 @@
       "color": "#F1DAF0",
       "id": 282,
       "type": "hook",
-      "category": 282
+      "category": 282,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "evaluateIdentifier",
@@ -2270,7 +3402,11 @@
       "color": "#F1DAF0",
       "id": 283,
       "type": "hook",
-      "category": 283
+      "category": 283,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "evaluateDefinedIdentifier",
@@ -2278,7 +3414,11 @@
       "color": "#F1DAF0",
       "id": 284,
       "type": "hook",
-      "category": 284
+      "category": 284,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "evaluateCallExpressionMember",
@@ -2286,7 +3426,11 @@
       "color": "#F1DAF0",
       "id": 285,
       "type": "hook",
-      "category": 285
+      "category": 285,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "statement",
@@ -2294,7 +3438,11 @@
       "color": "#F1DAF0",
       "id": 286,
       "type": "hook",
-      "category": 286
+      "category": 286,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "statementIf",
@@ -2302,7 +3450,11 @@
       "color": "#F1DAF0",
       "id": 287,
       "type": "hook",
-      "category": 287
+      "category": 287,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "label",
@@ -2310,7 +3462,11 @@
       "color": "#F1DAF0",
       "id": 288,
       "type": "hook",
-      "category": 288
+      "category": 288,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "import",
@@ -2318,7 +3474,11 @@
       "color": "#F1DAF0",
       "id": 289,
       "type": "hook",
-      "category": 289
+      "category": 289,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "importSpecifier",
@@ -2326,7 +3486,11 @@
       "color": "#F1DAF0",
       "id": 290,
       "type": "hook",
-      "category": 290
+      "category": 290,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "export",
@@ -2334,7 +3498,11 @@
       "color": "#F1DAF0",
       "id": 291,
       "type": "hook",
-      "category": 291
+      "category": 291,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "exportImport",
@@ -2342,7 +3510,11 @@
       "color": "#F1DAF0",
       "id": 292,
       "type": "hook",
-      "category": 292
+      "category": 292,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "exportDeclaration",
@@ -2350,7 +3522,11 @@
       "color": "#F1DAF0",
       "id": 293,
       "type": "hook",
-      "category": 293
+      "category": 293,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "exportExpression",
@@ -2358,7 +3534,11 @@
       "color": "#F1DAF0",
       "id": 294,
       "type": "hook",
-      "category": 294
+      "category": 294,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "exportSpecifier",
@@ -2366,7 +3546,11 @@
       "color": "#F1DAF0",
       "id": 295,
       "type": "hook",
-      "category": 295
+      "category": 295,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "exportImportSpecifier",
@@ -2374,7 +3558,11 @@
       "color": "#F1DAF0",
       "id": 296,
       "type": "hook",
-      "category": 296
+      "category": 296,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "varDeclaration",
@@ -2382,7 +3570,11 @@
       "color": "#F1DAF0",
       "id": 297,
       "type": "hook",
-      "category": 297
+      "category": 297,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "varDeclarationLet",
@@ -2390,7 +3582,11 @@
       "color": "#F1DAF0",
       "id": 298,
       "type": "hook",
-      "category": 298
+      "category": 298,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "varDeclarationConst",
@@ -2398,7 +3594,11 @@
       "color": "#F1DAF0",
       "id": 299,
       "type": "hook",
-      "category": 299
+      "category": 299,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "varDeclarationVar",
@@ -2406,7 +3606,11 @@
       "color": "#F1DAF0",
       "id": 300,
       "type": "hook",
-      "category": 300
+      "category": 300,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "canRename",
@@ -2414,7 +3618,11 @@
       "color": "#F1DAF0",
       "id": 301,
       "type": "hook",
-      "category": 301
+      "category": 301,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "rename",
@@ -2422,7 +3630,11 @@
       "color": "#F1DAF0",
       "id": 302,
       "type": "hook",
-      "category": 302
+      "category": 302,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "assigned",
@@ -2430,7 +3642,11 @@
       "color": "#F1DAF0",
       "id": 303,
       "type": "hook",
-      "category": 303
+      "category": 303,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "assign",
@@ -2438,7 +3654,11 @@
       "color": "#F1DAF0",
       "id": 304,
       "type": "hook",
-      "category": 304
+      "category": 304,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "typeof",
@@ -2446,7 +3666,11 @@
       "color": "#F1DAF0",
       "id": 305,
       "type": "hook",
-      "category": 305
+      "category": 305,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "importCall",
@@ -2454,7 +3678,11 @@
       "color": "#F1DAF0",
       "id": 306,
       "type": "hook",
-      "category": 306
+      "category": 306,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "call",
@@ -2462,7 +3690,11 @@
       "color": "#F1DAF0",
       "id": 307,
       "type": "hook",
-      "category": 307
+      "category": 307,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "callAnyMember",
@@ -2470,7 +3702,11 @@
       "color": "#F1DAF0",
       "id": 308,
       "type": "hook",
-      "category": 308
+      "category": 308,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "new",
@@ -2478,7 +3714,11 @@
       "color": "#F1DAF0",
       "id": 309,
       "type": "hook",
-      "category": 309
+      "category": 309,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "expression",
@@ -2486,7 +3726,11 @@
       "color": "#F1DAF0",
       "id": 310,
       "type": "hook",
-      "category": 310
+      "category": 310,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "expressionAnyMember",
@@ -2494,7 +3738,11 @@
       "color": "#F1DAF0",
       "id": 311,
       "type": "hook",
-      "category": 311
+      "category": 311,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "expressionConditionalOperator",
@@ -2502,7 +3750,11 @@
       "color": "#F1DAF0",
       "id": 312,
       "type": "hook",
-      "category": 312
+      "category": 312,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "program",
@@ -2510,7 +3762,11 @@
       "color": "#F1DAF0",
       "id": 313,
       "type": "hook",
-      "category": 313
+      "category": 313,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "resolveOptions",
@@ -2518,7 +3774,11 @@
       "color": "#F1DAF0",
       "id": 314,
       "type": "hook",
-      "category": 314
+      "category": 314,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     },
     {
       "name": "resolver",
@@ -2526,7 +3786,11 @@
       "color": "#F1DAF0",
       "id": 315,
       "type": "hook",
-      "category": 315
+      "category": 315,
+      "itemStyle": {
+        "borderWidth": 1,
+        "borderColor": "rgba(34, 34, 34, .2)"
+      }
     }
   ],
   "links": [

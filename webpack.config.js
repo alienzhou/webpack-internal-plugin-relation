@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const event = process.env.npm_lifecycle_event;
 const isProd = event === 'build';
 
@@ -10,10 +11,31 @@ const config = {
         path: path.resolve(__dirname, './dist'),
         filename: 'bundle.js'
     },
-    plugins: [new HtmlWebpackPlugin({
-        filename: 'index.html',
-        template: './static/index.html'
-    })]
+    module: {
+        rules: [{
+            test: /\.less$/,
+            use: [
+                {
+                    loader: MiniCssExtractPlugin.loader,
+                    options: {
+                      publicPath: '../'
+                    }
+                },
+                'css-loader',
+                'less-loader'
+            ]
+        }]
+    },
+    plugins: [
+        new HtmlWebpackPlugin({
+            filename: 'index.html',
+            template: './static/index.html'
+        }),
+        new MiniCssExtractPlugin({
+            filename: '[name].css',
+            chunkFilename: '[id].css'
+        })
+    ]
 };
 
 if (!isProd) {

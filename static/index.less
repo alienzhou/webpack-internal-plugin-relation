@@ -1,0 +1,147 @@
+html {
+    height: 100%;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #222;
+    color: #f2f2f2;
+    height: 100%;
+    margin: 0;
+}
+.title {
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    margin: 0;
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+    color: #f2f2f2;
+    text-transform: Capitalize;
+}
+.main {
+    height: 100%;
+}
+.tooltip {
+    position: fixed;
+    top: 140px;
+    left: 120px;
+
+    div {
+        height: 30px;
+        width: 40px;
+        position: relative;
+        &::after {
+            font-size: 14px;
+            position: absolute;
+            top: 16px;
+            left: 50px;
+        }
+    }
+
+    .contain::after {
+        content: 'contain';
+        font-size: 14px;
+    }
+
+    .register::after {
+        content: 'register';
+        font-size: 14px;
+    }
+
+    .call::after {
+        content: 'call';
+        font-size: 14px;
+    }
+}
+
+.category {
+    position: fixed;
+    top: 80px;
+    left: 120px;
+
+    div {
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        position: relative;
+
+        &::after {
+            font-size: 14px;
+            position: absolute;
+            top: -4px;
+            left: 20px;
+            width: 200px;
+        }
+    }
+
+    .hook {
+        margin-top: 15px;
+    }
+
+    .module::after {
+        content: 'javascript module';
+    }
+    .hook::after {
+        content: 'webpack hook';
+    }
+}
+
+.operation {
+    position: fixed;
+    bottom: 20px;
+    right: 27px;
+
+    &-btn {
+        border: none;
+        float: left;
+        padding: 0 10px;
+        margin-left: 10px;
+        line-height: 22px;
+        background: #D47272;
+        color: #eee;
+        font-size: 11px;
+        transform: scale(.9);
+        cursor: pointer;
+
+        &:hover {
+            background: rgb(228, 133, 133);
+        }
+
+        &:focus {
+            outline: none;
+        }
+    }
+}
+
+.info {
+    position: fixed;
+    border-radius: 5px;
+    border: 1px dashed rgba(255, 255, 255, .2);
+    bottom: 20px;
+    left: 27px;
+    margin: 0;
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+    overflow-y: auto;
+
+    &-title {
+        border-left: 3px solid #444;
+        margin: 20px 0 8px 0;
+        padding: 0 5px;
+        line-height: 1;
+        font-size: 14px;
+        color: #555;
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    &-text {
+        font-size: 12px;
+        color: #888;
+    }
+}
