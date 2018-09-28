@@ -55,7 +55,7 @@ const option = {
             return [point[0], point[1]];
         },
         formatter: function (params) {
-            return params.dataType === 'node' ? params.name : `${params.data.type} relationship`;
+            return params.dataType === 'node' ? params.name : `${params.data.type} relation`;
         }
     },
     legend: {
