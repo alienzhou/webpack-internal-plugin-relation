@@ -10,10 +10,45 @@ body {
     height: 100%;
     margin: 0;
 }
+
+.loading-mask {
+    display: table;
+    position: fixed;
+    opacity: 1;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 99;
+    background: rgba(0, 0, 0, .8);
+    text-align: center;
+    transition: all .2s;
+    span {
+        display: table-cell;
+        vertical-align: middle;
+        color: #888;
+        font-size: 16px;
+        animation-name: breath;
+        animation-duration: .8s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+    }
+}
+
+@keyframes breath {
+    from {
+        color: #eee;
+    }
+    to {
+        color: #444;
+    }
+}
+
 .title {
     position: fixed;
     top: 0;
     margin: 0;
+    z-index: 100;
     padding-top: 20px;
     width: 100%;
     text-align: center;

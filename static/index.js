@@ -117,6 +117,11 @@ const option = {
 
 // paint
 myChart.setOption(option);
+myChart.on('rendered', () => {
+    setTimeout(() => {
+        document.getElementById('js-loading-mask').style = 'opacity: 0; z-index: -1';
+    }, 2000);
+});
 
 myChart.on('dblclick', params => {
     const base = 'https://github.com/webpack/webpack/tree/master/';
