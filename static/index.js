@@ -12,6 +12,7 @@
 import * as echarts from 'echarts/lib/echarts';
 import 'echarts/lib/component/tooltip';
 import 'echarts/lib/chart/graph';
+import 'echarts/lib/component/legendScroll';
 
 import forceData from '../config/forceData.json';
 import colors from '../config/color.json';
@@ -36,6 +37,9 @@ document.querySelectorAll('.category .hook').forEach(
 // chart init
 const myChart = echarts.init(document.getElementById('main'));
 
+// 图表大小调整比例
+const ratio = document.getElementById('main').clientHeight / 970;
+
 // option config
 const option = {
     emphasis: {
@@ -51,16 +55,37 @@ const option = {
             return params.dataType === 'node' ? params.name : `${params.data.type} relationship`;
         }
     },
+    legend: {
+        type: 'scroll',
+        orient: 'vertical',
+        right: 20,
+        top: 20,
+        bottom: 20,
+        width: 30,
+        data: forceData.legend,
+        align: 'right',
+        selected: {},
+        inactiveColor: '#444',
+        itemWidth: 0,
+        itemHeight: 0,
+        textStyle: {
+            fontSize: '11',
+            color: '#888'
+        }
+    },
     series: [{
         edgeSymbol: ['none', 'arrow'],
         edgeSymbolSize: 5,
         type: 'graph',
         layout: 'force',
         animation: false,
+        focusNodeAdjacency: true,
+        roam: true,
+        categories: forceData.legend.map(i => ({name: i})),
         force: {
-            gravity: 0.02,
-            repulsion: 80,
-            edgeLength: 80,
+            gravity: 0.12 / ratio,
+            repulsion: 40 * ratio,
+            edgeLength: 8 * ratio,
             initLayout: 'circular'
         },
         emphasis: {
@@ -71,15 +96,8 @@ const option = {
         symbolSize: function (value) {
             return value;
         },
-        draggable: true,
+        draggable: false,
         data: forceData.nodes,
-        force: {
-            // initLayout: 'circular'
-            // repulsion: 20,
-            edgeLength: 5,
-            repulsion: 20,
-            gravity: 0.2
-        },
         itemStyle: {
             color: function (v) {
                 return v.data.color;

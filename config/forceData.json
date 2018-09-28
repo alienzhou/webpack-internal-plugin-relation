@@ -3,2530 +3,2530 @@
     {
       "name": "lib/APIPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 0,
-      "type": "module"
+      "type": "module",
+      "category": 0
     },
     {
       "name": "lib/AmdMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 1,
-      "type": "module"
+      "type": "module",
+      "category": 1
     },
     {
       "name": "lib/AutomaticPrefetchPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 2,
-      "type": "module"
+      "type": "module",
+      "category": 2
     },
     {
       "name": "lib/BannerPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 3,
-      "type": "module"
+      "type": "module",
+      "category": 3
     },
     {
       "name": "lib/CachePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 4,
-      "type": "module"
+      "type": "module",
+      "category": 4
     },
     {
       "name": "lib/ChunkTemplate.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 5,
-      "type": "module"
+      "type": "module",
+      "category": 5
     },
     {
       "name": "lib/CompatibilityPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 6,
-      "type": "module"
+      "type": "module",
+      "category": 6
     },
     {
       "name": "lib/Compilation.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 7,
-      "type": "module"
+      "type": "module",
+      "category": 7
     },
     {
       "name": "lib/Compiler.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 8,
-      "type": "module"
+      "type": "module",
+      "category": 8
     },
     {
       "name": "lib/ConstPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 9,
-      "type": "module"
+      "type": "module",
+      "category": 9
     },
     {
       "name": "lib/ContextExclusionPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 10,
-      "type": "module"
+      "type": "module",
+      "category": 10
     },
     {
       "name": "lib/ContextModuleFactory.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 11,
-      "type": "module"
+      "type": "module",
+      "category": 11
     },
     {
       "name": "lib/ContextReplacementPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 12,
-      "type": "module"
+      "type": "module",
+      "category": 12
     },
     {
       "name": "lib/DefinePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 13,
-      "type": "module"
+      "type": "module",
+      "category": 13
     },
     {
       "name": "lib/DelegatedModuleFactoryPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 14,
-      "type": "module"
+      "type": "module",
+      "category": 14
     },
     {
       "name": "lib/DelegatedPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 15,
-      "type": "module"
+      "type": "module",
+      "category": 15
     },
     {
       "name": "lib/DllEntryPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 16,
-      "type": "module"
+      "type": "module",
+      "category": 16
     },
     {
       "name": "lib/DllPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 17,
-      "type": "module"
+      "type": "module",
+      "category": 17
     },
     {
       "name": "lib/DllReferencePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 18,
-      "type": "module"
+      "type": "module",
+      "category": 18
     },
     {
       "name": "lib/DynamicEntryPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 19,
-      "type": "module"
+      "type": "module",
+      "category": 19
     },
     {
       "name": "lib/EntryOptionPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 20,
-      "type": "module"
+      "type": "module",
+      "category": 20
     },
     {
       "name": "lib/EnvironmentPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 21,
-      "type": "module"
+      "type": "module",
+      "category": 21
     },
     {
       "name": "lib/EvalDevToolModulePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 22,
-      "type": "module"
+      "type": "module",
+      "category": 22
     },
     {
       "name": "lib/EvalDevToolModuleTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 23,
-      "type": "module"
+      "type": "module",
+      "category": 23
     },
     {
       "name": "lib/EvalSourceMapDevToolModuleTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 24,
-      "type": "module"
+      "type": "module",
+      "category": 24
     },
     {
       "name": "lib/EvalSourceMapDevToolPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 25,
-      "type": "module"
+      "type": "module",
+      "category": 25
     },
     {
       "name": "lib/ExportPropertyMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 26,
-      "type": "module"
+      "type": "module",
+      "category": 26
     },
     {
       "name": "lib/ExtendedAPIPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 27,
-      "type": "module"
+      "type": "module",
+      "category": 27
     },
     {
       "name": "lib/ExternalModuleFactoryPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 28,
-      "type": "module"
+      "type": "module",
+      "category": 28
     },
     {
       "name": "lib/ExternalsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 29,
-      "type": "module"
+      "type": "module",
+      "category": 29
     },
     {
       "name": "lib/FlagDependencyExportsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 30,
-      "type": "module"
+      "type": "module",
+      "category": 30
     },
     {
       "name": "lib/FlagDependencyUsagePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 31,
-      "type": "module"
+      "type": "module",
+      "category": 31
     },
     {
       "name": "lib/FlagInitialModulesAsUsedPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 32,
-      "type": "module"
+      "type": "module",
+      "category": 32
     },
     {
       "name": "lib/FunctionModulePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 33,
-      "type": "module"
+      "type": "module",
+      "category": 33
     },
     {
       "name": "lib/FunctionModuleTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 34,
-      "type": "module"
+      "type": "module",
+      "category": 34
     },
     {
       "name": "lib/HashedModuleIdsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 35,
-      "type": "module"
+      "type": "module",
+      "category": 35
     },
     {
       "name": "lib/HotModuleReplacement.runtime.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 36,
-      "type": "module"
+      "type": "module",
+      "category": 36
     },
     {
       "name": "lib/HotModuleReplacementPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 37,
-      "type": "module"
+      "type": "module",
+      "category": 37
     },
     {
       "name": "lib/HotUpdateChunkTemplate.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 38,
-      "type": "module"
+      "type": "module",
+      "category": 38
     },
     {
       "name": "lib/IgnorePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 39,
-      "type": "module"
+      "type": "module",
+      "category": 39
     },
     {
       "name": "lib/JavascriptModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 40,
-      "type": "module"
+      "type": "module",
+      "category": 40
     },
     {
       "name": "lib/JsonModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 41,
-      "type": "module"
+      "type": "module",
+      "category": 41
     },
     {
       "name": "lib/LibManifestPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 42,
-      "type": "module"
+      "type": "module",
+      "category": 42
     },
     {
       "name": "lib/LibraryTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 43,
-      "type": "module"
+      "type": "module",
+      "category": 43
     },
     {
       "name": "lib/LoaderOptionsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 44,
-      "type": "module"
+      "type": "module",
+      "category": 44
     },
     {
       "name": "lib/LoaderTargetPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 45,
-      "type": "module"
+      "type": "module",
+      "category": 45
     },
     {
       "name": "lib/MainTemplate.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 46,
-      "type": "module"
+      "type": "module",
+      "category": 46
     },
     {
       "name": "lib/ModuleTemplate.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 47,
-      "type": "module"
+      "type": "module",
+      "category": 47
     },
     {
       "name": "lib/MultiCompiler.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 48,
-      "type": "module"
+      "type": "module",
+      "category": 48
     },
     {
       "name": "lib/MultiEntryPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 49,
-      "type": "module"
+      "type": "module",
+      "category": 49
     },
     {
       "name": "lib/MultiWatching.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 50,
-      "type": "module"
+      "type": "module",
+      "category": 50
     },
     {
       "name": "lib/NamedChunksPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 51,
-      "type": "module"
+      "type": "module",
+      "category": 51
     },
     {
       "name": "lib/NamedModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 52,
-      "type": "module"
+      "type": "module",
+      "category": 52
     },
     {
       "name": "lib/NoEmitOnErrorsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 53,
-      "type": "module"
+      "type": "module",
+      "category": 53
     },
     {
       "name": "lib/NodeStuffPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 54,
-      "type": "module"
+      "type": "module",
+      "category": 54
     },
     {
       "name": "lib/NormalModule.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 55,
-      "type": "module"
+      "type": "module",
+      "category": 55
     },
     {
       "name": "lib/NormalModuleFactory.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 56,
-      "type": "module"
+      "type": "module",
+      "category": 56
     },
     {
       "name": "lib/NormalModuleReplacementPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 57,
-      "type": "module"
+      "type": "module",
+      "category": 57
     },
     {
       "name": "lib/OptionsDefaulter.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 58,
-      "type": "module"
+      "type": "module",
+      "category": 58
     },
     {
       "name": "lib/Parser.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 59,
-      "type": "module"
+      "type": "module",
+      "category": 59
     },
     {
       "name": "lib/PrefetchPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 60,
-      "type": "module"
+      "type": "module",
+      "category": 60
     },
     {
       "name": "lib/ProgressPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 61,
-      "type": "module"
+      "type": "module",
+      "category": 61
     },
     {
       "name": "lib/ProvidePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 62,
-      "type": "module"
+      "type": "module",
+      "category": 62
     },
     {
       "name": "lib/RecordIdsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 63,
-      "type": "module"
+      "type": "module",
+      "category": 63
     },
     {
       "name": "lib/RequireJsStuffPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 64,
-      "type": "module"
+      "type": "module",
+      "category": 64
     },
     {
       "name": "lib/ResolverFactory.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 65,
-      "type": "module"
+      "type": "module",
+      "category": 65
     },
     {
       "name": "lib/SetVarMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 66,
-      "type": "module"
+      "type": "module",
+      "category": 66
     },
     {
       "name": "lib/SingleEntryPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 67,
-      "type": "module"
+      "type": "module",
+      "category": 67
     },
     {
       "name": "lib/SourceMapDevToolModuleOptionsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 68,
-      "type": "module"
+      "type": "module",
+      "category": 68
     },
     {
       "name": "lib/SourceMapDevToolPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 69,
-      "type": "module"
+      "type": "module",
+      "category": 69
     },
     {
       "name": "lib/TemplatedPathPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 70,
-      "type": "module"
+      "type": "module",
+      "category": 70
     },
     {
       "name": "lib/UmdMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 71,
-      "type": "module"
+      "type": "module",
+      "category": 71
     },
     {
       "name": "lib/UseStrictPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 72,
-      "type": "module"
+      "type": "module",
+      "category": 72
     },
     {
       "name": "lib/WarnCaseSensitiveModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 73,
-      "type": "module"
+      "type": "module",
+      "category": 73
     },
     {
       "name": "lib/WarnNoModeSetPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 74,
-      "type": "module"
+      "type": "module",
+      "category": 74
     },
     {
       "name": "lib/WatchIgnorePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 75,
-      "type": "module"
+      "type": "module",
+      "category": 75
     },
     {
       "name": "lib/Watching.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 76,
-      "type": "module"
+      "type": "module",
+      "category": 76
     },
     {
       "name": "lib/WebpackOptionsApply.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 77,
-      "type": "module"
+      "type": "module",
+      "category": 77
     },
     {
       "name": "lib/webpack.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 78,
-      "type": "module"
+      "type": "module",
+      "category": 78
     },
     {
       "name": "lib/dependencies/AMDPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 79,
-      "type": "module"
+      "type": "module",
+      "category": 79
     },
     {
       "name": "lib/dependencies/CommonJsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 80,
-      "type": "module"
+      "type": "module",
+      "category": 80
     },
     {
       "name": "lib/dependencies/HarmonyDetectionParserPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 81,
-      "type": "module"
+      "type": "module",
+      "category": 81
     },
     {
       "name": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 82,
-      "type": "module"
+      "type": "module",
+      "category": 82
     },
     {
       "name": "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 83,
-      "type": "module"
+      "type": "module",
+      "category": 83
     },
     {
       "name": "lib/dependencies/HarmonyModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 84,
-      "type": "module"
+      "type": "module",
+      "category": 84
     },
     {
       "name": "lib/dependencies/ImportParserPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 85,
-      "type": "module"
+      "type": "module",
+      "category": 85
     },
     {
       "name": "lib/dependencies/ImportPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 86,
-      "type": "module"
+      "type": "module",
+      "category": 86
     },
     {
       "name": "lib/dependencies/LoaderPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 87,
-      "type": "module"
+      "type": "module",
+      "category": 87
     },
     {
       "name": "lib/dependencies/RequireContextPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 88,
-      "type": "module"
+      "type": "module",
+      "category": 88
     },
     {
       "name": "lib/dependencies/RequireEnsurePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 89,
-      "type": "module"
+      "type": "module",
+      "category": 89
     },
     {
       "name": "lib/dependencies/RequireIncludePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 90,
-      "type": "module"
+      "type": "module",
+      "category": 90
     },
     {
       "name": "lib/dependencies/SystemPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 91,
-      "type": "module"
+      "type": "module",
+      "category": 91
     },
     {
       "name": "lib/node/NodeChunkTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 92,
-      "type": "module"
+      "type": "module",
+      "category": 92
     },
     {
       "name": "lib/node/NodeEnvironmentPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 93,
-      "type": "module"
+      "type": "module",
+      "category": 93
     },
     {
       "name": "lib/node/NodeHotUpdateChunkTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 94,
-      "type": "module"
+      "type": "module",
+      "category": 94
     },
     {
       "name": "lib/node/NodeMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 95,
-      "type": "module"
+      "type": "module",
+      "category": 95
     },
     {
       "name": "lib/node/NodeSourcePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 96,
-      "type": "module"
+      "type": "module",
+      "category": 96
     },
     {
       "name": "lib/node/NodeTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 97,
-      "type": "module"
+      "type": "module",
+      "category": 97
     },
     {
       "name": "lib/node/ReadFileCompileWasmTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 98,
-      "type": "module"
+      "type": "module",
+      "category": 98
     },
     {
       "name": "lib/optimize/AggressiveMergingPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 99,
-      "type": "module"
+      "type": "module",
+      "category": 99
     },
     {
       "name": "lib/optimize/AggressiveSplittingPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 100,
-      "type": "module"
+      "type": "module",
+      "category": 100
     },
     {
       "name": "lib/optimize/ChunkModuleIdRangePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 101,
-      "type": "module"
+      "type": "module",
+      "category": 101
     },
     {
       "name": "lib/optimize/EnsureChunkConditionsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 102,
-      "type": "module"
+      "type": "module",
+      "category": 102
     },
     {
       "name": "lib/optimize/FlagIncludedChunksPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 103,
-      "type": "module"
+      "type": "module",
+      "category": 103
     },
     {
       "name": "lib/optimize/LimitChunkCountPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 104,
-      "type": "module"
+      "type": "module",
+      "category": 104
     },
     {
       "name": "lib/optimize/MergeDuplicateChunksPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 105,
-      "type": "module"
+      "type": "module",
+      "category": 105
     },
     {
       "name": "lib/optimize/MinChunkSizePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 106,
-      "type": "module"
+      "type": "module",
+      "category": 106
     },
     {
       "name": "lib/optimize/ModuleConcatenationPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 107,
-      "type": "module"
+      "type": "module",
+      "category": 107
     },
     {
       "name": "lib/optimize/NaturalChunkOrderPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 108,
-      "type": "module"
+      "type": "module",
+      "category": 108
     },
     {
       "name": "lib/optimize/OccurrenceChunkOrderPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 109,
-      "type": "module"
+      "type": "module",
+      "category": 109
     },
     {
       "name": "lib/optimize/OccurrenceModuleOrderPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 110,
-      "type": "module"
+      "type": "module",
+      "category": 110
     },
     {
       "name": "lib/optimize/OccurrenceOrderPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 111,
-      "type": "module"
+      "type": "module",
+      "category": 111
     },
     {
       "name": "lib/optimize/RemoveEmptyChunksPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 112,
-      "type": "module"
+      "type": "module",
+      "category": 112
     },
     {
       "name": "lib/optimize/RemoveParentModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 113,
-      "type": "module"
+      "type": "module",
+      "category": 113
     },
     {
       "name": "lib/optimize/RuntimeChunkPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 114,
-      "type": "module"
+      "type": "module",
+      "category": 114
     },
     {
       "name": "lib/optimize/SideEffectsFlagPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 115,
-      "type": "module"
+      "type": "module",
+      "category": 115
     },
     {
       "name": "lib/optimize/SplitChunksPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 116,
-      "type": "module"
+      "type": "module",
+      "category": 116
     },
     {
       "name": "lib/performance/SizeLimitsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 117,
-      "type": "module"
+      "type": "module",
+      "category": 117
     },
     {
       "name": "lib/wasm/WasmFinalizeExportsPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 118,
-      "type": "module"
+      "type": "module",
+      "category": 118
     },
     {
       "name": "lib/wasm/WasmMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 119,
-      "type": "module"
+      "type": "module",
+      "category": 119
     },
     {
       "name": "lib/wasm/WebAssemblyModulesPlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 120,
-      "type": "module"
+      "type": "module",
+      "category": 120
     },
     {
       "name": "lib/web/FetchCompileWasmTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 121,
-      "type": "module"
+      "type": "module",
+      "category": 121
     },
     {
       "name": "lib/web/JsonpChunkTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 122,
-      "type": "module"
+      "type": "module",
+      "category": 122
     },
     {
       "name": "lib/web/JsonpExportMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 123,
-      "type": "module"
+      "type": "module",
+      "category": 123
     },
     {
       "name": "lib/web/JsonpHotUpdateChunkTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 124,
-      "type": "module"
+      "type": "module",
+      "category": 124
     },
     {
       "name": "lib/web/JsonpMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 125,
-      "type": "module"
+      "type": "module",
+      "category": 125
     },
     {
       "name": "lib/web/JsonpTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 126,
-      "type": "module"
+      "type": "module",
+      "category": 126
     },
     {
       "name": "lib/webworker/WebWorkerChunkTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 127,
-      "type": "module"
+      "type": "module",
+      "category": 127
     },
     {
       "name": "lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 128,
-      "type": "module"
+      "type": "module",
+      "category": 128
     },
     {
       "name": "lib/webworker/WebWorkerMainTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 129,
-      "type": "module"
+      "type": "module",
+      "category": 129
     },
     {
       "name": "lib/webworker/WebWorkerTemplatePlugin.js",
       "value": 13,
-      "category": 1,
       "color": "#E6F2E1",
       "id": 130,
-      "type": "module"
+      "type": "module",
+      "category": 130
     },
     {
       "name": "renderManifest",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 131,
-      "type": "hook"
+      "type": "hook",
+      "category": 131
     },
     {
       "name": "modules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 132,
-      "type": "hook"
+      "type": "hook",
+      "category": 132
     },
     {
       "name": "render",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 133,
-      "type": "hook"
+      "type": "hook",
+      "category": 133
     },
     {
       "name": "renderWithEntry",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 134,
-      "type": "hook"
+      "type": "hook",
+      "category": 134
     },
     {
       "name": "hash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 135,
-      "type": "hook"
+      "type": "hook",
+      "category": 135
     },
     {
       "name": "hashForChunk",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 136,
-      "type": "hook"
+      "type": "hook",
+      "category": 136
     },
     {
       "name": "buildModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 137,
-      "type": "hook"
+      "type": "hook",
+      "category": 137
     },
     {
       "name": "rebuildModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 138,
-      "type": "hook"
+      "type": "hook",
+      "category": 138
     },
     {
       "name": "failedModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 139,
-      "type": "hook"
+      "type": "hook",
+      "category": 139
     },
     {
       "name": "succeedModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 140,
-      "type": "hook"
+      "type": "hook",
+      "category": 140
     },
     {
       "name": "dependencyReference",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 141,
-      "type": "hook"
+      "type": "hook",
+      "category": 141
     },
     {
       "name": "finishModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 142,
-      "type": "hook"
+      "type": "hook",
+      "category": 142
     },
     {
       "name": "finishRebuildingModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 143,
-      "type": "hook"
+      "type": "hook",
+      "category": 143
     },
     {
       "name": "unseal",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 144,
-      "type": "hook"
+      "type": "hook",
+      "category": 144
     },
     {
       "name": "seal",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 145,
-      "type": "hook"
+      "type": "hook",
+      "category": 145
     },
     {
       "name": "beforeChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 146,
-      "type": "hook"
+      "type": "hook",
+      "category": 146
     },
     {
       "name": "afterChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 147,
-      "type": "hook"
+      "type": "hook",
+      "category": 147
     },
     {
       "name": "optimizeDependenciesBasic",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 148,
-      "type": "hook"
+      "type": "hook",
+      "category": 148
     },
     {
       "name": "optimizeDependencies",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 149,
-      "type": "hook"
+      "type": "hook",
+      "category": 149
     },
     {
       "name": "optimizeDependenciesAdvanced",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 150,
-      "type": "hook"
+      "type": "hook",
+      "category": 150
     },
     {
       "name": "afterOptimizeDependencies",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 151,
-      "type": "hook"
+      "type": "hook",
+      "category": 151
     },
     {
       "name": "optimize",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 152,
-      "type": "hook"
+      "type": "hook",
+      "category": 152
     },
     {
       "name": "optimizeModulesBasic",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 153,
-      "type": "hook"
+      "type": "hook",
+      "category": 153
     },
     {
       "name": "optimizeModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 154,
-      "type": "hook"
+      "type": "hook",
+      "category": 154
     },
     {
       "name": "optimizeModulesAdvanced",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 155,
-      "type": "hook"
+      "type": "hook",
+      "category": 155
     },
     {
       "name": "afterOptimizeModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 156,
-      "type": "hook"
+      "type": "hook",
+      "category": 156
     },
     {
       "name": "optimizeChunksBasic",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 157,
-      "type": "hook"
+      "type": "hook",
+      "category": 157
     },
     {
       "name": "optimizeChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 158,
-      "type": "hook"
+      "type": "hook",
+      "category": 158
     },
     {
       "name": "optimizeChunksAdvanced",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 159,
-      "type": "hook"
+      "type": "hook",
+      "category": 159
     },
     {
       "name": "afterOptimizeChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 160,
-      "type": "hook"
+      "type": "hook",
+      "category": 160
     },
     {
       "name": "optimizeTree",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 161,
-      "type": "hook"
+      "type": "hook",
+      "category": 161
     },
     {
       "name": "afterOptimizeTree",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 162,
-      "type": "hook"
+      "type": "hook",
+      "category": 162
     },
     {
       "name": "optimizeChunkModulesBasic",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 163,
-      "type": "hook"
+      "type": "hook",
+      "category": 163
     },
     {
       "name": "optimizeChunkModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 164,
-      "type": "hook"
+      "type": "hook",
+      "category": 164
     },
     {
       "name": "optimizeChunkModulesAdvanced",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 165,
-      "type": "hook"
+      "type": "hook",
+      "category": 165
     },
     {
       "name": "afterOptimizeChunkModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 166,
-      "type": "hook"
+      "type": "hook",
+      "category": 166
     },
     {
       "name": "shouldRecord",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 167,
-      "type": "hook"
+      "type": "hook",
+      "category": 167
     },
     {
       "name": "reviveModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 168,
-      "type": "hook"
+      "type": "hook",
+      "category": 168
     },
     {
       "name": "optimizeModuleOrder",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 169,
-      "type": "hook"
+      "type": "hook",
+      "category": 169
     },
     {
       "name": "advancedOptimizeModuleOrder",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 170,
-      "type": "hook"
+      "type": "hook",
+      "category": 170
     },
     {
       "name": "beforeModuleIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 171,
-      "type": "hook"
+      "type": "hook",
+      "category": 171
     },
     {
       "name": "moduleIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 172,
-      "type": "hook"
+      "type": "hook",
+      "category": 172
     },
     {
       "name": "optimizeModuleIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 173,
-      "type": "hook"
+      "type": "hook",
+      "category": 173
     },
     {
       "name": "afterOptimizeModuleIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 174,
-      "type": "hook"
+      "type": "hook",
+      "category": 174
     },
     {
       "name": "reviveChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 175,
-      "type": "hook"
+      "type": "hook",
+      "category": 175
     },
     {
       "name": "optimizeChunkOrder",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 176,
-      "type": "hook"
+      "type": "hook",
+      "category": 176
     },
     {
       "name": "beforeChunkIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 177,
-      "type": "hook"
+      "type": "hook",
+      "category": 177
     },
     {
       "name": "optimizeChunkIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 178,
-      "type": "hook"
+      "type": "hook",
+      "category": 178
     },
     {
       "name": "afterOptimizeChunkIds",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 179,
-      "type": "hook"
+      "type": "hook",
+      "category": 179
     },
     {
       "name": "recordModules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 180,
-      "type": "hook"
+      "type": "hook",
+      "category": 180
     },
     {
       "name": "recordChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 181,
-      "type": "hook"
+      "type": "hook",
+      "category": 181
     },
     {
       "name": "beforeHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 182,
-      "type": "hook"
+      "type": "hook",
+      "category": 182
     },
     {
       "name": "contentHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 183,
-      "type": "hook"
+      "type": "hook",
+      "category": 183
     },
     {
       "name": "afterHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 184,
-      "type": "hook"
+      "type": "hook",
+      "category": 184
     },
     {
       "name": "recordHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 185,
-      "type": "hook"
+      "type": "hook",
+      "category": 185
     },
     {
       "name": "record",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 186,
-      "type": "hook"
+      "type": "hook",
+      "category": 186
     },
     {
       "name": "beforeModuleAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 187,
-      "type": "hook"
+      "type": "hook",
+      "category": 187
     },
     {
       "name": "shouldGenerateChunkAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 188,
-      "type": "hook"
+      "type": "hook",
+      "category": 188
     },
     {
       "name": "beforeChunkAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 189,
-      "type": "hook"
+      "type": "hook",
+      "category": 189
     },
     {
       "name": "additionalChunkAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 190,
-      "type": "hook"
+      "type": "hook",
+      "category": 190
     },
     {
       "name": "additionalAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 191,
-      "type": "hook"
+      "type": "hook",
+      "category": 191
     },
     {
       "name": "optimizeChunkAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 192,
-      "type": "hook"
+      "type": "hook",
+      "category": 192
     },
     {
       "name": "afterOptimizeChunkAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 193,
-      "type": "hook"
+      "type": "hook",
+      "category": 193
     },
     {
       "name": "optimizeAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 194,
-      "type": "hook"
+      "type": "hook",
+      "category": 194
     },
     {
       "name": "afterOptimizeAssets",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 195,
-      "type": "hook"
+      "type": "hook",
+      "category": 195
     },
     {
       "name": "needAdditionalSeal",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 196,
-      "type": "hook"
+      "type": "hook",
+      "category": 196
     },
     {
       "name": "afterSeal",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 197,
-      "type": "hook"
+      "type": "hook",
+      "category": 197
     },
     {
       "name": "chunkHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 198,
-      "type": "hook"
+      "type": "hook",
+      "category": 198
     },
     {
       "name": "moduleAsset",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 199,
-      "type": "hook"
+      "type": "hook",
+      "category": 199
     },
     {
       "name": "chunkAsset",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 200,
-      "type": "hook"
+      "type": "hook",
+      "category": 200
     },
     {
       "name": "assetPath",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 201,
-      "type": "hook"
+      "type": "hook",
+      "category": 201
     },
     {
       "name": "needAdditionalPass",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 202,
-      "type": "hook"
+      "type": "hook",
+      "category": 202
     },
     {
       "name": "childCompiler",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 203,
-      "type": "hook"
+      "type": "hook",
+      "category": 203
     },
     {
       "name": "normalModuleLoader",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 204,
-      "type": "hook"
+      "type": "hook",
+      "category": 204
     },
     {
       "name": "optimizeExtractedChunksBasic",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 205,
-      "type": "hook"
+      "type": "hook",
+      "category": 205
     },
     {
       "name": "optimizeExtractedChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 206,
-      "type": "hook"
+      "type": "hook",
+      "category": 206
     },
     {
       "name": "optimizeExtractedChunksAdvanced",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 207,
-      "type": "hook"
+      "type": "hook",
+      "category": 207
     },
     {
       "name": "afterOptimizeExtractedChunks",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 208,
-      "type": "hook"
+      "type": "hook",
+      "category": 208
     },
     {
       "name": "shouldEmit",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 209,
-      "type": "hook"
+      "type": "hook",
+      "category": 209
     },
     {
       "name": "done",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 210,
-      "type": "hook"
+      "type": "hook",
+      "category": 210
     },
     {
       "name": "additionalPass",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 211,
-      "type": "hook"
+      "type": "hook",
+      "category": 211
     },
     {
       "name": "beforeRun",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 212,
-      "type": "hook"
+      "type": "hook",
+      "category": 212
     },
     {
       "name": "run",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 213,
-      "type": "hook"
+      "type": "hook",
+      "category": 213
     },
     {
       "name": "emit",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 214,
-      "type": "hook"
+      "type": "hook",
+      "category": 214
     },
     {
       "name": "afterEmit",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 215,
-      "type": "hook"
+      "type": "hook",
+      "category": 215
     },
     {
       "name": "thisCompilation",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 216,
-      "type": "hook"
+      "type": "hook",
+      "category": 216
     },
     {
       "name": "compilation",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 217,
-      "type": "hook"
+      "type": "hook",
+      "category": 217
     },
     {
       "name": "normalModuleFactory",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 218,
-      "type": "hook"
+      "type": "hook",
+      "category": 218
     },
     {
       "name": "contextModuleFactory",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 219,
-      "type": "hook"
+      "type": "hook",
+      "category": 219
     },
     {
       "name": "beforeCompile",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 220,
-      "type": "hook"
+      "type": "hook",
+      "category": 220
     },
     {
       "name": "compile",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 221,
-      "type": "hook"
+      "type": "hook",
+      "category": 221
     },
     {
       "name": "make",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 222,
-      "type": "hook"
+      "type": "hook",
+      "category": 222
     },
     {
       "name": "afterCompile",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 223,
-      "type": "hook"
+      "type": "hook",
+      "category": 223
     },
     {
       "name": "watchRun",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 224,
-      "type": "hook"
+      "type": "hook",
+      "category": 224
     },
     {
       "name": "failed",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 225,
-      "type": "hook"
+      "type": "hook",
+      "category": 225
     },
     {
       "name": "invalid",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 226,
-      "type": "hook"
+      "type": "hook",
+      "category": 226
     },
     {
       "name": "watchClose",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 227,
-      "type": "hook"
+      "type": "hook",
+      "category": 227
     },
     {
       "name": "environment",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 228,
-      "type": "hook"
+      "type": "hook",
+      "category": 228
     },
     {
       "name": "afterEnvironment",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 229,
-      "type": "hook"
+      "type": "hook",
+      "category": 229
     },
     {
       "name": "afterPlugins",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 230,
-      "type": "hook"
+      "type": "hook",
+      "category": 230
     },
     {
       "name": "afterResolvers",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 231,
-      "type": "hook"
+      "type": "hook",
+      "category": 231
     },
     {
       "name": "entryOption",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 232,
-      "type": "hook"
+      "type": "hook",
+      "category": 232
     },
     {
       "name": "beforeResolve",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 233,
-      "type": "hook"
+      "type": "hook",
+      "category": 233
     },
     {
       "name": "afterResolve",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 234,
-      "type": "hook"
+      "type": "hook",
+      "category": 234
     },
     {
       "name": "contextModuleFiles",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 235,
-      "type": "hook"
+      "type": "hook",
+      "category": 235
     },
     {
       "name": "alternatives",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 236,
-      "type": "hook"
+      "type": "hook",
+      "category": 236
     },
     {
       "name": "modules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 237,
-      "type": "hook"
+      "type": "hook",
+      "category": 237
     },
     {
       "name": "render",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 238,
-      "type": "hook"
+      "type": "hook",
+      "category": 238
     },
     {
       "name": "hash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 239,
-      "type": "hook"
+      "type": "hook",
+      "category": 239
     },
     {
       "name": "renderManifest",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 240,
-      "type": "hook"
+      "type": "hook",
+      "category": 240
     },
     {
       "name": "modules",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 241,
-      "type": "hook"
+      "type": "hook",
+      "category": 241
     },
     {
       "name": "moduleObj",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 242,
-      "type": "hook"
+      "type": "hook",
+      "category": 242
     },
     {
       "name": "requireEnsure",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 243,
-      "type": "hook"
+      "type": "hook",
+      "category": 243
     },
     {
       "name": "bootstrap",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 244,
-      "type": "hook"
+      "type": "hook",
+      "category": 244
     },
     {
       "name": "localVars",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 245,
-      "type": "hook"
+      "type": "hook",
+      "category": 245
     },
     {
       "name": "require",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 246,
-      "type": "hook"
+      "type": "hook",
+      "category": 246
     },
     {
       "name": "requireExtensions",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 247,
-      "type": "hook"
+      "type": "hook",
+      "category": 247
     },
     {
       "name": "beforeStartup",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 248,
-      "type": "hook"
+      "type": "hook",
+      "category": 248
     },
     {
       "name": "startup",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 249,
-      "type": "hook"
+      "type": "hook",
+      "category": 249
     },
     {
       "name": "render",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 250,
-      "type": "hook"
+      "type": "hook",
+      "category": 250
     },
     {
       "name": "renderWithEntry",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 251,
-      "type": "hook"
+      "type": "hook",
+      "category": 251
     },
     {
       "name": "moduleRequire",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 252,
-      "type": "hook"
+      "type": "hook",
+      "category": 252
     },
     {
       "name": "addModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 253,
-      "type": "hook"
+      "type": "hook",
+      "category": 253
     },
     {
       "name": "currentHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 254,
-      "type": "hook"
+      "type": "hook",
+      "category": 254
     },
     {
       "name": "assetPath",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 255,
-      "type": "hook"
+      "type": "hook",
+      "category": 255
     },
     {
       "name": "hash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 256,
-      "type": "hook"
+      "type": "hook",
+      "category": 256
     },
     {
       "name": "hashForChunk",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 257,
-      "type": "hook"
+      "type": "hook",
+      "category": 257
     },
     {
       "name": "globalHashPaths",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 258,
-      "type": "hook"
+      "type": "hook",
+      "category": 258
     },
     {
       "name": "globalHash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 259,
-      "type": "hook"
+      "type": "hook",
+      "category": 259
     },
     {
       "name": "hotBootstrap",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 260,
-      "type": "hook"
+      "type": "hook",
+      "category": 260
     },
     {
       "name": "content",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 261,
-      "type": "hook"
+      "type": "hook",
+      "category": 261
     },
     {
       "name": "module",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 262,
-      "type": "hook"
+      "type": "hook",
+      "category": 262
     },
     {
       "name": "render",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 263,
-      "type": "hook"
+      "type": "hook",
+      "category": 263
     },
     {
       "name": "package",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 264,
-      "type": "hook"
+      "type": "hook",
+      "category": 264
     },
     {
       "name": "hash",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 265,
-      "type": "hook"
+      "type": "hook",
+      "category": 265
     },
     {
       "name": "done",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 266,
-      "type": "hook"
+      "type": "hook",
+      "category": 266
     },
     {
       "name": "invalid",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 267,
-      "type": "hook"
+      "type": "hook",
+      "category": 267
     },
     {
       "name": "run",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 268,
-      "type": "hook"
+      "type": "hook",
+      "category": 268
     },
     {
       "name": "watchClose",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 269,
-      "type": "hook"
+      "type": "hook",
+      "category": 269
     },
     {
       "name": "watchRun",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 270,
-      "type": "hook"
+      "type": "hook",
+      "category": 270
     },
     {
       "name": "resolver",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 271,
-      "type": "hook"
+      "type": "hook",
+      "category": 271
     },
     {
       "name": "factory",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 272,
-      "type": "hook"
+      "type": "hook",
+      "category": 272
     },
     {
       "name": "beforeResolve",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 273,
-      "type": "hook"
+      "type": "hook",
+      "category": 273
     },
     {
       "name": "afterResolve",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 274,
-      "type": "hook"
+      "type": "hook",
+      "category": 274
     },
     {
       "name": "createModule",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 275,
-      "type": "hook"
+      "type": "hook",
+      "category": 275
     },
     {
       "name": "module",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 276,
-      "type": "hook"
+      "type": "hook",
+      "category": 276
     },
     {
       "name": "createParser",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 277,
-      "type": "hook"
+      "type": "hook",
+      "category": 277
     },
     {
       "name": "parser",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 278,
-      "type": "hook"
+      "type": "hook",
+      "category": 278
     },
     {
       "name": "createGenerator",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 279,
-      "type": "hook"
+      "type": "hook",
+      "category": 279
     },
     {
       "name": "generator",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 280,
-      "type": "hook"
+      "type": "hook",
+      "category": 280
     },
     {
       "name": "evaluateTypeof",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 281,
-      "type": "hook"
+      "type": "hook",
+      "category": 281
     },
     {
       "name": "evaluate",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 282,
-      "type": "hook"
+      "type": "hook",
+      "category": 282
     },
     {
       "name": "evaluateIdentifier",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 283,
-      "type": "hook"
+      "type": "hook",
+      "category": 283
     },
     {
       "name": "evaluateDefinedIdentifier",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 284,
-      "type": "hook"
+      "type": "hook",
+      "category": 284
     },
     {
       "name": "evaluateCallExpressionMember",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 285,
-      "type": "hook"
+      "type": "hook",
+      "category": 285
     },
     {
       "name": "statement",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 286,
-      "type": "hook"
+      "type": "hook",
+      "category": 286
     },
     {
       "name": "statementIf",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 287,
-      "type": "hook"
+      "type": "hook",
+      "category": 287
     },
     {
       "name": "label",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 288,
-      "type": "hook"
+      "type": "hook",
+      "category": 288
     },
     {
       "name": "import",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 289,
-      "type": "hook"
+      "type": "hook",
+      "category": 289
     },
     {
       "name": "importSpecifier",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 290,
-      "type": "hook"
+      "type": "hook",
+      "category": 290
     },
     {
       "name": "export",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 291,
-      "type": "hook"
+      "type": "hook",
+      "category": 291
     },
     {
       "name": "exportImport",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 292,
-      "type": "hook"
+      "type": "hook",
+      "category": 292
     },
     {
       "name": "exportDeclaration",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 293,
-      "type": "hook"
+      "type": "hook",
+      "category": 293
     },
     {
       "name": "exportExpression",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 294,
-      "type": "hook"
+      "type": "hook",
+      "category": 294
     },
     {
       "name": "exportSpecifier",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 295,
-      "type": "hook"
+      "type": "hook",
+      "category": 295
     },
     {
       "name": "exportImportSpecifier",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 296,
-      "type": "hook"
+      "type": "hook",
+      "category": 296
     },
     {
       "name": "varDeclaration",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 297,
-      "type": "hook"
+      "type": "hook",
+      "category": 297
     },
     {
       "name": "varDeclarationLet",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 298,
-      "type": "hook"
+      "type": "hook",
+      "category": 298
     },
     {
       "name": "varDeclarationConst",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 299,
-      "type": "hook"
+      "type": "hook",
+      "category": 299
     },
     {
       "name": "varDeclarationVar",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 300,
-      "type": "hook"
+      "type": "hook",
+      "category": 300
     },
     {
       "name": "canRename",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 301,
-      "type": "hook"
+      "type": "hook",
+      "category": 301
     },
     {
       "name": "rename",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 302,
-      "type": "hook"
+      "type": "hook",
+      "category": 302
     },
     {
       "name": "assigned",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 303,
-      "type": "hook"
+      "type": "hook",
+      "category": 303
     },
     {
       "name": "assign",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 304,
-      "type": "hook"
+      "type": "hook",
+      "category": 304
     },
     {
       "name": "typeof",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 305,
-      "type": "hook"
+      "type": "hook",
+      "category": 305
     },
     {
       "name": "importCall",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 306,
-      "type": "hook"
+      "type": "hook",
+      "category": 306
     },
     {
       "name": "call",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 307,
-      "type": "hook"
+      "type": "hook",
+      "category": 307
     },
     {
       "name": "callAnyMember",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 308,
-      "type": "hook"
+      "type": "hook",
+      "category": 308
     },
     {
       "name": "new",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 309,
-      "type": "hook"
+      "type": "hook",
+      "category": 309
     },
     {
       "name": "expression",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 310,
-      "type": "hook"
+      "type": "hook",
+      "category": 310
     },
     {
       "name": "expressionAnyMember",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 311,
-      "type": "hook"
+      "type": "hook",
+      "category": 311
     },
     {
       "name": "expressionConditionalOperator",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 312,
-      "type": "hook"
+      "type": "hook",
+      "category": 312
     },
     {
       "name": "program",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 313,
-      "type": "hook"
+      "type": "hook",
+      "category": 313
     },
     {
       "name": "resolveOptions",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 314,
-      "type": "hook"
+      "type": "hook",
+      "category": 314
     },
     {
       "name": "resolver",
       "value": 10,
-      "category": 2,
       "color": "#F1DAF0",
       "id": 315,
-      "type": "hook"
+      "type": "hook",
+      "category": 315
     }
   ],
   "links": [
@@ -10175,5 +10175,323 @@
       "type": "call",
       "value": 200
     }
+  ],
+  "legend": [
+    "lib/APIPlugin.js",
+    "lib/AmdMainTemplatePlugin.js",
+    "lib/AutomaticPrefetchPlugin.js",
+    "lib/BannerPlugin.js",
+    "lib/CachePlugin.js",
+    "lib/ChunkTemplate.js",
+    "lib/CompatibilityPlugin.js",
+    "lib/Compilation.js",
+    "lib/Compiler.js",
+    "lib/ConstPlugin.js",
+    "lib/ContextExclusionPlugin.js",
+    "lib/ContextModuleFactory.js",
+    "lib/ContextReplacementPlugin.js",
+    "lib/DefinePlugin.js",
+    "lib/DelegatedModuleFactoryPlugin.js",
+    "lib/DelegatedPlugin.js",
+    "lib/DllEntryPlugin.js",
+    "lib/DllPlugin.js",
+    "lib/DllReferencePlugin.js",
+    "lib/DynamicEntryPlugin.js",
+    "lib/EntryOptionPlugin.js",
+    "lib/EnvironmentPlugin.js",
+    "lib/EvalDevToolModulePlugin.js",
+    "lib/EvalDevToolModuleTemplatePlugin.js",
+    "lib/EvalSourceMapDevToolModuleTemplatePlugin.js",
+    "lib/EvalSourceMapDevToolPlugin.js",
+    "lib/ExportPropertyMainTemplatePlugin.js",
+    "lib/ExtendedAPIPlugin.js",
+    "lib/ExternalModuleFactoryPlugin.js",
+    "lib/ExternalsPlugin.js",
+    "lib/FlagDependencyExportsPlugin.js",
+    "lib/FlagDependencyUsagePlugin.js",
+    "lib/FlagInitialModulesAsUsedPlugin.js",
+    "lib/FunctionModulePlugin.js",
+    "lib/FunctionModuleTemplatePlugin.js",
+    "lib/HashedModuleIdsPlugin.js",
+    "lib/HotModuleReplacement.runtime.js",
+    "lib/HotModuleReplacementPlugin.js",
+    "lib/HotUpdateChunkTemplate.js",
+    "lib/IgnorePlugin.js",
+    "lib/JavascriptModulesPlugin.js",
+    "lib/JsonModulesPlugin.js",
+    "lib/LibManifestPlugin.js",
+    "lib/LibraryTemplatePlugin.js",
+    "lib/LoaderOptionsPlugin.js",
+    "lib/LoaderTargetPlugin.js",
+    "lib/MainTemplate.js",
+    "lib/ModuleTemplate.js",
+    "lib/MultiCompiler.js",
+    "lib/MultiEntryPlugin.js",
+    "lib/MultiWatching.js",
+    "lib/NamedChunksPlugin.js",
+    "lib/NamedModulesPlugin.js",
+    "lib/NoEmitOnErrorsPlugin.js",
+    "lib/NodeStuffPlugin.js",
+    "lib/NormalModule.js",
+    "lib/NormalModuleFactory.js",
+    "lib/NormalModuleReplacementPlugin.js",
+    "lib/OptionsDefaulter.js",
+    "lib/Parser.js",
+    "lib/PrefetchPlugin.js",
+    "lib/ProgressPlugin.js",
+    "lib/ProvidePlugin.js",
+    "lib/RecordIdsPlugin.js",
+    "lib/RequireJsStuffPlugin.js",
+    "lib/ResolverFactory.js",
+    "lib/SetVarMainTemplatePlugin.js",
+    "lib/SingleEntryPlugin.js",
+    "lib/SourceMapDevToolModuleOptionsPlugin.js",
+    "lib/SourceMapDevToolPlugin.js",
+    "lib/TemplatedPathPlugin.js",
+    "lib/UmdMainTemplatePlugin.js",
+    "lib/UseStrictPlugin.js",
+    "lib/WarnCaseSensitiveModulesPlugin.js",
+    "lib/WarnNoModeSetPlugin.js",
+    "lib/WatchIgnorePlugin.js",
+    "lib/Watching.js",
+    "lib/WebpackOptionsApply.js",
+    "lib/webpack.js",
+    "lib/dependencies/AMDPlugin.js",
+    "lib/dependencies/CommonJsPlugin.js",
+    "lib/dependencies/HarmonyDetectionParserPlugin.js",
+    "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
+    "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
+    "lib/dependencies/HarmonyModulesPlugin.js",
+    "lib/dependencies/ImportParserPlugin.js",
+    "lib/dependencies/ImportPlugin.js",
+    "lib/dependencies/LoaderPlugin.js",
+    "lib/dependencies/RequireContextPlugin.js",
+    "lib/dependencies/RequireEnsurePlugin.js",
+    "lib/dependencies/RequireIncludePlugin.js",
+    "lib/dependencies/SystemPlugin.js",
+    "lib/node/NodeChunkTemplatePlugin.js",
+    "lib/node/NodeEnvironmentPlugin.js",
+    "lib/node/NodeHotUpdateChunkTemplatePlugin.js",
+    "lib/node/NodeMainTemplatePlugin.js",
+    "lib/node/NodeSourcePlugin.js",
+    "lib/node/NodeTemplatePlugin.js",
+    "lib/node/ReadFileCompileWasmTemplatePlugin.js",
+    "lib/optimize/AggressiveMergingPlugin.js",
+    "lib/optimize/AggressiveSplittingPlugin.js",
+    "lib/optimize/ChunkModuleIdRangePlugin.js",
+    "lib/optimize/EnsureChunkConditionsPlugin.js",
+    "lib/optimize/FlagIncludedChunksPlugin.js",
+    "lib/optimize/LimitChunkCountPlugin.js",
+    "lib/optimize/MergeDuplicateChunksPlugin.js",
+    "lib/optimize/MinChunkSizePlugin.js",
+    "lib/optimize/ModuleConcatenationPlugin.js",
+    "lib/optimize/NaturalChunkOrderPlugin.js",
+    "lib/optimize/OccurrenceChunkOrderPlugin.js",
+    "lib/optimize/OccurrenceModuleOrderPlugin.js",
+    "lib/optimize/OccurrenceOrderPlugin.js",
+    "lib/optimize/RemoveEmptyChunksPlugin.js",
+    "lib/optimize/RemoveParentModulesPlugin.js",
+    "lib/optimize/RuntimeChunkPlugin.js",
+    "lib/optimize/SideEffectsFlagPlugin.js",
+    "lib/optimize/SplitChunksPlugin.js",
+    "lib/performance/SizeLimitsPlugin.js",
+    "lib/wasm/WasmFinalizeExportsPlugin.js",
+    "lib/wasm/WasmMainTemplatePlugin.js",
+    "lib/wasm/WebAssemblyModulesPlugin.js",
+    "lib/web/FetchCompileWasmTemplatePlugin.js",
+    "lib/web/JsonpChunkTemplatePlugin.js",
+    "lib/web/JsonpExportMainTemplatePlugin.js",
+    "lib/web/JsonpHotUpdateChunkTemplatePlugin.js",
+    "lib/web/JsonpMainTemplatePlugin.js",
+    "lib/web/JsonpTemplatePlugin.js",
+    "lib/webworker/WebWorkerChunkTemplatePlugin.js",
+    "lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js",
+    "lib/webworker/WebWorkerMainTemplatePlugin.js",
+    "lib/webworker/WebWorkerTemplatePlugin.js",
+    "renderManifest",
+    "modules",
+    "render",
+    "renderWithEntry",
+    "hash",
+    "hashForChunk",
+    "buildModule",
+    "rebuildModule",
+    "failedModule",
+    "succeedModule",
+    "dependencyReference",
+    "finishModules",
+    "finishRebuildingModule",
+    "unseal",
+    "seal",
+    "beforeChunks",
+    "afterChunks",
+    "optimizeDependenciesBasic",
+    "optimizeDependencies",
+    "optimizeDependenciesAdvanced",
+    "afterOptimizeDependencies",
+    "optimize",
+    "optimizeModulesBasic",
+    "optimizeModules",
+    "optimizeModulesAdvanced",
+    "afterOptimizeModules",
+    "optimizeChunksBasic",
+    "optimizeChunks",
+    "optimizeChunksAdvanced",
+    "afterOptimizeChunks",
+    "optimizeTree",
+    "afterOptimizeTree",
+    "optimizeChunkModulesBasic",
+    "optimizeChunkModules",
+    "optimizeChunkModulesAdvanced",
+    "afterOptimizeChunkModules",
+    "shouldRecord",
+    "reviveModules",
+    "optimizeModuleOrder",
+    "advancedOptimizeModuleOrder",
+    "beforeModuleIds",
+    "moduleIds",
+    "optimizeModuleIds",
+    "afterOptimizeModuleIds",
+    "reviveChunks",
+    "optimizeChunkOrder",
+    "beforeChunkIds",
+    "optimizeChunkIds",
+    "afterOptimizeChunkIds",
+    "recordModules",
+    "recordChunks",
+    "beforeHash",
+    "contentHash",
+    "afterHash",
+    "recordHash",
+    "record",
+    "beforeModuleAssets",
+    "shouldGenerateChunkAssets",
+    "beforeChunkAssets",
+    "additionalChunkAssets",
+    "additionalAssets",
+    "optimizeChunkAssets",
+    "afterOptimizeChunkAssets",
+    "optimizeAssets",
+    "afterOptimizeAssets",
+    "needAdditionalSeal",
+    "afterSeal",
+    "chunkHash",
+    "moduleAsset",
+    "chunkAsset",
+    "assetPath",
+    "needAdditionalPass",
+    "childCompiler",
+    "normalModuleLoader",
+    "optimizeExtractedChunksBasic",
+    "optimizeExtractedChunks",
+    "optimizeExtractedChunksAdvanced",
+    "afterOptimizeExtractedChunks",
+    "shouldEmit",
+    "done",
+    "additionalPass",
+    "beforeRun",
+    "run",
+    "emit",
+    "afterEmit",
+    "thisCompilation",
+    "compilation",
+    "normalModuleFactory",
+    "contextModuleFactory",
+    "beforeCompile",
+    "compile",
+    "make",
+    "afterCompile",
+    "watchRun",
+    "failed",
+    "invalid",
+    "watchClose",
+    "environment",
+    "afterEnvironment",
+    "afterPlugins",
+    "afterResolvers",
+    "entryOption",
+    "beforeResolve",
+    "afterResolve",
+    "contextModuleFiles",
+    "alternatives",
+    "modules",
+    "render",
+    "hash",
+    "renderManifest",
+    "modules",
+    "moduleObj",
+    "requireEnsure",
+    "bootstrap",
+    "localVars",
+    "require",
+    "requireExtensions",
+    "beforeStartup",
+    "startup",
+    "render",
+    "renderWithEntry",
+    "moduleRequire",
+    "addModule",
+    "currentHash",
+    "assetPath",
+    "hash",
+    "hashForChunk",
+    "globalHashPaths",
+    "globalHash",
+    "hotBootstrap",
+    "content",
+    "module",
+    "render",
+    "package",
+    "hash",
+    "done",
+    "invalid",
+    "run",
+    "watchClose",
+    "watchRun",
+    "resolver",
+    "factory",
+    "beforeResolve",
+    "afterResolve",
+    "createModule",
+    "module",
+    "createParser",
+    "parser",
+    "createGenerator",
+    "generator",
+    "evaluateTypeof",
+    "evaluate",
+    "evaluateIdentifier",
+    "evaluateDefinedIdentifier",
+    "evaluateCallExpressionMember",
+    "statement",
+    "statementIf",
+    "label",
+    "import",
+    "importSpecifier",
+    "export",
+    "exportImport",
+    "exportDeclaration",
+    "exportExpression",
+    "exportSpecifier",
+    "exportImportSpecifier",
+    "varDeclaration",
+    "varDeclarationLet",
+    "varDeclarationConst",
+    "varDeclarationVar",
+    "canRename",
+    "rename",
+    "assigned",
+    "assign",
+    "typeof",
+    "importCall",
+    "call",
+    "callAnyMember",
+    "new",
+    "expression",
+    "expressionAnyMember",
+    "expressionConditionalOperator",
+    "program",
+    "resolveOptions",
+    "resolver"
   ]
 }

@@ -5,24 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
+        html {
+            height: 100%;
+            border: none;
+            margin: 0;
+            padding: 0;
+        }
         body {
             background: #222;
             color: #f2f2f2;
+            height: 100%;
+            margin: 0;
         }
         .title {
+            position: fixed;
+            top: 0;
+            width: 100%;
             padding-top: 20px;
             text-align: center;
             color: #f2f2f2;
         }
         .main {
-            margin: 0 auto;
-            width: 700px;
-            height: 500px;
+            height: 100%;
         }
         .tooltip {
             position: fixed;
-            top: 50px;
-            right: 120px;
+            top: 140px;
+            left: 120px;
         }
         .tooltip div {
             height: 30px;
