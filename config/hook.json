@@ -115,12 +115,30 @@
   },
   "lib/ChunkTemplate.js": {
     "hooks": [
-      "renderManifest",
-      "modules",
-      "render",
-      "renderWithEntry",
-      "hash",
-      "hashForChunk"
+      {
+        "name": "renderManifest",
+        "line": 31
+      },
+      {
+        "name": "modules",
+        "line": 32
+      },
+      {
+        "name": "render",
+        "line": 38
+      },
+      {
+        "name": "renderWithEntry",
+        "line": 44
+      },
+      {
+        "name": "hash",
+        "line": 45
+      },
+      {
+        "name": "hashForChunk",
+        "line": 46
+      }
     ],
     "taps": [],
     "calls": [
@@ -155,78 +173,294 @@
   },
   "lib/Compilation.js": {
     "hooks": [
-      "buildModule",
-      "rebuildModule",
-      "failedModule",
-      "succeedModule",
-      "dependencyReference",
-      "finishModules",
-      "finishRebuildingModule",
-      "unseal",
-      "seal",
-      "beforeChunks",
-      "afterChunks",
-      "optimizeDependenciesBasic",
-      "optimizeDependencies",
-      "optimizeDependenciesAdvanced",
-      "afterOptimizeDependencies",
-      "optimize",
-      "optimizeModulesBasic",
-      "optimizeModules",
-      "optimizeModulesAdvanced",
-      "afterOptimizeModules",
-      "optimizeChunksBasic",
-      "optimizeChunks",
-      "optimizeChunksAdvanced",
-      "afterOptimizeChunks",
-      "optimizeTree",
-      "afterOptimizeTree",
-      "optimizeChunkModulesBasic",
-      "optimizeChunkModules",
-      "optimizeChunkModulesAdvanced",
-      "afterOptimizeChunkModules",
-      "shouldRecord",
-      "reviveModules",
-      "optimizeModuleOrder",
-      "advancedOptimizeModuleOrder",
-      "beforeModuleIds",
-      "moduleIds",
-      "optimizeModuleIds",
-      "afterOptimizeModuleIds",
-      "reviveChunks",
-      "optimizeChunkOrder",
-      "beforeChunkIds",
-      "optimizeChunkIds",
-      "afterOptimizeChunkIds",
-      "recordModules",
-      "recordChunks",
-      "beforeHash",
-      "contentHash",
-      "afterHash",
-      "recordHash",
-      "record",
-      "beforeModuleAssets",
-      "shouldGenerateChunkAssets",
-      "beforeChunkAssets",
-      "additionalChunkAssets",
-      "additionalAssets",
-      "optimizeChunkAssets",
-      "afterOptimizeChunkAssets",
-      "optimizeAssets",
-      "afterOptimizeAssets",
-      "needAdditionalSeal",
-      "afterSeal",
-      "chunkHash",
-      "moduleAsset",
-      "chunkAsset",
-      "assetPath",
-      "needAdditionalPass",
-      "childCompiler",
-      "normalModuleLoader",
-      "optimizeExtractedChunksBasic",
-      "optimizeExtractedChunks",
-      "optimizeExtractedChunksAdvanced",
-      "afterOptimizeExtractedChunks"
+      {
+        "name": "buildModule",
+        "line": 211
+      },
+      {
+        "name": "rebuildModule",
+        "line": 213
+      },
+      {
+        "name": "failedModule",
+        "line": 215
+      },
+      {
+        "name": "succeedModule",
+        "line": 217
+      },
+      {
+        "name": "dependencyReference",
+        "line": 220
+      },
+      {
+        "name": "finishModules",
+        "line": 227
+      },
+      {
+        "name": "finishRebuildingModule",
+        "line": 229
+      },
+      {
+        "name": "unseal",
+        "line": 231
+      },
+      {
+        "name": "seal",
+        "line": 233
+      },
+      {
+        "name": "beforeChunks",
+        "line": 236
+      },
+      {
+        "name": "afterChunks",
+        "line": 238
+      },
+      {
+        "name": "optimizeDependenciesBasic",
+        "line": 241
+      },
+      {
+        "name": "optimizeDependencies",
+        "line": 243
+      },
+      {
+        "name": "optimizeDependenciesAdvanced",
+        "line": 245
+      },
+      {
+        "name": "afterOptimizeDependencies",
+        "line": 247
+      },
+      {
+        "name": "optimize",
+        "line": 250
+      },
+      {
+        "name": "optimizeModulesBasic",
+        "line": 252
+      },
+      {
+        "name": "optimizeModules",
+        "line": 254
+      },
+      {
+        "name": "optimizeModulesAdvanced",
+        "line": 256
+      },
+      {
+        "name": "afterOptimizeModules",
+        "line": 258
+      },
+      {
+        "name": "optimizeChunksBasic",
+        "line": 261
+      },
+      {
+        "name": "optimizeChunks",
+        "line": 263
+      },
+      {
+        "name": "optimizeChunksAdvanced",
+        "line": 265
+      },
+      {
+        "name": "afterOptimizeChunks",
+        "line": 267
+      },
+      {
+        "name": "optimizeTree",
+        "line": 270
+      },
+      {
+        "name": "afterOptimizeTree",
+        "line": 272
+      },
+      {
+        "name": "optimizeChunkModulesBasic",
+        "line": 275
+      },
+      {
+        "name": "optimizeChunkModules",
+        "line": 277
+      },
+      {
+        "name": "optimizeChunkModulesAdvanced",
+        "line": 279
+      },
+      {
+        "name": "afterOptimizeChunkModules",
+        "line": 281
+      },
+      {
+        "name": "shouldRecord",
+        "line": 283
+      },
+      {
+        "name": "reviveModules",
+        "line": 286
+      },
+      {
+        "name": "optimizeModuleOrder",
+        "line": 288
+      },
+      {
+        "name": "advancedOptimizeModuleOrder",
+        "line": 290
+      },
+      {
+        "name": "beforeModuleIds",
+        "line": 292
+      },
+      {
+        "name": "moduleIds",
+        "line": 294
+      },
+      {
+        "name": "optimizeModuleIds",
+        "line": 296
+      },
+      {
+        "name": "afterOptimizeModuleIds",
+        "line": 298
+      },
+      {
+        "name": "reviveChunks",
+        "line": 301
+      },
+      {
+        "name": "optimizeChunkOrder",
+        "line": 303
+      },
+      {
+        "name": "beforeChunkIds",
+        "line": 305
+      },
+      {
+        "name": "optimizeChunkIds",
+        "line": 307
+      },
+      {
+        "name": "afterOptimizeChunkIds",
+        "line": 309
+      },
+      {
+        "name": "recordModules",
+        "line": 312
+      },
+      {
+        "name": "recordChunks",
+        "line": 314
+      },
+      {
+        "name": "beforeHash",
+        "line": 317
+      },
+      {
+        "name": "contentHash",
+        "line": 319
+      },
+      {
+        "name": "afterHash",
+        "line": 321
+      },
+      {
+        "name": "recordHash",
+        "line": 323
+      },
+      {
+        "name": "record",
+        "line": 325
+      },
+      {
+        "name": "beforeModuleAssets",
+        "line": 328
+      },
+      {
+        "name": "shouldGenerateChunkAssets",
+        "line": 330
+      },
+      {
+        "name": "beforeChunkAssets",
+        "line": 332
+      },
+      {
+        "name": "additionalChunkAssets",
+        "line": 334
+      },
+      {
+        "name": "additionalAssets",
+        "line": 337
+      },
+      {
+        "name": "optimizeChunkAssets",
+        "line": 339
+      },
+      {
+        "name": "afterOptimizeChunkAssets",
+        "line": 341
+      },
+      {
+        "name": "optimizeAssets",
+        "line": 343
+      },
+      {
+        "name": "afterOptimizeAssets",
+        "line": 345
+      },
+      {
+        "name": "needAdditionalSeal",
+        "line": 348
+      },
+      {
+        "name": "afterSeal",
+        "line": 350
+      },
+      {
+        "name": "chunkHash",
+        "line": 353
+      },
+      {
+        "name": "moduleAsset",
+        "line": 355
+      },
+      {
+        "name": "chunkAsset",
+        "line": 357
+      },
+      {
+        "name": "assetPath",
+        "line": 360
+      },
+      {
+        "name": "needAdditionalPass",
+        "line": 363
+      },
+      {
+        "name": "childCompiler",
+        "line": 366
+      },
+      {
+        "name": "normalModuleLoader",
+        "line": 375
+      },
+      {
+        "name": "optimizeExtractedChunksBasic",
+        "line": 378
+      },
+      {
+        "name": "optimizeExtractedChunks",
+        "line": 380
+      },
+      {
+        "name": "optimizeExtractedChunksAdvanced",
+        "line": 382
+      },
+      {
+        "name": "afterOptimizeExtractedChunks",
+        "line": 384
+      }
     ],
     "taps": [],
     "calls": [
@@ -564,30 +798,102 @@
   },
   "lib/Compiler.js": {
     "hooks": [
-      "shouldEmit",
-      "done",
-      "additionalPass",
-      "beforeRun",
-      "run",
-      "emit",
-      "afterEmit",
-      "thisCompilation",
-      "compilation",
-      "normalModuleFactory",
-      "contextModuleFactory",
-      "beforeCompile",
-      "compile",
-      "make",
-      "afterCompile",
-      "watchRun",
-      "failed",
-      "invalid",
-      "watchClose",
-      "environment",
-      "afterEnvironment",
-      "afterPlugins",
-      "afterResolvers",
-      "entryOption"
+      {
+        "name": "shouldEmit",
+        "line": 52
+      },
+      {
+        "name": "done",
+        "line": 54
+      },
+      {
+        "name": "additionalPass",
+        "line": 56
+      },
+      {
+        "name": "beforeRun",
+        "line": 58
+      },
+      {
+        "name": "run",
+        "line": 60
+      },
+      {
+        "name": "emit",
+        "line": 62
+      },
+      {
+        "name": "afterEmit",
+        "line": 64
+      },
+      {
+        "name": "thisCompilation",
+        "line": 67
+      },
+      {
+        "name": "compilation",
+        "line": 69
+      },
+      {
+        "name": "normalModuleFactory",
+        "line": 71
+      },
+      {
+        "name": "contextModuleFactory",
+        "line": 73
+      },
+      {
+        "name": "beforeCompile",
+        "line": 76
+      },
+      {
+        "name": "compile",
+        "line": 78
+      },
+      {
+        "name": "make",
+        "line": 80
+      },
+      {
+        "name": "afterCompile",
+        "line": 82
+      },
+      {
+        "name": "watchRun",
+        "line": 85
+      },
+      {
+        "name": "failed",
+        "line": 87
+      },
+      {
+        "name": "invalid",
+        "line": 89
+      },
+      {
+        "name": "watchClose",
+        "line": 91
+      },
+      {
+        "name": "environment",
+        "line": 96
+      },
+      {
+        "name": "afterEnvironment",
+        "line": 98
+      },
+      {
+        "name": "afterPlugins",
+        "line": 100
+      },
+      {
+        "name": "afterResolvers",
+        "line": 102
+      },
+      {
+        "name": "entryOption",
+        "line": 104
+      }
     ],
     "taps": [],
     "calls": [
@@ -732,10 +1038,22 @@
   },
   "lib/ContextModuleFactory.js": {
     "hooks": [
-      "beforeResolve",
-      "afterResolve",
-      "contextModuleFiles",
-      "alternatives"
+      {
+        "name": "beforeResolve",
+        "line": 27
+      },
+      {
+        "name": "afterResolve",
+        "line": 29
+      },
+      {
+        "name": "contextModuleFiles",
+        "line": 31
+      },
+      {
+        "name": "alternatives",
+        "line": 33
+      }
     ],
     "taps": [],
     "calls": [
@@ -1357,9 +1675,18 @@
   },
   "lib/HotUpdateChunkTemplate.js": {
     "hooks": [
-      "modules",
-      "render",
-      "hash"
+      {
+        "name": "modules",
+        "line": 16
+      },
+      {
+        "name": "render",
+        "line": 23
+      },
+      {
+        "name": "hash",
+        "line": 32
+      }
     ],
     "taps": [],
     "calls": [
@@ -1536,27 +1863,90 @@
   },
   "lib/MainTemplate.js": {
     "hooks": [
-      "renderManifest",
-      "modules",
-      "moduleObj",
-      "requireEnsure",
-      "bootstrap",
-      "localVars",
-      "require",
-      "requireExtensions",
-      "beforeStartup",
-      "startup",
-      "render",
-      "renderWithEntry",
-      "moduleRequire",
-      "addModule",
-      "currentHash",
-      "assetPath",
-      "hash",
-      "hashForChunk",
-      "globalHashPaths",
-      "globalHash",
-      "hotBootstrap"
+      {
+        "name": "renderManifest",
+        "line": 67
+      },
+      {
+        "name": "modules",
+        "line": 68
+      },
+      {
+        "name": "moduleObj",
+        "line": 75
+      },
+      {
+        "name": "requireEnsure",
+        "line": 81
+      },
+      {
+        "name": "bootstrap",
+        "line": 87
+      },
+      {
+        "name": "localVars",
+        "line": 94
+      },
+      {
+        "name": "require",
+        "line": 95
+      },
+      {
+        "name": "requireExtensions",
+        "line": 96
+      },
+      {
+        "name": "beforeStartup",
+        "line": 98
+      },
+      {
+        "name": "startup",
+        "line": 100
+      },
+      {
+        "name": "render",
+        "line": 101
+      },
+      {
+        "name": "renderWithEntry",
+        "line": 108
+      },
+      {
+        "name": "moduleRequire",
+        "line": 109
+      },
+      {
+        "name": "addModule",
+        "line": 115
+      },
+      {
+        "name": "currentHash",
+        "line": 122
+      },
+      {
+        "name": "assetPath",
+        "line": 123
+      },
+      {
+        "name": "hash",
+        "line": 124
+      },
+      {
+        "name": "hashForChunk",
+        "line": 125
+      },
+      {
+        "name": "globalHashPaths",
+        "line": 126
+      },
+      {
+        "name": "globalHash",
+        "line": 127
+      },
+      {
+        "name": "hotBootstrap",
+        "line": 131
+      }
     ],
     "taps": [
       {
@@ -1706,11 +2096,26 @@
   },
   "lib/ModuleTemplate.js": {
     "hooks": [
-      "content",
-      "module",
-      "render",
-      "package",
-      "hash"
+      {
+        "name": "content",
+        "line": 18
+      },
+      {
+        "name": "module",
+        "line": 24
+      },
+      {
+        "name": "render",
+        "line": 30
+      },
+      {
+        "name": "package",
+        "line": 36
+      },
+      {
+        "name": "hash",
+        "line": 42
+      }
     ],
     "taps": [],
     "calls": [
@@ -1743,11 +2148,26 @@
   },
   "lib/MultiCompiler.js": {
     "hooks": [
-      "done",
-      "invalid",
-      "run",
-      "watchClose",
-      "watchRun"
+      {
+        "name": "done",
+        "line": 17
+      },
+      {
+        "name": "invalid",
+        "line": 18
+      },
+      {
+        "name": "run",
+        "line": 19
+      },
+      {
+        "name": "watchClose",
+        "line": 20
+      },
+      {
+        "name": "watchRun",
+        "line": 21
+      }
     ],
     "taps": [
       {
@@ -1885,16 +2305,46 @@
   },
   "lib/NormalModuleFactory.js": {
     "hooks": [
-      "resolver",
-      "factory",
-      "beforeResolve",
-      "afterResolve",
-      "createModule",
-      "module",
-      "createParser",
-      "parser",
-      "createGenerator",
-      "generator"
+      {
+        "name": "resolver",
+        "line": 65
+      },
+      {
+        "name": "factory",
+        "line": 66
+      },
+      {
+        "name": "beforeResolve",
+        "line": 67
+      },
+      {
+        "name": "afterResolve",
+        "line": 68
+      },
+      {
+        "name": "createModule",
+        "line": 69
+      },
+      {
+        "name": "module",
+        "line": 70
+      },
+      {
+        "name": "createParser",
+        "line": 71
+      },
+      {
+        "name": "parser",
+        "line": 72
+      },
+      {
+        "name": "createGenerator",
+        "line": 73
+      },
+      {
+        "name": "generator",
+        "line": 76
+      }
     ],
     "taps": [
       {
@@ -1985,39 +2435,138 @@
   },
   "lib/Parser.js": {
     "hooks": [
-      "evaluateTypeof",
-      "evaluate",
-      "evaluateIdentifier",
-      "evaluateDefinedIdentifier",
-      "evaluateCallExpressionMember",
-      "statement",
-      "statementIf",
-      "label",
-      "import",
-      "importSpecifier",
-      "export",
-      "exportImport",
-      "exportDeclaration",
-      "exportExpression",
-      "exportSpecifier",
-      "exportImportSpecifier",
-      "varDeclaration",
-      "varDeclarationLet",
-      "varDeclarationConst",
-      "varDeclarationVar",
-      "canRename",
-      "rename",
-      "assigned",
-      "assign",
-      "typeof",
-      "importCall",
-      "call",
-      "callAnyMember",
-      "new",
-      "expression",
-      "expressionAnyMember",
-      "expressionConditionalOperator",
-      "program"
+      {
+        "name": "evaluateTypeof",
+        "line": 48
+      },
+      {
+        "name": "evaluate",
+        "line": 49
+      },
+      {
+        "name": "evaluateIdentifier",
+        "line": 50
+      },
+      {
+        "name": "evaluateDefinedIdentifier",
+        "line": 51
+      },
+      {
+        "name": "evaluateCallExpressionMember",
+        "line": 54
+      },
+      {
+        "name": "statement",
+        "line": 57
+      },
+      {
+        "name": "statementIf",
+        "line": 58
+      },
+      {
+        "name": "label",
+        "line": 59
+      },
+      {
+        "name": "import",
+        "line": 60
+      },
+      {
+        "name": "importSpecifier",
+        "line": 61
+      },
+      {
+        "name": "export",
+        "line": 67
+      },
+      {
+        "name": "exportImport",
+        "line": 68
+      },
+      {
+        "name": "exportDeclaration",
+        "line": 69
+      },
+      {
+        "name": "exportExpression",
+        "line": 70
+      },
+      {
+        "name": "exportSpecifier",
+        "line": 71
+      },
+      {
+        "name": "exportImportSpecifier",
+        "line": 77
+      },
+      {
+        "name": "varDeclaration",
+        "line": 84
+      },
+      {
+        "name": "varDeclarationLet",
+        "line": 85
+      },
+      {
+        "name": "varDeclarationConst",
+        "line": 86
+      },
+      {
+        "name": "varDeclarationVar",
+        "line": 87
+      },
+      {
+        "name": "canRename",
+        "line": 88
+      },
+      {
+        "name": "rename",
+        "line": 89
+      },
+      {
+        "name": "assigned",
+        "line": 90
+      },
+      {
+        "name": "assign",
+        "line": 91
+      },
+      {
+        "name": "typeof",
+        "line": 92
+      },
+      {
+        "name": "importCall",
+        "line": 93
+      },
+      {
+        "name": "call",
+        "line": 94
+      },
+      {
+        "name": "callAnyMember",
+        "line": 95
+      },
+      {
+        "name": "new",
+        "line": 96
+      },
+      {
+        "name": "expression",
+        "line": 97
+      },
+      {
+        "name": "expressionAnyMember",
+        "line": 98
+      },
+      {
+        "name": "expressionConditionalOperator",
+        "line": 99
+      },
+      {
+        "name": "program",
+        "line": 100
+      }
     ],
     "taps": [],
     "calls": [
@@ -2249,8 +2798,14 @@
   },
   "lib/ResolverFactory.js": {
     "hooks": [
-      "resolveOptions",
-      "resolver"
+      {
+        "name": "resolveOptions",
+        "line": 14
+      },
+      {
+        "name": "resolver",
+        "line": 17
+      }
     ],
     "taps": [],
     "calls": []
