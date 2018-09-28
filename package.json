@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node run && webpack-dev-server",
+    "build": "node run && webpack",
     "watchSource": "node watch"
   },
   "keywords": [

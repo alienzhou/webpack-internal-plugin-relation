@@ -1,8 +1,10 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const event = process.env.npm_lifecycle_event;
+const isProd = event === 'build';
 
-module.exports = {
-    mode: 'development',
+const config = {
+    mode: isProd ? 'production' : 'development',
     entry: './static/index.js',
     output: {
         path: path.resolve(__dirname, './dist'),
@@ -11,10 +13,15 @@ module.exports = {
     plugins: [new HtmlWebpackPlugin({
         filename: 'index.html',
         template: './static/index.html'
-    })],
-    devServer: {
+    })]
+};
+
+if (!isProd) {
+    config.devServer = {
         contentBase: path.join(__dirname, 'dist'),
         compress: true,
         port: 8085
-    }
+    };
 }
+
+module.exports = config;
