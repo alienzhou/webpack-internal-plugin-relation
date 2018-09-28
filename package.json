@@ -1,5 +1,5 @@
 {
-  "name": "webapck-plugin-relation",
+  "name": "webapck-internal-plugin-relation",
   "version": "0.1.0",
   "description": "a tiny tool for showing the relation of webpack internal plugins",
   "main": "index.js",
