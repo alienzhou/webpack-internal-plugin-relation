@@ -94,7 +94,7 @@ myChart.setOption(option);
 
 myChart.on('click', function (params) {
     const base = 'https://github.com/webpack/webpack/tree/master/';
-    if (params.dataType === 'node' || params.data.type === 'module') {
+    if (params.dataType === 'node' && params.data.type === 'module') {
         window.open(`${base}${params.name}`, null);
     }
     if (params.dataType === 'edge') {
