@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node run && webpack-dev-server",
     "build": "node run && webpack",
+    "data": "node run",
     "watchSource": "node watch"
   },
   "keywords": [
