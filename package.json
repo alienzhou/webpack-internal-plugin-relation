@@ -4,7 +4,8 @@
   "description": "a tiny tool for showing the relation of webpack internal plugins",
   "main": "index.js",
   "scripts": {
-    "start": "node run && webpack-dev-server"
+    "start": "node run && webpack-dev-server",
+    "watchSource": "node watch"
   },
   "keywords": [
     "webapck",

@@ -2533,6 +2533,8 @@
     {
       "source": 5,
       "target": 131,
+      "sourceLine": 31,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2543,6 +2545,8 @@
     {
       "source": 5,
       "target": 132,
+      "sourceLine": 32,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2553,6 +2557,8 @@
     {
       "source": 5,
       "target": 133,
+      "sourceLine": 38,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2563,6 +2569,8 @@
     {
       "source": 5,
       "target": 134,
+      "sourceLine": 44,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2573,6 +2581,8 @@
     {
       "source": 5,
       "target": 135,
+      "sourceLine": 45,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2583,6 +2593,8 @@
     {
       "source": 5,
       "target": 136,
+      "sourceLine": 46,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2593,6 +2605,8 @@
     {
       "source": 7,
       "target": 137,
+      "sourceLine": 211,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2603,6 +2617,8 @@
     {
       "source": 7,
       "target": 138,
+      "sourceLine": 213,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2613,6 +2629,8 @@
     {
       "source": 7,
       "target": 139,
+      "sourceLine": 215,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2623,6 +2641,8 @@
     {
       "source": 7,
       "target": 140,
+      "sourceLine": 217,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2633,6 +2653,8 @@
     {
       "source": 7,
       "target": 141,
+      "sourceLine": 220,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2643,6 +2665,8 @@
     {
       "source": 7,
       "target": 142,
+      "sourceLine": 227,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2653,6 +2677,8 @@
     {
       "source": 7,
       "target": 143,
+      "sourceLine": 229,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2663,6 +2689,8 @@
     {
       "source": 7,
       "target": 144,
+      "sourceLine": 231,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2673,6 +2701,8 @@
     {
       "source": 7,
       "target": 145,
+      "sourceLine": 233,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2683,6 +2713,8 @@
     {
       "source": 7,
       "target": 146,
+      "sourceLine": 236,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2693,6 +2725,8 @@
     {
       "source": 7,
       "target": 147,
+      "sourceLine": 238,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2703,6 +2737,8 @@
     {
       "source": 7,
       "target": 148,
+      "sourceLine": 241,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2713,6 +2749,8 @@
     {
       "source": 7,
       "target": 149,
+      "sourceLine": 243,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2723,6 +2761,8 @@
     {
       "source": 7,
       "target": 150,
+      "sourceLine": 245,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2733,6 +2773,8 @@
     {
       "source": 7,
       "target": 151,
+      "sourceLine": 247,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2743,6 +2785,8 @@
     {
       "source": 7,
       "target": 152,
+      "sourceLine": 250,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2753,6 +2797,8 @@
     {
       "source": 7,
       "target": 153,
+      "sourceLine": 252,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2763,6 +2809,8 @@
     {
       "source": 7,
       "target": 154,
+      "sourceLine": 254,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2773,6 +2821,8 @@
     {
       "source": 7,
       "target": 155,
+      "sourceLine": 256,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2783,6 +2833,8 @@
     {
       "source": 7,
       "target": 156,
+      "sourceLine": 258,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2793,6 +2845,8 @@
     {
       "source": 7,
       "target": 157,
+      "sourceLine": 261,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2803,6 +2857,8 @@
     {
       "source": 7,
       "target": 158,
+      "sourceLine": 263,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2813,6 +2869,8 @@
     {
       "source": 7,
       "target": 159,
+      "sourceLine": 265,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2823,6 +2881,8 @@
     {
       "source": 7,
       "target": 160,
+      "sourceLine": 267,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2833,6 +2893,8 @@
     {
       "source": 7,
       "target": 161,
+      "sourceLine": 270,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2843,6 +2905,8 @@
     {
       "source": 7,
       "target": 162,
+      "sourceLine": 272,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2853,6 +2917,8 @@
     {
       "source": 7,
       "target": 163,
+      "sourceLine": 275,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2863,6 +2929,8 @@
     {
       "source": 7,
       "target": 164,
+      "sourceLine": 277,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2873,6 +2941,8 @@
     {
       "source": 7,
       "target": 165,
+      "sourceLine": 279,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2883,6 +2953,8 @@
     {
       "source": 7,
       "target": 166,
+      "sourceLine": 281,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2893,6 +2965,8 @@
     {
       "source": 7,
       "target": 167,
+      "sourceLine": 283,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2903,6 +2977,8 @@
     {
       "source": 7,
       "target": 168,
+      "sourceLine": 286,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2913,6 +2989,8 @@
     {
       "source": 7,
       "target": 169,
+      "sourceLine": 288,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2923,6 +3001,8 @@
     {
       "source": 7,
       "target": 170,
+      "sourceLine": 290,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2933,6 +3013,8 @@
     {
       "source": 7,
       "target": 171,
+      "sourceLine": 292,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2943,6 +3025,8 @@
     {
       "source": 7,
       "target": 172,
+      "sourceLine": 294,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2953,6 +3037,8 @@
     {
       "source": 7,
       "target": 173,
+      "sourceLine": 296,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2963,6 +3049,8 @@
     {
       "source": 7,
       "target": 174,
+      "sourceLine": 298,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2973,6 +3061,8 @@
     {
       "source": 7,
       "target": 175,
+      "sourceLine": 301,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2983,6 +3073,8 @@
     {
       "source": 7,
       "target": 176,
+      "sourceLine": 303,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -2993,6 +3085,8 @@
     {
       "source": 7,
       "target": 177,
+      "sourceLine": 305,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3003,6 +3097,8 @@
     {
       "source": 7,
       "target": 178,
+      "sourceLine": 307,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3013,6 +3109,8 @@
     {
       "source": 7,
       "target": 179,
+      "sourceLine": 309,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3023,6 +3121,8 @@
     {
       "source": 7,
       "target": 180,
+      "sourceLine": 312,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3033,6 +3133,8 @@
     {
       "source": 7,
       "target": 181,
+      "sourceLine": 314,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3043,6 +3145,8 @@
     {
       "source": 7,
       "target": 182,
+      "sourceLine": 317,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3053,6 +3157,8 @@
     {
       "source": 7,
       "target": 183,
+      "sourceLine": 319,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3063,6 +3169,8 @@
     {
       "source": 7,
       "target": 184,
+      "sourceLine": 321,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3073,6 +3181,8 @@
     {
       "source": 7,
       "target": 185,
+      "sourceLine": 323,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3083,6 +3193,8 @@
     {
       "source": 7,
       "target": 186,
+      "sourceLine": 325,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3093,6 +3205,8 @@
     {
       "source": 7,
       "target": 187,
+      "sourceLine": 328,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3103,6 +3217,8 @@
     {
       "source": 7,
       "target": 188,
+      "sourceLine": 330,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3113,6 +3229,8 @@
     {
       "source": 7,
       "target": 189,
+      "sourceLine": 332,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3123,6 +3241,8 @@
     {
       "source": 7,
       "target": 190,
+      "sourceLine": 334,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3133,6 +3253,8 @@
     {
       "source": 7,
       "target": 191,
+      "sourceLine": 337,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3143,6 +3265,8 @@
     {
       "source": 7,
       "target": 192,
+      "sourceLine": 339,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3153,6 +3277,8 @@
     {
       "source": 7,
       "target": 193,
+      "sourceLine": 341,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3163,6 +3289,8 @@
     {
       "source": 7,
       "target": 194,
+      "sourceLine": 343,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3173,6 +3301,8 @@
     {
       "source": 7,
       "target": 195,
+      "sourceLine": 345,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3183,6 +3313,8 @@
     {
       "source": 7,
       "target": 196,
+      "sourceLine": 348,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3193,6 +3325,8 @@
     {
       "source": 7,
       "target": 197,
+      "sourceLine": 350,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3203,6 +3337,8 @@
     {
       "source": 7,
       "target": 198,
+      "sourceLine": 353,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3213,6 +3349,8 @@
     {
       "source": 7,
       "target": 199,
+      "sourceLine": 355,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3223,6 +3361,8 @@
     {
       "source": 7,
       "target": 200,
+      "sourceLine": 357,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3233,6 +3373,8 @@
     {
       "source": 7,
       "target": 201,
+      "sourceLine": 360,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3243,6 +3385,8 @@
     {
       "source": 7,
       "target": 202,
+      "sourceLine": 363,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3253,6 +3397,8 @@
     {
       "source": 7,
       "target": 203,
+      "sourceLine": 366,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3263,6 +3409,8 @@
     {
       "source": 7,
       "target": 204,
+      "sourceLine": 375,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3273,6 +3421,8 @@
     {
       "source": 7,
       "target": 205,
+      "sourceLine": 378,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3283,6 +3433,8 @@
     {
       "source": 7,
       "target": 206,
+      "sourceLine": 380,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3293,6 +3445,8 @@
     {
       "source": 7,
       "target": 207,
+      "sourceLine": 382,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3303,6 +3457,8 @@
     {
       "source": 7,
       "target": 208,
+      "sourceLine": 384,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3313,6 +3469,8 @@
     {
       "source": 8,
       "target": 209,
+      "sourceLine": 52,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3323,6 +3481,8 @@
     {
       "source": 8,
       "target": 210,
+      "sourceLine": 54,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3333,6 +3493,8 @@
     {
       "source": 8,
       "target": 211,
+      "sourceLine": 56,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3343,6 +3505,8 @@
     {
       "source": 8,
       "target": 212,
+      "sourceLine": 58,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3353,6 +3517,8 @@
     {
       "source": 8,
       "target": 213,
+      "sourceLine": 60,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3363,6 +3529,8 @@
     {
       "source": 8,
       "target": 214,
+      "sourceLine": 62,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3373,6 +3541,8 @@
     {
       "source": 8,
       "target": 215,
+      "sourceLine": 64,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3383,6 +3553,8 @@
     {
       "source": 8,
       "target": 216,
+      "sourceLine": 67,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3393,6 +3565,8 @@
     {
       "source": 8,
       "target": 217,
+      "sourceLine": 69,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3403,6 +3577,8 @@
     {
       "source": 8,
       "target": 218,
+      "sourceLine": 71,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3413,6 +3589,8 @@
     {
       "source": 8,
       "target": 219,
+      "sourceLine": 73,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3423,6 +3601,8 @@
     {
       "source": 8,
       "target": 220,
+      "sourceLine": 76,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3433,6 +3613,8 @@
     {
       "source": 8,
       "target": 221,
+      "sourceLine": 78,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3443,6 +3625,8 @@
     {
       "source": 8,
       "target": 222,
+      "sourceLine": 80,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3453,6 +3637,8 @@
     {
       "source": 8,
       "target": 223,
+      "sourceLine": 82,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3463,6 +3649,8 @@
     {
       "source": 8,
       "target": 224,
+      "sourceLine": 85,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3473,6 +3661,8 @@
     {
       "source": 8,
       "target": 225,
+      "sourceLine": 87,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3483,6 +3673,8 @@
     {
       "source": 8,
       "target": 226,
+      "sourceLine": 89,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3493,6 +3685,8 @@
     {
       "source": 8,
       "target": 227,
+      "sourceLine": 91,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3503,6 +3697,8 @@
     {
       "source": 8,
       "target": 228,
+      "sourceLine": 96,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3513,6 +3709,8 @@
     {
       "source": 8,
       "target": 229,
+      "sourceLine": 98,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3523,6 +3721,8 @@
     {
       "source": 8,
       "target": 230,
+      "sourceLine": 100,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3533,6 +3733,8 @@
     {
       "source": 8,
       "target": 231,
+      "sourceLine": 102,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3543,6 +3745,8 @@
     {
       "source": 8,
       "target": 232,
+      "sourceLine": 104,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3553,6 +3757,8 @@
     {
       "source": 11,
       "target": 233,
+      "sourceLine": 27,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3563,6 +3769,8 @@
     {
       "source": 11,
       "target": 234,
+      "sourceLine": 29,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3573,6 +3781,8 @@
     {
       "source": 11,
       "target": 235,
+      "sourceLine": 31,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3583,6 +3793,8 @@
     {
       "source": 11,
       "target": 236,
+      "sourceLine": 33,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3593,6 +3805,8 @@
     {
       "source": 38,
       "target": 237,
+      "sourceLine": 16,
+      "sourceFile": "lib/HotUpdateChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3603,6 +3817,8 @@
     {
       "source": 38,
       "target": 238,
+      "sourceLine": 23,
+      "sourceFile": "lib/HotUpdateChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3613,6 +3829,8 @@
     {
       "source": 38,
       "target": 239,
+      "sourceLine": 32,
+      "sourceFile": "lib/HotUpdateChunkTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3623,6 +3841,8 @@
     {
       "source": 46,
       "target": 240,
+      "sourceLine": 67,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3633,6 +3853,8 @@
     {
       "source": 46,
       "target": 241,
+      "sourceLine": 68,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3643,6 +3865,8 @@
     {
       "source": 46,
       "target": 242,
+      "sourceLine": 75,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3653,6 +3877,8 @@
     {
       "source": 46,
       "target": 243,
+      "sourceLine": 81,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3663,6 +3889,8 @@
     {
       "source": 46,
       "target": 244,
+      "sourceLine": 87,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3673,6 +3901,8 @@
     {
       "source": 46,
       "target": 245,
+      "sourceLine": 94,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3683,6 +3913,8 @@
     {
       "source": 46,
       "target": 246,
+      "sourceLine": 95,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3693,6 +3925,8 @@
     {
       "source": 46,
       "target": 247,
+      "sourceLine": 96,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3703,6 +3937,8 @@
     {
       "source": 46,
       "target": 248,
+      "sourceLine": 98,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3713,6 +3949,8 @@
     {
       "source": 46,
       "target": 249,
+      "sourceLine": 100,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3723,6 +3961,8 @@
     {
       "source": 46,
       "target": 250,
+      "sourceLine": 101,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3733,6 +3973,8 @@
     {
       "source": 46,
       "target": 251,
+      "sourceLine": 108,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3743,6 +3985,8 @@
     {
       "source": 46,
       "target": 252,
+      "sourceLine": 109,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3753,6 +3997,8 @@
     {
       "source": 46,
       "target": 253,
+      "sourceLine": 115,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3763,6 +4009,8 @@
     {
       "source": 46,
       "target": 254,
+      "sourceLine": 122,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3773,6 +4021,8 @@
     {
       "source": 46,
       "target": 255,
+      "sourceLine": 123,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3783,6 +4033,8 @@
     {
       "source": 46,
       "target": 256,
+      "sourceLine": 124,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3793,6 +4045,8 @@
     {
       "source": 46,
       "target": 257,
+      "sourceLine": 125,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3803,6 +4057,8 @@
     {
       "source": 46,
       "target": 258,
+      "sourceLine": 126,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3813,6 +4069,8 @@
     {
       "source": 46,
       "target": 259,
+      "sourceLine": 127,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3823,6 +4081,8 @@
     {
       "source": 46,
       "target": 260,
+      "sourceLine": 131,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3833,6 +4093,8 @@
     {
       "source": 47,
       "target": 261,
+      "sourceLine": 18,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3843,6 +4105,8 @@
     {
       "source": 47,
       "target": 262,
+      "sourceLine": 24,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3853,6 +4117,8 @@
     {
       "source": 47,
       "target": 263,
+      "sourceLine": 30,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3863,6 +4129,8 @@
     {
       "source": 47,
       "target": 264,
+      "sourceLine": 36,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3873,6 +4141,8 @@
     {
       "source": 47,
       "target": 265,
+      "sourceLine": 42,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3883,6 +4153,8 @@
     {
       "source": 48,
       "target": 266,
+      "sourceLine": 17,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3893,6 +4165,8 @@
     {
       "source": 48,
       "target": 267,
+      "sourceLine": 18,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3903,6 +4177,8 @@
     {
       "source": 48,
       "target": 268,
+      "sourceLine": 19,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3913,6 +4189,8 @@
     {
       "source": 48,
       "target": 269,
+      "sourceLine": 20,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3923,6 +4201,8 @@
     {
       "source": 48,
       "target": 270,
+      "sourceLine": 21,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3933,6 +4213,8 @@
     {
       "source": 56,
       "target": 271,
+      "sourceLine": 65,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3943,6 +4225,8 @@
     {
       "source": 56,
       "target": 272,
+      "sourceLine": 66,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3953,6 +4237,8 @@
     {
       "source": 56,
       "target": 273,
+      "sourceLine": 67,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3963,6 +4249,8 @@
     {
       "source": 56,
       "target": 274,
+      "sourceLine": 68,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3973,6 +4261,8 @@
     {
       "source": 56,
       "target": 275,
+      "sourceLine": 69,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3983,6 +4273,8 @@
     {
       "source": 56,
       "target": 276,
+      "sourceLine": 70,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -3993,6 +4285,8 @@
     {
       "source": 56,
       "target": 277,
+      "sourceLine": 71,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4003,6 +4297,8 @@
     {
       "source": 56,
       "target": 278,
+      "sourceLine": 72,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4013,6 +4309,8 @@
     {
       "source": 56,
       "target": 279,
+      "sourceLine": 73,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4023,6 +4321,8 @@
     {
       "source": 56,
       "target": 280,
+      "sourceLine": 76,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4033,6 +4333,8 @@
     {
       "source": 59,
       "target": 281,
+      "sourceLine": 48,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4043,6 +4345,8 @@
     {
       "source": 59,
       "target": 282,
+      "sourceLine": 49,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4053,6 +4357,8 @@
     {
       "source": 59,
       "target": 283,
+      "sourceLine": 50,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4063,6 +4369,8 @@
     {
       "source": 59,
       "target": 284,
+      "sourceLine": 51,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4073,6 +4381,8 @@
     {
       "source": 59,
       "target": 285,
+      "sourceLine": 54,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4083,6 +4393,8 @@
     {
       "source": 59,
       "target": 286,
+      "sourceLine": 57,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4093,6 +4405,8 @@
     {
       "source": 59,
       "target": 287,
+      "sourceLine": 58,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4103,6 +4417,8 @@
     {
       "source": 59,
       "target": 288,
+      "sourceLine": 59,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4113,6 +4429,8 @@
     {
       "source": 59,
       "target": 289,
+      "sourceLine": 60,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4123,6 +4441,8 @@
     {
       "source": 59,
       "target": 290,
+      "sourceLine": 61,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4133,6 +4453,8 @@
     {
       "source": 59,
       "target": 291,
+      "sourceLine": 67,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4143,6 +4465,8 @@
     {
       "source": 59,
       "target": 292,
+      "sourceLine": 68,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4153,6 +4477,8 @@
     {
       "source": 59,
       "target": 293,
+      "sourceLine": 69,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4163,6 +4489,8 @@
     {
       "source": 59,
       "target": 294,
+      "sourceLine": 70,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4173,6 +4501,8 @@
     {
       "source": 59,
       "target": 295,
+      "sourceLine": 71,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4183,6 +4513,8 @@
     {
       "source": 59,
       "target": 296,
+      "sourceLine": 77,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4193,6 +4525,8 @@
     {
       "source": 59,
       "target": 297,
+      "sourceLine": 84,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4203,6 +4537,8 @@
     {
       "source": 59,
       "target": 298,
+      "sourceLine": 85,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4213,6 +4549,8 @@
     {
       "source": 59,
       "target": 299,
+      "sourceLine": 86,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4223,6 +4561,8 @@
     {
       "source": 59,
       "target": 300,
+      "sourceLine": 87,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4233,6 +4573,8 @@
     {
       "source": 59,
       "target": 301,
+      "sourceLine": 88,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4243,6 +4585,8 @@
     {
       "source": 59,
       "target": 302,
+      "sourceLine": 89,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4253,6 +4597,8 @@
     {
       "source": 59,
       "target": 303,
+      "sourceLine": 90,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4263,6 +4609,8 @@
     {
       "source": 59,
       "target": 304,
+      "sourceLine": 91,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4273,6 +4621,8 @@
     {
       "source": 59,
       "target": 305,
+      "sourceLine": 92,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4283,6 +4633,8 @@
     {
       "source": 59,
       "target": 306,
+      "sourceLine": 93,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4293,6 +4645,8 @@
     {
       "source": 59,
       "target": 307,
+      "sourceLine": 94,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4303,6 +4657,8 @@
     {
       "source": 59,
       "target": 308,
+      "sourceLine": 95,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4313,6 +4669,8 @@
     {
       "source": 59,
       "target": 309,
+      "sourceLine": 96,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4323,6 +4681,8 @@
     {
       "source": 59,
       "target": 310,
+      "sourceLine": 97,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4333,6 +4693,8 @@
     {
       "source": 59,
       "target": 311,
+      "sourceLine": 98,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4343,6 +4705,8 @@
     {
       "source": 59,
       "target": 312,
+      "sourceLine": 99,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4353,6 +4717,8 @@
     {
       "source": 59,
       "target": 313,
+      "sourceLine": 100,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4363,6 +4729,8 @@
     {
       "source": 65,
       "target": 314,
+      "sourceLine": 14,
+      "sourceFile": "lib/ResolverFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4373,6 +4741,8 @@
     {
       "source": 65,
       "target": 315,
+      "sourceLine": 17,
+      "sourceFile": "lib/ResolverFactory.js",
       "lineStyle": {
         "type": "dashed",
         "color": "#D47272"
@@ -4383,6 +4753,8 @@
     {
       "source": 0,
       "target": 217,
+      "sourceLine": 36,
+      "sourceFile": "lib/APIPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4392,6 +4764,8 @@
     {
       "source": 1,
       "target": 251,
+      "sourceLine": 67,
+      "sourceFile": "lib/AmdMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4401,6 +4775,8 @@
     {
       "source": 1,
       "target": 258,
+      "sourceLine": 73,
+      "sourceFile": "lib/AmdMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4410,6 +4786,8 @@
     {
       "source": 1,
       "target": 265,
+      "sourceLine": 80,
+      "sourceFile": "lib/AmdMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4419,6 +4797,8 @@
     {
       "source": 2,
       "target": 217,
+      "sourceLine": 20,
+      "sourceFile": "lib/AutomaticPrefetchPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4428,6 +4808,8 @@
     {
       "source": 2,
       "target": 223,
+      "sourceLine": 30,
+      "sourceFile": "lib/AutomaticPrefetchPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4437,6 +4819,8 @@
     {
       "source": 2,
       "target": 222,
+      "sourceLine": 38,
+      "sourceFile": "lib/AutomaticPrefetchPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4446,6 +4830,8 @@
     {
       "source": 3,
       "target": 217,
+      "sourceLine": 64,
+      "sourceFile": "lib/BannerPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4455,6 +4841,8 @@
     {
       "source": 3,
       "target": 192,
+      "sourceLine": 65,
+      "sourceFile": "lib/BannerPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4464,6 +4852,8 @@
     {
       "source": 4,
       "target": 216,
+      "sourceLine": 22,
+      "sourceFile": "lib/CachePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4473,6 +4863,8 @@
     {
       "source": 4,
       "target": 203,
+      "sourceLine": 24,
+      "sourceFile": "lib/CachePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4482,6 +4874,8 @@
     {
       "source": 4,
       "target": 270,
+      "sourceLine": 47,
+      "sourceFile": "lib/CachePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4491,6 +4885,8 @@
     {
       "source": 4,
       "target": 268,
+      "sourceLine": 50,
+      "sourceFile": "lib/CachePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4500,6 +4896,8 @@
     {
       "source": 4,
       "target": 223,
+      "sourceLine": 83,
+      "sourceFile": "lib/CachePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4509,6 +4907,8 @@
     {
       "source": 6,
       "target": 217,
+      "sourceLine": 20,
+      "sourceFile": "lib/CompatibilityPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4518,6 +4918,8 @@
     {
       "source": 9,
       "target": 217,
+      "sourceLine": 111,
+      "sourceFile": "lib/ConstPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4527,6 +4929,8 @@
     {
       "source": 9,
       "target": 287,
+      "sourceLine": 121,
+      "sourceFile": "lib/ConstPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4536,6 +4940,8 @@
     {
       "source": 9,
       "target": 312,
+      "sourceLine": 189,
+      "sourceFile": "lib/ConstPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4545,6 +4951,8 @@
     {
       "source": 10,
       "target": 219,
+      "sourceLine": 20,
+      "sourceFile": "lib/ContextExclusionPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4554,6 +4962,8 @@
     {
       "source": 10,
       "target": 235,
+      "sourceLine": 21,
+      "sourceFile": "lib/ContextExclusionPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4563,6 +4973,8 @@
     {
       "source": 12,
       "target": 219,
+      "sourceLine": 59,
+      "sourceFile": "lib/ContextReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4572,6 +4984,8 @@
     {
       "source": 12,
       "target": 273,
+      "sourceLine": 60,
+      "sourceFile": "lib/ContextReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4581,6 +4995,8 @@
     {
       "source": 12,
       "target": 274,
+      "sourceLine": 82,
+      "sourceFile": "lib/ContextReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4590,6 +5006,8 @@
     {
       "source": 13,
       "target": 217,
+      "sourceLine": 93,
+      "sourceFile": "lib/DefinePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4599,6 +5017,8 @@
     {
       "source": 14,
       "target": 272,
+      "sourceLine": 30,
+      "sourceFile": "lib/DelegatedModuleFactoryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4608,6 +5028,8 @@
     {
       "source": 14,
       "target": 276,
+      "sourceLine": 73,
+      "sourceFile": "lib/DelegatedModuleFactoryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4617,6 +5039,8 @@
     {
       "source": 15,
       "target": 217,
+      "sourceLine": 19,
+      "sourceFile": "lib/DelegatedPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4626,6 +5050,8 @@
     {
       "source": 15,
       "target": 221,
+      "sourceLine": 33,
+      "sourceFile": "lib/DelegatedPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4635,6 +5061,8 @@
     {
       "source": 16,
       "target": 217,
+      "sourceLine": 19,
+      "sourceFile": "lib/DllEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4644,6 +5072,8 @@
     {
       "source": 16,
       "target": 222,
+      "sourceLine": 33,
+      "sourceFile": "lib/DllEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4653,6 +5083,8 @@
     {
       "source": 17,
       "target": 232,
+      "sourceLine": 21,
+      "sourceFile": "lib/DllPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4662,6 +5094,8 @@
     {
       "source": 18,
       "target": 217,
+      "sourceLine": 26,
+      "sourceFile": "lib/DllReferencePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4671,6 +5105,8 @@
     {
       "source": 18,
       "target": 220,
+      "sourceLine": 40,
+      "sourceFile": "lib/DllReferencePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4680,6 +5116,8 @@
     {
       "source": 18,
       "target": 221,
+      "sourceLine": 73,
+      "sourceFile": "lib/DllReferencePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4689,6 +5127,8 @@
     {
       "source": 18,
       "target": 217,
+      "sourceLine": 104,
+      "sourceFile": "lib/DllReferencePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4698,6 +5138,8 @@
     {
       "source": 19,
       "target": 217,
+      "sourceLine": 31,
+      "sourceFile": "lib/DynamicEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4707,6 +5149,8 @@
     {
       "source": 19,
       "target": 222,
+      "sourceLine": 47,
+      "sourceFile": "lib/DynamicEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4716,6 +5160,8 @@
     {
       "source": 20,
       "target": 232,
+      "sourceLine": 32,
+      "sourceFile": "lib/EntryOptionPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4725,6 +5171,8 @@
     {
       "source": 21,
       "target": 216,
+      "sourceLine": 50,
+      "sourceFile": "lib/EnvironmentPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4734,6 +5182,8 @@
     {
       "source": 22,
       "target": 217,
+      "sourceLine": 17,
+      "sourceFile": "lib/EvalDevToolModulePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4743,6 +5193,8 @@
     {
       "source": 23,
       "target": 276,
+      "sourceLine": 22,
+      "sourceFile": "lib/EvalDevToolModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4752,6 +5204,8 @@
     {
       "source": 23,
       "target": 265,
+      "sourceLine": 54,
+      "sourceFile": "lib/EvalDevToolModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4761,6 +5215,8 @@
     {
       "source": 24,
       "target": 276,
+      "sourceLine": 31,
+      "sourceFile": "lib/EvalSourceMapDevToolModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4770,6 +5226,8 @@
     {
       "source": 24,
       "target": 265,
+      "sourceLine": 106,
+      "sourceFile": "lib/EvalSourceMapDevToolModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4779,6 +5237,8 @@
     {
       "source": 25,
       "target": 217,
+      "sourceLine": 28,
+      "sourceFile": "lib/EvalSourceMapDevToolPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4788,6 +5248,8 @@
     {
       "source": 26,
       "target": 251,
+      "sourceLine": 40,
+      "sourceFile": "lib/ExportPropertyMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4797,6 +5259,8 @@
     {
       "source": 26,
       "target": 265,
+      "sourceLine": 46,
+      "sourceFile": "lib/ExportPropertyMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4806,6 +5270,8 @@
     {
       "source": 27,
       "target": 217,
+      "sourceLine": 27,
+      "sourceFile": "lib/ExtendedAPIPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4815,6 +5281,8 @@
     {
       "source": 27,
       "target": 247,
+      "sourceLine": 37,
+      "sourceFile": "lib/ExtendedAPIPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4824,6 +5292,8 @@
     {
       "source": 27,
       "target": 259,
+      "sourceLine": 52,
+      "sourceFile": "lib/ExtendedAPIPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4833,6 +5303,8 @@
     {
       "source": 28,
       "target": 272,
+      "sourceLine": 17,
+      "sourceFile": "lib/ExternalModuleFactoryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4842,6 +5314,8 @@
     {
       "source": 29,
       "target": 221,
+      "sourceLine": 15,
+      "sourceFile": "lib/ExternalsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4851,6 +5325,8 @@
     {
       "source": 30,
       "target": 217,
+      "sourceLine": 22,
+      "sourceFile": "lib/FlagDependencyExportsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4860,6 +5336,8 @@
     {
       "source": 30,
       "target": 142,
+      "sourceLine": 25,
+      "sourceFile": "lib/FlagDependencyExportsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4869,6 +5347,8 @@
     {
       "source": 30,
       "target": 138,
+      "sourceLine": 129,
+      "sourceFile": "lib/FlagDependencyExportsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4878,6 +5358,8 @@
     {
       "source": 30,
       "target": 143,
+      "sourceLine": 135,
+      "sourceFile": "lib/FlagDependencyExportsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4887,6 +5369,8 @@
     {
       "source": 31,
       "target": 217,
+      "sourceLine": 27,
+      "sourceFile": "lib/FlagDependencyUsagePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4896,6 +5380,8 @@
     {
       "source": 31,
       "target": 149,
+      "sourceLine": 28,
+      "sourceFile": "lib/FlagDependencyUsagePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4905,6 +5391,8 @@
     {
       "source": 32,
       "target": 217,
+      "sourceLine": 13,
+      "sourceFile": "lib/FlagInitialModulesAsUsedPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4914,6 +5402,8 @@
     {
       "source": 32,
       "target": 160,
+      "sourceLine": 16,
+      "sourceFile": "lib/FlagInitialModulesAsUsedPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4923,6 +5413,8 @@
     {
       "source": 33,
       "target": 217,
+      "sourceLine": 11,
+      "sourceFile": "lib/FunctionModulePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4932,6 +5424,8 @@
     {
       "source": 34,
       "target": 263,
+      "sourceLine": 12,
+      "sourceFile": "lib/FunctionModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4941,6 +5435,8 @@
     {
       "source": 34,
       "target": 264,
+      "sourceLine": 36,
+      "sourceFile": "lib/FunctionModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4950,6 +5446,8 @@
     {
       "source": 34,
       "target": 265,
+      "sourceLine": 94,
+      "sourceFile": "lib/FunctionModuleTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4959,6 +5457,8 @@
     {
       "source": 35,
       "target": 217,
+      "sourceLine": 28,
+      "sourceFile": "lib/HashedModuleIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4968,6 +5468,8 @@
     {
       "source": 35,
       "target": 171,
+      "sourceLine": 30,
+      "sourceFile": "lib/HashedModuleIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4977,6 +5479,8 @@
     {
       "source": 37,
       "target": 211,
+      "sourceLine": 31,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4986,6 +5490,8 @@
     {
       "source": 37,
       "target": 217,
+      "sourceLine": 150,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -4995,6 +5501,8 @@
     {
       "source": 37,
       "target": 186,
+      "sourceLine": 180,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5004,6 +5512,8 @@
     {
       "source": 37,
       "target": 184,
+      "sourceLine": 205,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5013,6 +5523,8 @@
     {
       "source": 37,
       "target": 188,
+      "sourceLine": 223,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5022,6 +5534,8 @@
     {
       "source": 37,
       "target": 202,
+      "sourceLine": 229,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5031,6 +5545,8 @@
     {
       "source": 37,
       "target": 190,
+      "sourceLine": 235,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5040,6 +5556,8 @@
     {
       "source": 37,
       "target": 265,
+      "sourceLine": 304,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5049,6 +5567,8 @@
     {
       "source": 37,
       "target": 252,
+      "sourceLine": 308,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5058,6 +5578,8 @@
     {
       "source": 37,
       "target": 247,
+      "sourceLine": 315,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5067,6 +5589,8 @@
     {
       "source": 37,
       "target": 244,
+      "sourceLine": 337,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5076,6 +5600,8 @@
     {
       "source": 37,
       "target": 259,
+      "sourceLine": 358,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5085,6 +5611,8 @@
     {
       "source": 37,
       "target": 254,
+      "sourceLine": 363,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5094,6 +5622,8 @@
     {
       "source": 37,
       "target": 242,
+      "sourceLine": 374,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5103,6 +5633,8 @@
     {
       "source": 37,
       "target": 204,
+      "sourceLine": 394,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5112,6 +5644,8 @@
     {
       "source": 39,
       "target": 218,
+      "sourceLine": 100,
+      "sourceFile": "lib/IgnorePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5121,6 +5655,8 @@
     {
       "source": 39,
       "target": 273,
+      "sourceLine": 101,
+      "sourceFile": "lib/IgnorePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5130,6 +5666,8 @@
     {
       "source": 39,
       "target": 219,
+      "sourceLine": 103,
+      "sourceFile": "lib/IgnorePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5139,6 +5677,8 @@
     {
       "source": 39,
       "target": 273,
+      "sourceLine": 104,
+      "sourceFile": "lib/IgnorePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5148,6 +5688,8 @@
     {
       "source": 40,
       "target": 217,
+      "sourceLine": 15,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5157,6 +5699,8 @@
     {
       "source": 40,
       "target": 240,
+      "sourceLine": 48,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5166,6 +5710,8 @@
     {
       "source": 40,
       "target": 241,
+      "sourceLine": 83,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5175,6 +5721,8 @@
     {
       "source": 40,
       "target": 240,
+      "sourceLine": 95,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5184,6 +5732,8 @@
     {
       "source": 40,
       "target": 183,
+      "sourceLine": 125,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5193,6 +5743,8 @@
     {
       "source": 41,
       "target": 217,
+      "sourceLine": 12,
+      "sourceFile": "lib/JsonModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5202,6 +5754,8 @@
     {
       "source": 42,
       "target": 214,
+      "sourceLine": 17,
+      "sourceFile": "lib/LibManifestPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5211,6 +5765,8 @@
     {
       "source": 43,
       "target": 216,
+      "sourceLine": 62,
+      "sourceFile": "lib/LibraryTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5220,6 +5776,8 @@
     {
       "source": 44,
       "target": 217,
+      "sourceLine": 27,
+      "sourceFile": "lib/LoaderOptionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5229,6 +5787,8 @@
     {
       "source": 44,
       "target": 204,
+      "sourceLine": 28,
+      "sourceFile": "lib/LoaderOptionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5238,6 +5798,8 @@
     {
       "source": 45,
       "target": 217,
+      "sourceLine": 13,
+      "sourceFile": "lib/LoaderTargetPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5247,6 +5809,8 @@
     {
       "source": 45,
       "target": 204,
+      "sourceLine": 14,
+      "sourceFile": "lib/LoaderTargetPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5256,6 +5820,8 @@
     {
       "source": 46,
       "target": 249,
+      "sourceLine": 133,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5265,6 +5831,8 @@
     {
       "source": 46,
       "target": 263,
+      "sourceLine": 148,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5274,6 +5842,8 @@
     {
       "source": 46,
       "target": 245,
+      "sourceLine": 172,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5283,6 +5853,8 @@
     {
       "source": 46,
       "target": 246,
+      "sourceLine": 179,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5292,6 +5864,8 @@
     {
       "source": 46,
       "target": 242,
+      "sourceLine": 228,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5301,6 +5875,8 @@
     {
       "source": 46,
       "target": 247,
+      "sourceLine": 234,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5310,6 +5886,8 @@
     {
       "source": 48,
       "target": 266,
+      "sourceLine": 37,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5319,6 +5897,8 @@
     {
       "source": 48,
       "target": 267,
+      "sourceLine": 48,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5328,6 +5908,8 @@
     {
       "source": 49,
       "target": 217,
+      "sourceLine": 31,
+      "sourceFile": "lib/MultiEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5337,6 +5919,8 @@
     {
       "source": 49,
       "target": 222,
+      "sourceLine": 47,
+      "sourceFile": "lib/MultiEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5346,6 +5930,8 @@
     {
       "source": 51,
       "target": 217,
+      "sourceLine": 17,
+      "sourceFile": "lib/NamedChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5355,6 +5941,8 @@
     {
       "source": 51,
       "target": 177,
+      "sourceLine": 18,
+      "sourceFile": "lib/NamedChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5364,6 +5952,8 @@
     {
       "source": 52,
       "target": 217,
+      "sourceLine": 22,
+      "sourceFile": "lib/NamedModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5373,6 +5963,8 @@
     {
       "source": 52,
       "target": 171,
+      "sourceLine": 23,
+      "sourceFile": "lib/NamedModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5382,6 +5974,8 @@
     {
       "source": 53,
       "target": 209,
+      "sourceLine": 9,
+      "sourceFile": "lib/NoEmitOnErrorsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5391,6 +5985,8 @@
     {
       "source": 53,
       "target": 217,
+      "sourceLine": 12,
+      "sourceFile": "lib/NoEmitOnErrorsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5400,6 +5996,8 @@
     {
       "source": 53,
       "target": 167,
+      "sourceLine": 13,
+      "sourceFile": "lib/NoEmitOnErrorsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5409,6 +6007,8 @@
     {
       "source": 54,
       "target": 217,
+      "sourceLine": 20,
+      "sourceFile": "lib/NodeStuffPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5418,6 +6018,8 @@
     {
       "source": 56,
       "target": 272,
+      "sourceLine": 123,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5427,6 +6029,8 @@
     {
       "source": 56,
       "target": 315,
+      "sourceLine": 159,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5436,6 +6040,8 @@
     {
       "source": 57,
       "target": 218,
+      "sourceLine": 18,
+      "sourceFile": "lib/NormalModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5445,6 +6051,8 @@
     {
       "source": 57,
       "target": 273,
+      "sourceLine": 21,
+      "sourceFile": "lib/NormalModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5454,6 +6062,8 @@
     {
       "source": 57,
       "target": 274,
+      "sourceLine": 32,
+      "sourceFile": "lib/NormalModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5463,6 +6073,8 @@
     {
       "source": 60,
       "target": 217,
+      "sourceLine": 19,
+      "sourceFile": "lib/PrefetchPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5472,6 +6084,8 @@
     {
       "source": 60,
       "target": 222,
+      "sourceLine": 28,
+      "sourceFile": "lib/PrefetchPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5481,6 +6095,8 @@
     {
       "source": 61,
       "target": 217,
+      "sourceLine": 121,
+      "sourceFile": "lib/ProgressPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5490,6 +6106,8 @@
     {
       "source": 61,
       "target": 137,
+      "sourceLine": 127,
+      "sourceFile": "lib/ProgressPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5499,6 +6117,8 @@
     {
       "source": 61,
       "target": 139,
+      "sourceLine": 135,
+      "sourceFile": "lib/ProgressPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5508,6 +6128,8 @@
     {
       "source": 61,
       "target": 140,
+      "sourceLine": 136,
+      "sourceFile": "lib/ProgressPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5517,6 +6139,8 @@
     {
       "source": 61,
       "target": 266,
+      "sourceLine": 240,
+      "sourceFile": "lib/ProgressPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5526,6 +6150,8 @@
     {
       "source": 62,
       "target": 217,
+      "sourceLine": 19,
+      "sourceFile": "lib/ProvidePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5535,6 +6161,8 @@
     {
       "source": 63,
       "target": 217,
+      "sourceLine": 48,
+      "sourceFile": "lib/RecordIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5544,6 +6172,8 @@
     {
       "source": 63,
       "target": 180,
+      "sourceLine": 49,
+      "sourceFile": "lib/RecordIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5553,6 +6183,8 @@
     {
       "source": 63,
       "target": 168,
+      "sourceLine": 74,
+      "sourceFile": "lib/RecordIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5562,6 +6194,8 @@
     {
       "source": 63,
       "target": 181,
+      "sourceLine": 161,
+      "sourceFile": "lib/RecordIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5571,6 +6205,8 @@
     {
       "source": 63,
       "target": 175,
+      "sourceLine": 187,
+      "sourceFile": "lib/RecordIdsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5580,6 +6216,8 @@
     {
       "source": 64,
       "target": 217,
+      "sourceLine": 13,
+      "sourceFile": "lib/RequireJsStuffPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5589,6 +6227,8 @@
     {
       "source": 66,
       "target": 251,
+      "sourceLine": 48,
+      "sourceFile": "lib/SetVarMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5598,6 +6238,8 @@
     {
       "source": 66,
       "target": 258,
+      "sourceLine": 54,
+      "sourceFile": "lib/SetVarMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5607,6 +6249,8 @@
     {
       "source": 66,
       "target": 265,
+      "sourceLine": 61,
+      "sourceFile": "lib/SetVarMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5616,6 +6260,8 @@
     {
       "source": 67,
       "target": 217,
+      "sourceLine": 30,
+      "sourceFile": "lib/SingleEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5625,6 +6271,8 @@
     {
       "source": 67,
       "target": 222,
+      "sourceLine": 40,
+      "sourceFile": "lib/SingleEntryPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5634,6 +6282,8 @@
     {
       "source": 68,
       "target": 137,
+      "sourceLine": 17,
+      "sourceFile": "lib/SourceMapDevToolModuleOptionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5643,6 +6293,8 @@
     {
       "source": 68,
       "target": 137,
+      "sourceLine": 25,
+      "sourceFile": "lib/SourceMapDevToolModuleOptionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5652,6 +6304,8 @@
     {
       "source": 68,
       "target": 137,
+      "sourceLine": 32,
+      "sourceFile": "lib/SourceMapDevToolModuleOptionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5661,6 +6315,8 @@
     {
       "source": 69,
       "target": 217,
+      "sourceLine": 94,
+      "sourceFile": "lib/SourceMapDevToolPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5670,6 +6326,8 @@
     {
       "source": 70,
       "target": 217,
+      "sourceLine": 119,
+      "sourceFile": "lib/TemplatedPathPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5679,6 +6337,8 @@
     {
       "source": 70,
       "target": 255,
+      "sourceLine": 122,
+      "sourceFile": "lib/TemplatedPathPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5688,6 +6348,8 @@
     {
       "source": 70,
       "target": 259,
+      "sourceLine": 127,
+      "sourceFile": "lib/TemplatedPathPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5697,6 +6359,8 @@
     {
       "source": 70,
       "target": 257,
+      "sourceLine": 148,
+      "sourceFile": "lib/TemplatedPathPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5706,6 +6370,8 @@
     {
       "source": 71,
       "target": 251,
+      "sourceLine": 282,
+      "sourceFile": "lib/UmdMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5715,6 +6381,8 @@
     {
       "source": 71,
       "target": 258,
+      "sourceLine": 288,
+      "sourceFile": "lib/UmdMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5724,6 +6392,8 @@
     {
       "source": 71,
       "target": 265,
+      "sourceLine": 295,
+      "sourceFile": "lib/UmdMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5733,6 +6403,8 @@
     {
       "source": 72,
       "target": 217,
+      "sourceLine": 17,
+      "sourceFile": "lib/UseStrictPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5742,6 +6414,8 @@
     {
       "source": 72,
       "target": 313,
+      "sourceLine": 21,
+      "sourceFile": "lib/UseStrictPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5751,6 +6425,8 @@
     {
       "source": 73,
       "target": 217,
+      "sourceLine": 11,
+      "sourceFile": "lib/WarnCaseSensitiveModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5760,6 +6436,8 @@
     {
       "source": 73,
       "target": 145,
+      "sourceLine": 14,
+      "sourceFile": "lib/WarnCaseSensitiveModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5769,6 +6447,8 @@
     {
       "source": 74,
       "target": 216,
+      "sourceLine": 11,
+      "sourceFile": "lib/WarnNoModeSetPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5778,6 +6458,8 @@
     {
       "source": 75,
       "target": 229,
+      "sourceLine": 91,
+      "sourceFile": "lib/WatchIgnorePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5787,6 +6469,8 @@
     {
       "source": 79,
       "target": 217,
+      "sourceLine": 34,
+      "sourceFile": "lib/dependencies/AMDPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5796,6 +6480,8 @@
     {
       "source": 79,
       "target": 231,
+      "sourceLine": 199,
+      "sourceFile": "lib/dependencies/AMDPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5805,6 +6491,8 @@
     {
       "source": 80,
       "target": 217,
+      "sourceLine": 28,
+      "sourceFile": "lib/dependencies/CommonJsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5814,6 +6502,8 @@
     {
       "source": 81,
       "target": 313,
+      "sourceLine": 12,
+      "sourceFile": "lib/dependencies/HarmonyDetectionParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5823,6 +6513,8 @@
     {
       "source": 82,
       "target": 291,
+      "sourceLine": 20,
+      "sourceFile": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5832,6 +6524,8 @@
     {
       "source": 82,
       "target": 292,
+      "sourceLine": 33,
+      "sourceFile": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5841,6 +6535,8 @@
     {
       "source": 82,
       "target": 294,
+      "sourceLine": 54,
+      "sourceFile": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5850,6 +6546,8 @@
     {
       "source": 82,
       "target": 293,
+      "sourceLine": 83,
+      "sourceFile": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5859,6 +6557,8 @@
     {
       "source": 82,
       "target": 295,
+      "sourceLine": 87,
+      "sourceFile": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5868,6 +6568,8 @@
     {
       "source": 82,
       "target": 296,
+      "sourceLine": 121,
+      "sourceFile": "lib/dependencies/HarmonyExportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5877,6 +6579,8 @@
     {
       "source": 83,
       "target": 289,
+      "sourceLine": 21,
+      "sourceFile": "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5886,6 +6590,8 @@
     {
       "source": 83,
       "target": 290,
+      "sourceLine": 40,
+      "sourceFile": "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5894,6 +6600,8 @@
     },
     {
       "source": 83,
+      "sourceLine": 168,
+      "sourceFile": "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5902,6 +6610,8 @@
     },
     {
       "source": 83,
+      "sourceLine": 197,
+      "sourceFile": "lib/dependencies/HarmonyImportDependencyParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5911,6 +6621,8 @@
     {
       "source": 84,
       "target": 217,
+      "sourceLine": 30,
+      "sourceFile": "lib/dependencies/HarmonyModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5920,6 +6632,8 @@
     {
       "source": 85,
       "target": 306,
+      "sourceLine": 21,
+      "sourceFile": "lib/dependencies/ImportParserPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5929,6 +6643,8 @@
     {
       "source": 86,
       "target": 217,
+      "sourceLine": 20,
+      "sourceFile": "lib/dependencies/ImportPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5938,6 +6654,8 @@
     {
       "source": 87,
       "target": 217,
+      "sourceLine": 22,
+      "sourceFile": "lib/dependencies/LoaderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5947,6 +6665,8 @@
     {
       "source": 87,
       "target": 217,
+      "sourceLine": 32,
+      "sourceFile": "lib/dependencies/LoaderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5956,6 +6676,8 @@
     {
       "source": 87,
       "target": 204,
+      "sourceLine": 33,
+      "sourceFile": "lib/dependencies/LoaderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5965,6 +6687,8 @@
     {
       "source": 88,
       "target": 217,
+      "sourceLine": 26,
+      "sourceFile": "lib/dependencies/RequireContextPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5974,6 +6698,8 @@
     {
       "source": 88,
       "target": 236,
+      "sourceLine": 60,
+      "sourceFile": "lib/dependencies/RequireContextPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5983,6 +6709,8 @@
     {
       "source": 88,
       "target": 236,
+      "sourceLine": 87,
+      "sourceFile": "lib/dependencies/RequireContextPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -5992,6 +6720,8 @@
     {
       "source": 88,
       "target": 236,
+      "sourceLine": 122,
+      "sourceFile": "lib/dependencies/RequireContextPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6001,6 +6731,8 @@
     {
       "source": 89,
       "target": 217,
+      "sourceLine": 18,
+      "sourceFile": "lib/dependencies/RequireEnsurePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6010,6 +6742,8 @@
     {
       "source": 90,
       "target": 217,
+      "sourceLine": 14,
+      "sourceFile": "lib/dependencies/RequireIncludePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6019,6 +6753,8 @@
     {
       "source": 91,
       "target": 217,
+      "sourceLine": 16,
+      "sourceFile": "lib/dependencies/SystemPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6028,6 +6764,8 @@
     {
       "source": 92,
       "target": 263,
+      "sourceLine": 12,
+      "sourceFile": "lib/node/NodeChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6037,6 +6775,8 @@
     {
       "source": 92,
       "target": 265,
+      "sourceLine": 24,
+      "sourceFile": "lib/node/NodeChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6046,6 +6786,8 @@
     {
       "source": 93,
       "target": 212,
+      "sourceLine": 23,
+      "sourceFile": "lib/node/NodeEnvironmentPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6055,6 +6797,8 @@
     {
       "source": 94,
       "target": 263,
+      "sourceLine": 11,
+      "sourceFile": "lib/node/NodeHotUpdateChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6064,6 +6808,8 @@
     {
       "source": 94,
       "target": 265,
+      "sourceLine": 23,
+      "sourceFile": "lib/node/NodeHotUpdateChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6073,6 +6819,8 @@
     {
       "source": 95,
       "target": 245,
+      "sourceLine": 22,
+      "sourceFile": "lib/node/NodeMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6082,6 +6830,8 @@
     {
       "source": 95,
       "target": 247,
+      "sourceLine": 41,
+      "sourceFile": "lib/node/NodeMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6091,6 +6841,8 @@
     {
       "source": 95,
       "target": 243,
+      "sourceLine": 63,
+      "sourceFile": "lib/node/NodeMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6100,6 +6852,8 @@
     {
       "source": 95,
       "target": 260,
+      "sourceLine": 263,
+      "sourceFile": "lib/node/NodeMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6109,6 +6863,8 @@
     {
       "source": 95,
       "target": 265,
+      "sourceLine": 316,
+      "sourceFile": "lib/node/NodeMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6118,6 +6874,8 @@
     {
       "source": 96,
       "target": 217,
+      "sourceLine": 58,
+      "sourceFile": "lib/node/NodeSourcePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6127,6 +6885,8 @@
     {
       "source": 96,
       "target": 231,
+      "sourceLine": 124,
+      "sourceFile": "lib/node/NodeSourcePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6136,6 +6896,8 @@
     {
       "source": 97,
       "target": 216,
+      "sourceLine": 19,
+      "sourceFile": "lib/node/NodeTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6145,6 +6907,8 @@
     {
       "source": 98,
       "target": 216,
+      "sourceLine": 16,
+      "sourceFile": "lib/node/ReadFileCompileWasmTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6154,6 +6918,8 @@
     {
       "source": 99,
       "target": 216,
+      "sourceLine": 24,
+      "sourceFile": "lib/optimize/AggressiveMergingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6163,6 +6929,8 @@
     {
       "source": 99,
       "target": 159,
+      "sourceLine": 27,
+      "sourceFile": "lib/optimize/AggressiveMergingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6172,6 +6940,8 @@
     {
       "source": 100,
       "target": 216,
+      "sourceLine": 43,
+      "sourceFile": "lib/optimize/AggressiveSplittingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6181,6 +6951,8 @@
     {
       "source": 100,
       "target": 152,
+      "sourceLine": 50,
+      "sourceFile": "lib/optimize/AggressiveSplittingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6190,6 +6962,8 @@
     {
       "source": 100,
       "target": 159,
+      "sourceLine": 55,
+      "sourceFile": "lib/optimize/AggressiveSplittingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6199,6 +6973,8 @@
     {
       "source": 100,
       "target": 185,
+      "sourceLine": 219,
+      "sourceFile": "lib/optimize/AggressiveSplittingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6208,6 +6984,8 @@
     {
       "source": 100,
       "target": 196,
+      "sourceLine": 274,
+      "sourceFile": "lib/optimize/AggressiveSplittingPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6217,6 +6995,8 @@
     {
       "source": 101,
       "target": 217,
+      "sourceLine": 22,
+      "sourceFile": "lib/optimize/ChunkModuleIdRangePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6226,6 +7006,8 @@
     {
       "source": 101,
       "target": 172,
+      "sourceLine": 23,
+      "sourceFile": "lib/optimize/ChunkModuleIdRangePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6235,6 +7017,8 @@
     {
       "source": 102,
       "target": 217,
+      "sourceLine": 11,
+      "sourceFile": "lib/optimize/EnsureChunkConditionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6244,6 +7028,8 @@
     {
       "source": 102,
       "target": 157,
+      "sourceLine": 58,
+      "sourceFile": "lib/optimize/EnsureChunkConditionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6253,6 +7039,8 @@
     {
       "source": 102,
       "target": 205,
+      "sourceLine": 62,
+      "sourceFile": "lib/optimize/EnsureChunkConditionsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6262,6 +7050,8 @@
     {
       "source": 103,
       "target": 217,
+      "sourceLine": 9,
+      "sourceFile": "lib/optimize/FlagIncludedChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6271,6 +7061,8 @@
     {
       "source": 103,
       "target": 178,
+      "sourceLine": 10,
+      "sourceFile": "lib/optimize/FlagIncludedChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6280,6 +7072,8 @@
     {
       "source": 104,
       "target": 217,
+      "sourceLine": 17,
+      "sourceFile": "lib/optimize/LimitChunkCountPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6289,6 +7083,8 @@
     {
       "source": 104,
       "target": 159,
+      "sourceLine": 18,
+      "sourceFile": "lib/optimize/LimitChunkCountPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6298,6 +7094,8 @@
     {
       "source": 105,
       "target": 217,
+      "sourceLine": 9,
+      "sourceFile": "lib/optimize/MergeDuplicateChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6307,6 +7105,8 @@
     {
       "source": 105,
       "target": 157,
+      "sourceLine": 12,
+      "sourceFile": "lib/optimize/MergeDuplicateChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6316,6 +7116,8 @@
     {
       "source": 106,
       "target": 217,
+      "sourceLine": 19,
+      "sourceFile": "lib/optimize/MinChunkSizePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6325,6 +7127,8 @@
     {
       "source": 106,
       "target": 159,
+      "sourceLine": 20,
+      "sourceFile": "lib/optimize/MinChunkSizePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6334,6 +7138,8 @@
     {
       "source": 107,
       "target": 217,
+      "sourceLine": 25,
+      "sourceFile": "lib/optimize/ModuleConcatenationPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6343,6 +7149,8 @@
     {
       "source": 107,
       "target": 164,
+      "sourceLine": 62,
+      "sourceFile": "lib/optimize/ModuleConcatenationPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6352,6 +7160,8 @@
     {
       "source": 108,
       "target": 217,
+      "sourceLine": 15,
+      "sourceFile": "lib/optimize/NaturalChunkOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6361,6 +7171,8 @@
     {
       "source": 108,
       "target": 176,
+      "sourceLine": 16,
+      "sourceFile": "lib/optimize/NaturalChunkOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6370,6 +7182,8 @@
     {
       "source": 109,
       "target": 217,
+      "sourceLine": 18,
+      "sourceFile": "lib/optimize/OccurrenceChunkOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6379,6 +7193,8 @@
     {
       "source": 109,
       "target": 176,
+      "sourceLine": 21,
+      "sourceFile": "lib/optimize/OccurrenceChunkOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6388,6 +7204,8 @@
     {
       "source": 110,
       "target": 217,
+      "sourceLine": 18,
+      "sourceFile": "lib/optimize/OccurrenceModuleOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6397,6 +7215,8 @@
     {
       "source": 110,
       "target": 169,
+      "sourceLine": 21,
+      "sourceFile": "lib/optimize/OccurrenceModuleOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6406,6 +7226,8 @@
     {
       "source": 111,
       "target": 217,
+      "sourceLine": 20,
+      "sourceFile": "lib/optimize/OccurrenceOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6415,6 +7237,8 @@
     {
       "source": 111,
       "target": 169,
+      "sourceLine": 21,
+      "sourceFile": "lib/optimize/OccurrenceOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6424,6 +7248,8 @@
     {
       "source": 111,
       "target": 176,
+      "sourceLine": 98,
+      "sourceFile": "lib/optimize/OccurrenceOrderPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6433,6 +7259,8 @@
     {
       "source": 112,
       "target": 217,
+      "sourceLine": 9,
+      "sourceFile": "lib/optimize/RemoveEmptyChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6442,6 +7270,8 @@
     {
       "source": 112,
       "target": 157,
+      "sourceLine": 23,
+      "sourceFile": "lib/optimize/RemoveEmptyChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6451,6 +7281,8 @@
     {
       "source": 112,
       "target": 159,
+      "sourceLine": 27,
+      "sourceFile": "lib/optimize/RemoveEmptyChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6460,6 +7292,8 @@
     {
       "source": 112,
       "target": 205,
+      "sourceLine": 31,
+      "sourceFile": "lib/optimize/RemoveEmptyChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6469,6 +7303,8 @@
     {
       "source": 112,
       "target": 207,
+      "sourceLine": 35,
+      "sourceFile": "lib/optimize/RemoveEmptyChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6478,6 +7314,8 @@
     {
       "source": 113,
       "target": 217,
+      "sourceLine": 29,
+      "sourceFile": "lib/optimize/RemoveParentModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6487,6 +7325,8 @@
     {
       "source": 113,
       "target": 157,
+      "sourceLine": 116,
+      "sourceFile": "lib/optimize/RemoveParentModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6496,6 +7336,8 @@
     {
       "source": 113,
       "target": 205,
+      "sourceLine": 120,
+      "sourceFile": "lib/optimize/RemoveParentModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6505,6 +7347,8 @@
     {
       "source": 114,
       "target": 216,
+      "sourceLine": 18,
+      "sourceFile": "lib/optimize/RuntimeChunkPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6514,6 +7358,8 @@
     {
       "source": 114,
       "target": 159,
+      "sourceLine": 19,
+      "sourceFile": "lib/optimize/RuntimeChunkPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6523,6 +7369,8 @@
     {
       "source": 115,
       "target": 218,
+      "sourceLine": 23,
+      "sourceFile": "lib/optimize/SideEffectsFlagPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6532,6 +7380,8 @@
     {
       "source": 115,
       "target": 276,
+      "sourceLine": 24,
+      "sourceFile": "lib/optimize/SideEffectsFlagPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6541,6 +7391,8 @@
     {
       "source": 115,
       "target": 276,
+      "sourceLine": 43,
+      "sourceFile": "lib/optimize/SideEffectsFlagPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6550,6 +7402,8 @@
     {
       "source": 115,
       "target": 217,
+      "sourceLine": 51,
+      "sourceFile": "lib/optimize/SideEffectsFlagPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6559,6 +7413,8 @@
     {
       "source": 115,
       "target": 149,
+      "sourceLine": 52,
+      "sourceFile": "lib/optimize/SideEffectsFlagPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6568,6 +7424,8 @@
     {
       "source": 116,
       "target": 216,
+      "sourceLine": 325,
+      "sourceFile": "lib/optimize/SplitChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6577,6 +7435,8 @@
     {
       "source": 116,
       "target": 144,
+      "sourceLine": 327,
+      "sourceFile": "lib/optimize/SplitChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6586,6 +7446,8 @@
     {
       "source": 116,
       "target": 159,
+      "sourceLine": 330,
+      "sourceFile": "lib/optimize/SplitChunksPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6595,6 +7457,8 @@
     {
       "source": 117,
       "target": 215,
+      "sourceLine": 23,
+      "sourceFile": "lib/performance/SizeLimitsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6604,6 +7468,8 @@
     {
       "source": 118,
       "target": 217,
+      "sourceLine": 11,
+      "sourceFile": "lib/wasm/WasmFinalizeExportsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6613,6 +7479,8 @@
     {
       "source": 118,
       "target": 142,
+      "sourceLine": 12,
+      "sourceFile": "lib/wasm/WasmFinalizeExportsPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6622,6 +7490,8 @@
     {
       "source": 119,
       "target": 245,
+      "sourceLine": 169,
+      "sourceFile": "lib/wasm/WasmMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6631,6 +7501,8 @@
     {
       "source": 119,
       "target": 243,
+      "sourceLine": 195,
+      "sourceFile": "lib/wasm/WasmMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6640,6 +7512,8 @@
     {
       "source": 119,
       "target": 247,
+      "sourceLine": 322,
+      "sourceFile": "lib/wasm/WasmMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6649,6 +7523,8 @@
     {
       "source": 119,
       "target": 265,
+      "sourceLine": 336,
+      "sourceFile": "lib/wasm/WasmMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6658,6 +7534,8 @@
     {
       "source": 120,
       "target": 217,
+      "sourceLine": 27,
+      "sourceFile": "lib/wasm/WebAssemblyModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6667,6 +7545,8 @@
     {
       "source": 120,
       "target": 240,
+      "sourceLine": 55,
+      "sourceFile": "lib/wasm/WebAssemblyModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6676,6 +7556,8 @@
     {
       "source": 120,
       "target": 147,
+      "sourceLine": 89,
+      "sourceFile": "lib/wasm/WebAssemblyModulesPlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6685,6 +7567,8 @@
     {
       "source": 121,
       "target": 216,
+      "sourceLine": 15,
+      "sourceFile": "lib/web/FetchCompileWasmTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6694,6 +7578,8 @@
     {
       "source": 122,
       "target": 263,
+      "sourceLine": 27,
+      "sourceFile": "lib/web/JsonpChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6703,6 +7589,8 @@
     {
       "source": 122,
       "target": 265,
+      "sourceLine": 56,
+      "sourceFile": "lib/web/JsonpChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6712,6 +7600,8 @@
     {
       "source": 122,
       "target": 257,
+      "sourceLine": 62,
+      "sourceFile": "lib/web/JsonpChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6721,6 +7611,8 @@
     {
       "source": 123,
       "target": 251,
+      "sourceLine": 26,
+      "sourceFile": "lib/web/JsonpExportMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6730,6 +7622,8 @@
     {
       "source": 123,
       "target": 258,
+      "sourceLine": 32,
+      "sourceFile": "lib/web/JsonpExportMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6739,6 +7633,8 @@
     {
       "source": 123,
       "target": 265,
+      "sourceLine": 40,
+      "sourceFile": "lib/web/JsonpExportMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6748,6 +7644,8 @@
     {
       "source": 124,
       "target": 263,
+      "sourceLine": 11,
+      "sourceFile": "lib/web/JsonpHotUpdateChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6757,6 +7655,8 @@
     {
       "source": 124,
       "target": 265,
+      "sourceLine": 25,
+      "sourceFile": "lib/web/JsonpHotUpdateChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6766,6 +7666,8 @@
     {
       "source": 125,
       "target": 245,
+      "sourceLine": 102,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6774,6 +7676,8 @@
     },
     {
       "source": 125,
+      "sourceLine": 141,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6782,6 +7686,8 @@
     },
     {
       "source": 125,
+      "sourceLine": 204,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6790,6 +7696,8 @@
     },
     {
       "source": 125,
+      "sourceLine": 237,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6799,6 +7707,8 @@
     {
       "source": 125,
       "target": 243,
+      "sourceLine": 259,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6808,6 +7718,8 @@
     {
       "source": 125,
       "target": 247,
+      "sourceLine": 330,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6817,6 +7729,8 @@
     {
       "source": 125,
       "target": 244,
+      "sourceLine": 345,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6826,6 +7740,8 @@
     {
       "source": 125,
       "target": 248,
+      "sourceLine": 457,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6835,6 +7751,8 @@
     {
       "source": 125,
       "target": 248,
+      "sourceLine": 479,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6844,6 +7762,8 @@
     {
       "source": 125,
       "target": 249,
+      "sourceLine": 498,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6853,6 +7773,8 @@
     {
       "source": 125,
       "target": 260,
+      "sourceLine": 528,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6862,6 +7784,8 @@
     {
       "source": 125,
       "target": 265,
+      "sourceLine": 582,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6871,6 +7795,8 @@
     {
       "source": 126,
       "target": 216,
+      "sourceLine": 13,
+      "sourceFile": "lib/web/JsonpTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6880,6 +7806,8 @@
     {
       "source": 127,
       "target": 263,
+      "sourceLine": 11,
+      "sourceFile": "lib/webworker/WebWorkerChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6889,6 +7817,8 @@
     {
       "source": 127,
       "target": 265,
+      "sourceLine": 27,
+      "sourceFile": "lib/webworker/WebWorkerChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6898,6 +7828,8 @@
     {
       "source": 128,
       "target": 263,
+      "sourceLine": 10,
+      "sourceFile": "lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6907,6 +7839,8 @@
     {
       "source": 128,
       "target": 265,
+      "sourceLine": 27,
+      "sourceFile": "lib/webworker/WebWorkerHotUpdateChunkTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6916,6 +7850,8 @@
     {
       "source": 129,
       "target": 245,
+      "sourceLine": 17,
+      "sourceFile": "lib/webworker/WebWorkerMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6925,6 +7861,8 @@
     {
       "source": 129,
       "target": 243,
+      "sourceLine": 36,
+      "sourceFile": "lib/webworker/WebWorkerMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6934,6 +7872,8 @@
     {
       "source": 129,
       "target": 244,
+      "sourceLine": 106,
+      "sourceFile": "lib/webworker/WebWorkerMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6943,6 +7883,8 @@
     {
       "source": 129,
       "target": 260,
+      "sourceLine": 138,
+      "sourceFile": "lib/webworker/WebWorkerMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6952,6 +7894,8 @@
     {
       "source": 129,
       "target": 265,
+      "sourceLine": 185,
+      "sourceFile": "lib/webworker/WebWorkerMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6961,6 +7905,8 @@
     {
       "source": 130,
       "target": 216,
+      "sourceLine": 13,
+      "sourceFile": "lib/webworker/WebWorkerTemplatePlugin.js",
       "lineStyle": {
         "color": "#5BB4C6"
       },
@@ -6970,6 +7916,8 @@
     {
       "source": 5,
       "target": 240,
+      "sourceLine": 58,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -6980,6 +7928,8 @@
     {
       "source": 5,
       "target": 265,
+      "sourceLine": 71,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -6990,6 +7940,8 @@
     {
       "source": 5,
       "target": 257,
+      "sourceLine": 85,
+      "sourceFile": "lib/ChunkTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7000,6 +7952,8 @@
     {
       "source": 7,
       "target": 137,
+      "sourceLine": 616,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7010,6 +7964,8 @@
     {
       "source": 7,
       "target": 139,
+      "sourceLine": 648,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7020,6 +7976,8 @@
     {
       "source": 7,
       "target": 140,
+      "sourceLine": 651,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7030,6 +7988,8 @@
     {
       "source": 7,
       "target": 138,
+      "sourceLine": 1107,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7040,6 +8000,8 @@
     {
       "source": 7,
       "target": 143,
+      "sourceLine": 1114,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7050,6 +8012,8 @@
     {
       "source": 7,
       "target": 143,
+      "sourceLine": 1125,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7060,6 +8024,8 @@
     {
       "source": 7,
       "target": 142,
+      "sourceLine": 1133,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7070,6 +8036,8 @@
     {
       "source": 7,
       "target": 144,
+      "sourceLine": 1142,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7080,6 +8048,8 @@
     {
       "source": 7,
       "target": 145,
+      "sourceLine": 1159,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7090,6 +8060,8 @@
     {
       "source": 7,
       "target": 148,
+      "sourceLine": 1162,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7100,6 +8072,8 @@
     {
       "source": 7,
       "target": 149,
+      "sourceLine": 1163,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7110,6 +8084,8 @@
     {
       "source": 7,
       "target": 150,
+      "sourceLine": 1164,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7120,6 +8096,8 @@
     {
       "source": 7,
       "target": 151,
+      "sourceLine": 1168,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7130,6 +8108,8 @@
     {
       "source": 7,
       "target": 146,
+      "sourceLine": 1170,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7140,6 +8120,8 @@
     {
       "source": 7,
       "target": 147,
+      "sourceLine": 1192,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7150,6 +8132,8 @@
     {
       "source": 7,
       "target": 152,
+      "sourceLine": 1194,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7160,6 +8144,8 @@
     {
       "source": 7,
       "target": 153,
+      "sourceLine": 1197,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7170,6 +8156,8 @@
     {
       "source": 7,
       "target": 154,
+      "sourceLine": 1198,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7180,6 +8168,8 @@
     {
       "source": 7,
       "target": 155,
+      "sourceLine": 1199,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7190,6 +8180,8 @@
     {
       "source": 7,
       "target": 156,
+      "sourceLine": 1203,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7200,6 +8192,8 @@
     {
       "source": 7,
       "target": 157,
+      "sourceLine": 1206,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7210,6 +8204,8 @@
     {
       "source": 7,
       "target": 158,
+      "sourceLine": 1207,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7220,6 +8216,8 @@
     {
       "source": 7,
       "target": 159,
+      "sourceLine": 1208,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7230,6 +8228,8 @@
     {
       "source": 7,
       "target": 160,
+      "sourceLine": 1212,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7240,6 +8240,8 @@
     {
       "source": 7,
       "target": 161,
+      "sourceLine": 1214,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7250,6 +8252,8 @@
     {
       "source": 7,
       "target": 162,
+      "sourceLine": 1219,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7260,6 +8264,8 @@
     {
       "source": 7,
       "target": 163,
+      "sourceLine": 1222,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7270,6 +8276,8 @@
     {
       "source": 7,
       "target": 164,
+      "sourceLine": 1223,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7280,6 +8288,8 @@
     {
       "source": 7,
       "target": 165,
+      "sourceLine": 1224,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7290,6 +8300,8 @@
     {
       "source": 7,
       "target": 166,
+      "sourceLine": 1228,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7300,6 +8312,8 @@
     {
       "source": 7,
       "target": 167,
+      "sourceLine": 1230,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7310,6 +8324,8 @@
     {
       "source": 7,
       "target": 168,
+      "sourceLine": 1232,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7320,6 +8336,8 @@
     {
       "source": 7,
       "target": 169,
+      "sourceLine": 1233,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7330,6 +8348,8 @@
     {
       "source": 7,
       "target": 170,
+      "sourceLine": 1234,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7340,6 +8360,8 @@
     {
       "source": 7,
       "target": 171,
+      "sourceLine": 1235,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7350,6 +8372,8 @@
     {
       "source": 7,
       "target": 172,
+      "sourceLine": 1236,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7360,6 +8384,8 @@
     {
       "source": 7,
       "target": 173,
+      "sourceLine": 1238,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7370,6 +8396,8 @@
     {
       "source": 7,
       "target": 174,
+      "sourceLine": 1239,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7380,6 +8408,8 @@
     {
       "source": 7,
       "target": 175,
+      "sourceLine": 1243,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7390,6 +8420,8 @@
     {
       "source": 7,
       "target": 176,
+      "sourceLine": 1244,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7400,6 +8432,8 @@
     {
       "source": 7,
       "target": 177,
+      "sourceLine": 1245,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7410,6 +8444,8 @@
     {
       "source": 7,
       "target": 178,
+      "sourceLine": 1247,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7420,6 +8456,8 @@
     {
       "source": 7,
       "target": 179,
+      "sourceLine": 1248,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7430,6 +8468,8 @@
     {
       "source": 7,
       "target": 180,
+      "sourceLine": 1253,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7440,6 +8480,8 @@
     {
       "source": 7,
       "target": 181,
+      "sourceLine": 1254,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7450,6 +8492,8 @@
     {
       "source": 7,
       "target": 182,
+      "sourceLine": 1257,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7460,6 +8504,8 @@
     {
       "source": 7,
       "target": 184,
+      "sourceLine": 1259,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7470,6 +8516,8 @@
     {
       "source": 7,
       "target": 185,
+      "sourceLine": 1262,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7480,6 +8528,8 @@
     {
       "source": 7,
       "target": 187,
+      "sourceLine": 1265,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7490,6 +8540,8 @@
     {
       "source": 7,
       "target": 188,
+      "sourceLine": 1267,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7500,6 +8552,8 @@
     {
       "source": 7,
       "target": 189,
+      "sourceLine": 1268,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7510,6 +8564,8 @@
     {
       "source": 7,
       "target": 190,
+      "sourceLine": 1271,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7520,6 +8576,8 @@
     {
       "source": 7,
       "target": 186,
+      "sourceLine": 1274,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7530,6 +8588,8 @@
     {
       "source": 7,
       "target": 191,
+      "sourceLine": 1277,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7540,6 +8600,8 @@
     {
       "source": 7,
       "target": 192,
+      "sourceLine": 1281,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7550,6 +8612,8 @@
     {
       "source": 7,
       "target": 193,
+      "sourceLine": 1285,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7560,6 +8624,8 @@
     {
       "source": 7,
       "target": 194,
+      "sourceLine": 1286,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7570,6 +8636,8 @@
     {
       "source": 7,
       "target": 195,
+      "sourceLine": 1290,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7580,6 +8648,8 @@
     {
       "source": 7,
       "target": 196,
+      "sourceLine": 1291,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7590,6 +8660,8 @@
     {
       "source": 7,
       "target": 197,
+      "sourceLine": 1295,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7600,6 +8672,8 @@
     {
       "source": 7,
       "target": 141,
+      "sourceLine": 1475,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7610,6 +8684,8 @@
     {
       "source": 7,
       "target": 198,
+      "sourceLine": 2269,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7620,6 +8696,8 @@
     {
       "source": 7,
       "target": 183,
+      "sourceLine": 2273,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7630,6 +8708,8 @@
     {
       "source": 7,
       "target": 199,
+      "sourceLine": 2302,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7640,6 +8720,8 @@
     {
       "source": 7,
       "target": 200,
+      "sourceLine": 2348,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7650,6 +8732,8 @@
     {
       "source": 7,
       "target": 200,
+      "sourceLine": 2390,
+      "sourceFile": "lib/Compilation.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7660,6 +8744,8 @@
     {
       "source": 8,
       "target": 209,
+      "sourceLine": 220,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7670,6 +8756,8 @@
     {
       "source": 8,
       "target": 266,
+      "sourceLine": 224,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7680,6 +8768,8 @@
     {
       "source": 8,
       "target": 202,
+      "sourceLine": 234,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7690,6 +8780,8 @@
     {
       "source": 8,
       "target": 266,
+      "sourceLine": 240,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7700,6 +8792,8 @@
     {
       "source": 8,
       "target": 211,
+      "sourceLine": 243,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7710,6 +8804,8 @@
     {
       "source": 8,
       "target": 266,
+      "sourceLine": 257,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7720,6 +8816,8 @@
     {
       "source": 8,
       "target": 212,
+      "sourceLine": 265,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7730,6 +8828,8 @@
     {
       "source": 8,
       "target": 268,
+      "sourceLine": 268,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7740,6 +8840,8 @@
     {
       "source": 8,
       "target": 215,
+      "sourceLine": 355,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7750,6 +8852,8 @@
     {
       "source": 8,
       "target": 214,
+      "sourceLine": 364,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7760,6 +8864,8 @@
     {
       "source": 8,
       "target": 203,
+      "sourceLine": 479,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7770,6 +8876,8 @@
     {
       "source": 8,
       "target": 216,
+      "sourceLine": 503,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7780,6 +8888,8 @@
     {
       "source": 8,
       "target": 217,
+      "sourceLine": 504,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7790,6 +8900,8 @@
     {
       "source": 8,
       "target": 218,
+      "sourceLine": 514,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7800,6 +8912,8 @@
     {
       "source": 8,
       "target": 219,
+      "sourceLine": 520,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7810,6 +8924,8 @@
     {
       "source": 8,
       "target": 220,
+      "sourceLine": 535,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7820,6 +8936,8 @@
     {
       "source": 8,
       "target": 221,
+      "sourceLine": 538,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7830,6 +8948,8 @@
     {
       "source": 8,
       "target": 222,
+      "sourceLine": 542,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7840,6 +8960,8 @@
     {
       "source": 8,
       "target": 223,
+      "sourceLine": 550,
+      "sourceFile": "lib/Compiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7850,6 +8972,8 @@
     {
       "source": 11,
       "target": 273,
+      "sourceLine": 52,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7860,6 +8984,8 @@
     {
       "source": 11,
       "target": 274,
+      "sourceLine": 145,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7870,6 +8996,8 @@
     {
       "source": 11,
       "target": 235,
+      "sourceLine": 188,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7880,6 +9008,8 @@
     {
       "source": 11,
       "target": 236,
+      "sourceLine": 221,
+      "sourceFile": "lib/ContextModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7889,6 +9019,8 @@
     },
     {
       "source": 28,
+      "sourceLine": 94,
+      "sourceFile": "lib/ExternalModuleFactoryPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7898,6 +9030,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 60,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7907,6 +9041,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 161,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7916,6 +9052,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 227,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7925,6 +9063,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 270,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7934,6 +9074,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 375,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7943,6 +9085,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 443,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7952,6 +9096,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 528,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7961,6 +9107,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 549,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7970,6 +9118,8 @@
     },
     {
       "source": 36,
+      "sourceLine": 558,
+      "sourceFile": "lib/HotModuleReplacement.runtime.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7979,6 +9129,8 @@
     },
     {
       "source": 37,
+      "sourceLine": 106,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7988,6 +9140,8 @@
     },
     {
       "source": 37,
+      "sourceLine": 113,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -7998,6 +9152,8 @@
     {
       "source": 37,
       "target": 200,
+      "sourceLine": 288,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8008,6 +9164,8 @@
     {
       "source": 37,
       "target": 260,
+      "sourceLine": 340,
+      "sourceFile": "lib/HotModuleReplacementPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8018,6 +9176,8 @@
     {
       "source": 38,
       "target": 241,
+      "sourceLine": 54,
+      "sourceFile": "lib/HotUpdateChunkTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8028,6 +9188,8 @@
     {
       "source": 38,
       "target": 263,
+      "sourceLine": 61,
+      "sourceFile": "lib/HotUpdateChunkTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8038,6 +9200,8 @@
     {
       "source": 38,
       "target": 265,
+      "sourceLine": 76,
+      "sourceFile": "lib/HotUpdateChunkTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8048,6 +9212,8 @@
     {
       "source": 40,
       "target": 241,
+      "sourceLine": 166,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8058,6 +9224,8 @@
     {
       "source": 40,
       "target": 263,
+      "sourceLine": 172,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8068,6 +9236,8 @@
     {
       "source": 40,
       "target": 251,
+      "sourceLine": 179,
+      "sourceFile": "lib/JavascriptModulesPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8078,6 +9248,8 @@
     {
       "source": 46,
       "target": 241,
+      "sourceLine": 160,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8088,6 +9260,8 @@
     {
       "source": 46,
       "target": 242,
+      "sourceLine": 188,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8098,6 +9272,8 @@
     {
       "source": 46,
       "target": 243,
+      "sourceLine": 245,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8108,6 +9284,8 @@
     {
       "source": 46,
       "target": 240,
+      "sourceLine": 358,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8118,6 +9296,8 @@
     {
       "source": 46,
       "target": 244,
+      "sourceLine": 374,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8128,6 +9308,8 @@
     {
       "source": 46,
       "target": 245,
+      "sourceLine": 382,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8138,6 +9320,8 @@
     {
       "source": 46,
       "target": 246,
+      "sourceLine": 386,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8148,6 +9332,8 @@
     {
       "source": 46,
       "target": 247,
+      "sourceLine": 390,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8158,6 +9344,8 @@
     {
       "source": 46,
       "target": 248,
+      "sourceLine": 393,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8168,6 +9356,8 @@
     {
       "source": 46,
       "target": 249,
+      "sourceLine": 394,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8178,6 +9368,8 @@
     {
       "source": 46,
       "target": 263,
+      "sourceLine": 412,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8188,6 +9380,8 @@
     {
       "source": 46,
       "target": 251,
+      "sourceLine": 423,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8198,6 +9392,8 @@
     {
       "source": 46,
       "target": 252,
+      "sourceLine": 442,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8208,6 +9404,8 @@
     {
       "source": 46,
       "target": 253,
+      "sourceLine": 459,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8218,6 +9416,8 @@
     {
       "source": 46,
       "target": 254,
+      "sourceLine": 476,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8228,6 +9428,8 @@
     {
       "source": 46,
       "target": 255,
+      "sourceLine": 488,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8238,6 +9440,8 @@
     {
       "source": 46,
       "target": 255,
+      "sourceLine": 495,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8248,6 +9452,8 @@
     {
       "source": 46,
       "target": 265,
+      "sourceLine": 506,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8258,6 +9464,8 @@
     {
       "source": 46,
       "target": 257,
+      "sourceLine": 520,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8268,6 +9476,8 @@
     {
       "source": 46,
       "target": 258,
+      "sourceLine": 532,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8278,6 +9488,8 @@
     {
       "source": 46,
       "target": 259,
+      "sourceLine": 533,
+      "sourceFile": "lib/MainTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8288,6 +9500,8 @@
     {
       "source": 47,
       "target": 261,
+      "sourceLine": 59,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8298,6 +9512,8 @@
     {
       "source": 47,
       "target": 276,
+      "sourceLine": 65,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8308,6 +9524,8 @@
     {
       "source": 47,
       "target": 263,
+      "sourceLine": 71,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8318,6 +9536,8 @@
     {
       "source": 47,
       "target": 264,
+      "sourceLine": 77,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8328,6 +9548,8 @@
     {
       "source": 47,
       "target": 265,
+      "sourceLine": 91,
+      "sourceFile": "lib/ModuleTemplate.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8338,6 +9560,8 @@
     {
       "source": 48,
       "target": 266,
+      "sourceLine": 44,
+      "sourceFile": "lib/MultiCompiler.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8348,6 +9572,8 @@
     {
       "source": 50,
       "target": 269,
+      "sourceLine": 28,
+      "sourceFile": "lib/MultiWatching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8358,6 +9584,8 @@
     {
       "source": 55,
       "target": 204,
+      "sourceLine": 206,
+      "sourceFile": "lib/NormalModule.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8368,6 +9596,8 @@
     {
       "source": 56,
       "target": 315,
+      "sourceLine": 124,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8378,6 +9608,8 @@
     {
       "source": 56,
       "target": 274,
+      "sourceLine": 138,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8388,6 +9620,8 @@
     {
       "source": 56,
       "target": 275,
+      "sourceLine": 144,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8398,6 +9632,8 @@
     {
       "source": 56,
       "target": 276,
+      "sourceLine": 153,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8408,6 +9644,8 @@
     {
       "source": 56,
       "target": 273,
+      "sourceLine": 377,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8418,6 +9656,8 @@
     {
       "source": 56,
       "target": 272,
+      "sourceLine": 391,
+      "sourceFile": "lib/NormalModuleFactory.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8427,6 +9667,8 @@
     },
     {
       "source": 58,
+      "sourceLine": 46,
+      "sourceFile": "lib/OptionsDefaulter.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8436,6 +9678,8 @@
     },
     {
       "source": 58,
+      "sourceLine": 51,
+      "sourceFile": "lib/OptionsDefaulter.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8446,6 +9690,8 @@
     {
       "source": 59,
       "target": 286,
+      "sourceLine": 871,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8456,6 +9702,8 @@
     {
       "source": 59,
       "target": 287,
+      "sourceLine": 954,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8466,6 +9714,8 @@
     {
       "source": 59,
       "target": 289,
+      "sourceLine": 1135,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8476,6 +9726,8 @@
     {
       "source": 59,
       "target": 290,
+      "sourceLine": 1142,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8486,6 +9738,8 @@
     {
       "source": 59,
       "target": 290,
+      "sourceLine": 1145,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8496,6 +9750,8 @@
     {
       "source": 59,
       "target": 290,
+      "sourceLine": 1153,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8506,6 +9762,8 @@
     {
       "source": 59,
       "target": 292,
+      "sourceLine": 1163,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8516,6 +9774,8 @@
     {
       "source": 59,
       "target": 291,
+      "sourceLine": 1165,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8526,6 +9786,8 @@
     {
       "source": 59,
       "target": 293,
+      "sourceLine": 1169,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8536,6 +9798,8 @@
     {
       "source": 59,
       "target": 295,
+      "sourceLine": 1179,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8546,6 +9810,8 @@
     {
       "source": 59,
       "target": 296,
+      "sourceLine": 1194,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8556,6 +9822,8 @@
     {
       "source": 59,
       "target": 295,
+      "sourceLine": 1202,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8566,6 +9834,8 @@
     {
       "source": 59,
       "target": 295,
+      "sourceLine": 1232,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8576,6 +9846,8 @@
     {
       "source": 59,
       "target": 291,
+      "sourceLine": 1238,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8586,6 +9858,8 @@
     {
       "source": 59,
       "target": 293,
+      "sourceLine": 1245,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8596,6 +9870,8 @@
     {
       "source": 59,
       "target": 294,
+      "sourceLine": 1260,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8606,6 +9882,8 @@
     {
       "source": 59,
       "target": 295,
+      "sourceLine": 1261,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8616,6 +9894,8 @@
     {
       "source": 59,
       "target": 292,
+      "sourceLine": 1272,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8626,6 +9906,8 @@
     {
       "source": 59,
       "target": 296,
+      "sourceLine": 1273,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8636,6 +9918,8 @@
     {
       "source": 59,
       "target": 312,
+      "sourceLine": 1638,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8646,6 +9930,8 @@
     {
       "source": 59,
       "target": 306,
+      "sourceLine": 1755,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8656,6 +9942,8 @@
     {
       "source": 59,
       "target": 313,
+      "sourceLine": 2049,
+      "sourceFile": "lib/Parser.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8666,6 +9954,8 @@
     {
       "source": 76,
       "target": 270,
+      "sourceLine": 40,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8676,6 +9966,8 @@
     {
       "source": 76,
       "target": 209,
+      "sourceLine": 46,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8686,6 +9978,8 @@
     {
       "source": 76,
       "target": 202,
+      "sourceLine": 57,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8696,6 +9990,8 @@
     {
       "source": 76,
       "target": 266,
+      "sourceLine": 63,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8706,6 +10002,8 @@
     {
       "source": 76,
       "target": 211,
+      "sourceLine": 66,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8716,6 +10014,8 @@
     {
       "source": 76,
       "target": 225,
+      "sourceLine": 94,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8726,6 +10026,8 @@
     {
       "source": 76,
       "target": 266,
+      "sourceLine": 99,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8736,6 +10038,8 @@
     {
       "source": 76,
       "target": 267,
+      "sourceLine": 139,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8746,6 +10050,8 @@
     {
       "source": 76,
       "target": 269,
+      "sourceLine": 171,
+      "sourceFile": "lib/Watching.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8756,6 +10062,8 @@
     {
       "source": 77,
       "target": 232,
+      "sourceLine": 295,
+      "sourceFile": "lib/WebpackOptionsApply.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8766,6 +10074,8 @@
     {
       "source": 77,
       "target": 230,
+      "sourceLine": 476,
+      "sourceFile": "lib/WebpackOptionsApply.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8776,6 +10086,8 @@
     {
       "source": 77,
       "target": 231,
+      "sourceLine": 514,
+      "sourceFile": "lib/WebpackOptionsApply.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8786,6 +10098,8 @@
     {
       "source": 78,
       "target": 228,
+      "sourceLine": 40,
+      "sourceFile": "lib/webpack.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8796,6 +10110,8 @@
     {
       "source": 78,
       "target": 229,
+      "sourceLine": 41,
+      "sourceFile": "lib/webpack.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8806,6 +10122,8 @@
     {
       "source": 91,
       "target": 306,
+      "sourceLine": 91,
+      "sourceFile": "lib/dependencies/SystemPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8815,6 +10133,8 @@
     },
     {
       "source": 118,
+      "sourceLine": 39,
+      "sourceFile": "lib/wasm/WasmFinalizeExportsPlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8824,6 +10144,8 @@
     },
     {
       "source": 125,
+      "sourceLine": 286,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8833,6 +10155,8 @@
     },
     {
       "source": 125,
+      "sourceLine": 319,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
@@ -8842,6 +10166,8 @@
     },
     {
       "source": 125,
+      "sourceLine": 397,
+      "sourceFile": "lib/web/JsonpMainTemplatePlugin.js",
       "lineStyle": {
         "color": "#F1D302",
         "width": 2
