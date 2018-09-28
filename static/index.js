@@ -1,11 +1,11 @@
 /**
  * @file index.js
- * @author zhouhongxuan (zhouhongxuan@baidu.com)
+ * @author alienzhou
  * @description show force chart
  * File Created 2018-09-23 22:33:04, Sunday
  * -----
  * Last Modified 2018-09-23 22:33:04, Sunday
- * Modified By zhouhongxuan (zhouhongxuan@baidu.com>)
+ * Modified By alienzhou
  * -----
 */
 
@@ -14,7 +14,7 @@ import 'echarts/lib/component/tooltip';
 import 'echarts/lib/chart/graph';
 
 import forceData from '../config/forceData.json';
-import colors from '../config/color.json'; 
+import colors from '../config/color.json';
 
 // modify style
 document.querySelectorAll('.tooltip .contain').forEach(
@@ -66,7 +66,7 @@ const option = {
         emphasis: {
             label: {
                 show: false
-            }  
+            }
         },
         symbolSize: function (value) {
             return value;
@@ -93,9 +93,11 @@ const option = {
 myChart.setOption(option);
 
 myChart.on('click', function (params) {
-    if (params.dataType !== 'node' || params.data.type !== 'module') {
-        return;
-    }
     const base = 'https://github.com/webpack/webpack/tree/master/';
-    window.open(`${base}${params.name}`, null);
+    if (params.dataType === 'node' || params.data.type === 'module') {
+        window.open(`${base}${params.name}`, null);
+    }
+    if (params.dataType === 'edge') {
+        window.open(`${base}${params.data.sourceFile}#L${params.data.sourceLine}`, null);
+    }
 });
