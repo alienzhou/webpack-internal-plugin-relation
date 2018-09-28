@@ -4,81 +4,10 @@
     <meta http-equiv="Content-Type; content=text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <style>
-        body {
-            background: #222;
-            color: #f2f2f2;
-        }
-        .title {
-            padding-top: 20px;
-            text-align: center;
-            color: #f2f2f2;
-        }
-        .main {
-            margin: 0 auto;
-            width: 700px;
-            height: 500px;
-        }
-        .tooltip {
-            position: fixed;
-            top: 50px;
-            right: 120px;
-        }
-        .tooltip div {
-            height: 30px;
-            width: 40px;
-            position: relative;
-        }
-        .tooltip div::after {
-            font-size: 14px;
-            position: absolute;
-            top: 16px;
-            left: 50px;
-        }
-        .tooltip .contain::after {
-            content: 'contain';
-            font-size: 14px;
-        }
-        .tooltip .register::after {
-            content: 'register';
-            font-size: 14px;
-        }
-        .tooltip .call::after {
-            content: 'call';
-            font-size: 14px;
-        }
-        .category {
-            position: fixed;
-            top: 80px;
-            left: 120px;
-        }
-        .category div {
-            width: 13px;
-            height: 13px;
-            border-radius: 50%;
-            position: relative;
-        }
-        .category .hook {
-            margin-top: 15px;
-        }
-        .category div::after {
-            font-size: 14px;
-            position: absolute;
-            top: -4px;
-            left: 20px;
-            width: 200px;
-        }
-        .category .module::after {
-            content: 'javascript module';
-        }
-        .category .hook::after {
-            content: 'webpack hook';
-        }
-    </style>
-    <title>Webpack Plugin Relationship</title>
+    <title>webpack internal plugin relationship</title>
 </head>
 <body>
-    <h1 class="title">Webpack Plugin Relationship</h1>
+    <h1 class="title">webpack internal plugin relationship</h1>
     <main id="main" class="main"></main>
     <section class="tooltip">
         <div class="contain"></div>
@@ -88,6 +17,18 @@
     <section class="category">
         <div class="module"></div>
         <div class="hook"></div>
+    </section>
+    <section class="operation">
+        <button class="operation-btn" id="js-select-all">全选</button>
+        <button class="operation-btn" id="js-select-none">取消</button>
+    </section>
+    <section class="info" id="js-info">
+        <div class="info-title">包含的hook</div>
+        <div id="js-info-contain" class="info-text">无</div>
+        <div class="info-title">注册的hook</div>
+        <div id="js-info-register" class="info-text">无</div>
+        <div class="info-title">调用的hook</div>
+        <div id="js-info-call" class="info-text">无</div>
     </section>
 </body>
 </html>

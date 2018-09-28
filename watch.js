@@ -36,7 +36,7 @@ function runInChildProcess() {
 
 require('./index')();
 
-chokidar.watch(['./lib', 'index.js']).on('change', p => {
+chokidar.watch(['./lib', 'index.js', 'config/color.json']).on('change', p => {
     console.log(chalkCtx.green(`file ${p} changed`));
     runInChildProcess();
 });
