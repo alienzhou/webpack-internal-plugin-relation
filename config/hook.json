@@ -5,7 +5,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "APIPlugin"
+        "plugin": "APIPlugin",
+        "line": 36
       }
     ],
     "calls": []
@@ -16,17 +17,20 @@
       {
         "hook": "renderWithEntry",
         "type": "tap",
-        "plugin": "AmdMainTemplatePlugin"
+        "plugin": "AmdMainTemplatePlugin",
+        "line": 67
       },
       {
         "hook": "globalHashPaths",
         "type": "tap",
-        "plugin": "AmdMainTemplatePlugin"
+        "plugin": "AmdMainTemplatePlugin",
+        "line": 73
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "AmdMainTemplatePlugin"
+        "plugin": "AmdMainTemplatePlugin",
+        "line": 80
       }
     ],
     "calls": []
@@ -37,17 +41,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "AutomaticPrefetchPlugin"
+        "plugin": "AutomaticPrefetchPlugin",
+        "line": 20
       },
       {
         "hook": "afterCompile",
         "type": "tap",
-        "plugin": "AutomaticPrefetchPlugin"
+        "plugin": "AutomaticPrefetchPlugin",
+        "line": 30
       },
       {
         "hook": "make",
         "type": "tapAsync",
-        "plugin": "AutomaticPrefetchPlugin"
+        "plugin": "AutomaticPrefetchPlugin",
+        "line": 38
       }
     ],
     "calls": []
@@ -58,12 +65,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "BannerPlugin"
+        "plugin": "BannerPlugin",
+        "line": 64
       },
       {
         "hook": "optimizeChunkAssets",
         "type": "tap",
-        "plugin": "BannerPlugin"
+        "plugin": "BannerPlugin",
+        "line": 65
       }
     ],
     "calls": []
@@ -74,27 +83,32 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "CachePlugin"
+        "plugin": "CachePlugin",
+        "line": 22
       },
       {
         "hook": "childCompiler",
         "type": "tap",
-        "plugin": "CachePlugin"
+        "plugin": "CachePlugin",
+        "line": 24
       },
       {
         "hook": "watchRun",
         "type": "tap",
-        "plugin": "CachePlugin"
+        "plugin": "CachePlugin",
+        "line": 47
       },
       {
         "hook": "run",
         "type": "tapAsync",
-        "plugin": "CachePlugin"
+        "plugin": "CachePlugin",
+        "line": 50
       },
       {
         "hook": "afterCompile",
         "type": "tap",
-        "plugin": "CachePlugin"
+        "plugin": "CachePlugin",
+        "line": 83
       }
     ],
     "calls": []
@@ -112,15 +126,18 @@
     "calls": [
       {
         "hook": "renderManifest",
-        "type": "call"
+        "type": "call",
+        "line": 58
       },
       {
         "hook": "hash",
-        "type": "call"
+        "type": "call",
+        "line": 71
       },
       {
         "hook": "hashForChunk",
-        "type": "call"
+        "type": "call",
+        "line": 85
       }
     ]
   },
@@ -130,7 +147,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "CompatibilityPlugin"
+        "plugin": "CompatibilityPlugin",
+        "line": 20
       }
     ],
     "calls": []
@@ -214,267 +232,333 @@
     "calls": [
       {
         "hook": "buildModule",
-        "type": "call"
+        "type": "call",
+        "line": 616
       },
       {
         "hook": "failedModule",
-        "type": "call"
+        "type": "call",
+        "line": 648
       },
       {
         "hook": "succeedModule",
-        "type": "call"
+        "type": "call",
+        "line": 651
       },
       {
         "hook": "rebuildModule",
-        "type": "call"
+        "type": "call",
+        "line": 1107
       },
       {
         "hook": "finishRebuildingModule",
-        "type": "call"
+        "type": "call",
+        "line": 1114
       },
       {
         "hook": "finishRebuildingModule",
-        "type": "call"
+        "type": "call",
+        "line": 1125
       },
       {
         "hook": "finishModules",
-        "type": "call"
+        "type": "call",
+        "line": 1133
       },
       {
         "hook": "unseal",
-        "type": "call"
+        "type": "call",
+        "line": 1142
       },
       {
         "hook": "seal",
-        "type": "call"
+        "type": "call",
+        "line": 1159
       },
       {
         "hook": "optimizeDependenciesBasic",
-        "type": "call"
+        "type": "call",
+        "line": 1162
       },
       {
         "hook": "optimizeDependencies",
-        "type": "call"
+        "type": "call",
+        "line": 1163
       },
       {
         "hook": "optimizeDependenciesAdvanced",
-        "type": "call"
+        "type": "call",
+        "line": 1164
       },
       {
         "hook": "afterOptimizeDependencies",
-        "type": "call"
+        "type": "call",
+        "line": 1168
       },
       {
         "hook": "beforeChunks",
-        "type": "call"
+        "type": "call",
+        "line": 1170
       },
       {
         "hook": "afterChunks",
-        "type": "call"
+        "type": "call",
+        "line": 1192
       },
       {
         "hook": "optimize",
-        "type": "call"
+        "type": "call",
+        "line": 1194
       },
       {
         "hook": "optimizeModulesBasic",
-        "type": "call"
+        "type": "call",
+        "line": 1197
       },
       {
         "hook": "optimizeModules",
-        "type": "call"
+        "type": "call",
+        "line": 1198
       },
       {
         "hook": "optimizeModulesAdvanced",
-        "type": "call"
+        "type": "call",
+        "line": 1199
       },
       {
         "hook": "afterOptimizeModules",
-        "type": "call"
+        "type": "call",
+        "line": 1203
       },
       {
         "hook": "optimizeChunksBasic",
-        "type": "call"
+        "type": "call",
+        "line": 1206
       },
       {
         "hook": "optimizeChunks",
-        "type": "call"
+        "type": "call",
+        "line": 1207
       },
       {
         "hook": "optimizeChunksAdvanced",
-        "type": "call"
+        "type": "call",
+        "line": 1208
       },
       {
         "hook": "afterOptimizeChunks",
-        "type": "call"
+        "type": "call",
+        "line": 1212
       },
       {
         "hook": "optimizeTree",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 1214
       },
       {
         "hook": "afterOptimizeTree",
-        "type": "call"
+        "type": "call",
+        "line": 1219
       },
       {
         "hook": "optimizeChunkModulesBasic",
-        "type": "call"
+        "type": "call",
+        "line": 1222
       },
       {
         "hook": "optimizeChunkModules",
-        "type": "call"
+        "type": "call",
+        "line": 1223
       },
       {
         "hook": "optimizeChunkModulesAdvanced",
-        "type": "call"
+        "type": "call",
+        "line": 1224
       },
       {
         "hook": "afterOptimizeChunkModules",
-        "type": "call"
+        "type": "call",
+        "line": 1228
       },
       {
         "hook": "shouldRecord",
-        "type": "call"
+        "type": "call",
+        "line": 1230
       },
       {
         "hook": "reviveModules",
-        "type": "call"
+        "type": "call",
+        "line": 1232
       },
       {
         "hook": "optimizeModuleOrder",
-        "type": "call"
+        "type": "call",
+        "line": 1233
       },
       {
         "hook": "advancedOptimizeModuleOrder",
-        "type": "call"
+        "type": "call",
+        "line": 1234
       },
       {
         "hook": "beforeModuleIds",
-        "type": "call"
+        "type": "call",
+        "line": 1235
       },
       {
         "hook": "moduleIds",
-        "type": "call"
+        "type": "call",
+        "line": 1236
       },
       {
         "hook": "optimizeModuleIds",
-        "type": "call"
+        "type": "call",
+        "line": 1238
       },
       {
         "hook": "afterOptimizeModuleIds",
-        "type": "call"
+        "type": "call",
+        "line": 1239
       },
       {
         "hook": "reviveChunks",
-        "type": "call"
+        "type": "call",
+        "line": 1243
       },
       {
         "hook": "optimizeChunkOrder",
-        "type": "call"
+        "type": "call",
+        "line": 1244
       },
       {
         "hook": "beforeChunkIds",
-        "type": "call"
+        "type": "call",
+        "line": 1245
       },
       {
         "hook": "optimizeChunkIds",
-        "type": "call"
+        "type": "call",
+        "line": 1247
       },
       {
         "hook": "afterOptimizeChunkIds",
-        "type": "call"
+        "type": "call",
+        "line": 1248
       },
       {
         "hook": "recordModules",
-        "type": "call"
+        "type": "call",
+        "line": 1253
       },
       {
         "hook": "recordChunks",
-        "type": "call"
+        "type": "call",
+        "line": 1254
       },
       {
         "hook": "beforeHash",
-        "type": "call"
+        "type": "call",
+        "line": 1257
       },
       {
         "hook": "afterHash",
-        "type": "call"
+        "type": "call",
+        "line": 1259
       },
       {
         "hook": "recordHash",
-        "type": "call"
+        "type": "call",
+        "line": 1262
       },
       {
         "hook": "beforeModuleAssets",
-        "type": "call"
+        "type": "call",
+        "line": 1265
       },
       {
         "hook": "shouldGenerateChunkAssets",
-        "type": "call"
+        "type": "call",
+        "line": 1267
       },
       {
         "hook": "beforeChunkAssets",
-        "type": "call"
+        "type": "call",
+        "line": 1268
       },
       {
         "hook": "additionalChunkAssets",
-        "type": "call"
+        "type": "call",
+        "line": 1271
       },
       {
         "hook": "record",
-        "type": "call"
+        "type": "call",
+        "line": 1274
       },
       {
         "hook": "additionalAssets",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 1277
       },
       {
         "hook": "optimizeChunkAssets",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 1281
       },
       {
         "hook": "afterOptimizeChunkAssets",
-        "type": "call"
+        "type": "call",
+        "line": 1285
       },
       {
         "hook": "optimizeAssets",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 1286
       },
       {
         "hook": "afterOptimizeAssets",
-        "type": "call"
+        "type": "call",
+        "line": 1290
       },
       {
         "hook": "needAdditionalSeal",
-        "type": "call"
+        "type": "call",
+        "line": 1291
       },
       {
         "hook": "afterSeal",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 1295
       },
       {
         "hook": "dependencyReference",
-        "type": "call"
+        "type": "call",
+        "line": 1475
       },
       {
         "hook": "chunkHash",
-        "type": "call"
+        "type": "call",
+        "line": 2269
       },
       {
         "hook": "contentHash",
-        "type": "call"
+        "type": "call",
+        "line": 2273
       },
       {
         "hook": "moduleAsset",
-        "type": "call"
+        "type": "call",
+        "line": 2302
       },
       {
         "hook": "chunkAsset",
-        "type": "call"
+        "type": "call",
+        "line": 2348
       },
       {
         "hook": "chunkAsset",
-        "type": "call"
+        "type": "call",
+        "line": 2390
       }
     ]
   },
@@ -509,79 +593,98 @@
     "calls": [
       {
         "hook": "shouldEmit",
-        "type": "call"
+        "type": "call",
+        "line": 220
       },
       {
         "hook": "done",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 224
       },
       {
         "hook": "needAdditionalPass",
-        "type": "call"
+        "type": "call",
+        "line": 234
       },
       {
         "hook": "done",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 240
       },
       {
         "hook": "additionalPass",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 243
       },
       {
         "hook": "done",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 257
       },
       {
         "hook": "beforeRun",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 265
       },
       {
         "hook": "run",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 268
       },
       {
         "hook": "afterEmit",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 355
       },
       {
         "hook": "emit",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 364
       },
       {
         "hook": "childCompiler",
-        "type": "call"
+        "type": "call",
+        "line": 479
       },
       {
         "hook": "thisCompilation",
-        "type": "call"
+        "type": "call",
+        "line": 503
       },
       {
         "hook": "compilation",
-        "type": "call"
+        "type": "call",
+        "line": 504
       },
       {
         "hook": "normalModuleFactory",
-        "type": "call"
+        "type": "call",
+        "line": 514
       },
       {
         "hook": "contextModuleFactory",
-        "type": "call"
+        "type": "call",
+        "line": 520
       },
       {
         "hook": "beforeCompile",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 535
       },
       {
         "hook": "compile",
-        "type": "call"
+        "type": "call",
+        "line": 538
       },
       {
         "hook": "make",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 542
       },
       {
         "hook": "afterCompile",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 550
       }
     ]
   },
@@ -591,17 +694,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ConstPlugin"
+        "plugin": "ConstPlugin",
+        "line": 111
       },
       {
         "hook": "statementIf",
         "type": "tap",
-        "plugin": "ConstPlugin"
+        "plugin": "ConstPlugin",
+        "line": 121
       },
       {
         "hook": "expressionConditionalOperator",
         "type": "tap",
-        "plugin": "ConstPlugin"
+        "plugin": "ConstPlugin",
+        "line": 189
       }
     ],
     "calls": []
@@ -612,12 +718,14 @@
       {
         "hook": "contextModuleFactory",
         "type": "tap",
-        "plugin": "ContextExclusionPlugin"
+        "plugin": "ContextExclusionPlugin",
+        "line": 20
       },
       {
         "hook": "contextModuleFiles",
         "type": "tap",
-        "plugin": "ContextExclusionPlugin"
+        "plugin": "ContextExclusionPlugin",
+        "line": 21
       }
     ],
     "calls": []
@@ -633,19 +741,23 @@
     "calls": [
       {
         "hook": "beforeResolve",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 52
       },
       {
         "hook": "afterResolve",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 145
       },
       {
         "hook": "contextModuleFiles",
-        "type": "call"
+        "type": "call",
+        "line": 188
       },
       {
         "hook": "alternatives",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 221
       }
     ]
   },
@@ -655,17 +767,20 @@
       {
         "hook": "contextModuleFactory",
         "type": "tap",
-        "plugin": "ContextReplacementPlugin"
+        "plugin": "ContextReplacementPlugin",
+        "line": 59
       },
       {
         "hook": "beforeResolve",
         "type": "tap",
-        "plugin": "ContextReplacementPlugin"
+        "plugin": "ContextReplacementPlugin",
+        "line": 60
       },
       {
         "hook": "afterResolve",
         "type": "tap",
-        "plugin": "ContextReplacementPlugin"
+        "plugin": "ContextReplacementPlugin",
+        "line": 82
       }
     ],
     "calls": []
@@ -676,7 +791,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "DefinePlugin"
+        "plugin": "DefinePlugin",
+        "line": 93
       }
     ],
     "calls": []
@@ -687,12 +803,14 @@
       {
         "hook": "factory",
         "type": "tap",
-        "plugin": "DelegatedModuleFactoryPlugin"
+        "plugin": "DelegatedModuleFactoryPlugin",
+        "line": 30
       },
       {
         "hook": "module",
         "type": "tap",
-        "plugin": "DelegatedModuleFactoryPlugin"
+        "plugin": "DelegatedModuleFactoryPlugin",
+        "line": 73
       }
     ],
     "calls": []
@@ -703,12 +821,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "DelegatedPlugin"
+        "plugin": "DelegatedPlugin",
+        "line": 19
       },
       {
         "hook": "compile",
         "type": "tap",
-        "plugin": "DelegatedPlugin"
+        "plugin": "DelegatedPlugin",
+        "line": 33
       }
     ],
     "calls": []
@@ -719,12 +839,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "DllEntryPlugin"
+        "plugin": "DllEntryPlugin",
+        "line": 19
       },
       {
         "hook": "make",
         "type": "tapAsync",
-        "plugin": "DllEntryPlugin"
+        "plugin": "DllEntryPlugin",
+        "line": 33
       }
     ],
     "calls": []
@@ -735,7 +857,8 @@
       {
         "hook": "entryOption",
         "type": "tap",
-        "plugin": "DllPlugin"
+        "plugin": "DllPlugin",
+        "line": 21
       }
     ],
     "calls": []
@@ -746,22 +869,26 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "DllReferencePlugin"
+        "plugin": "DllReferencePlugin",
+        "line": 26
       },
       {
         "hook": "beforeCompile",
         "type": "tapAsync",
-        "plugin": "DllReferencePlugin"
+        "plugin": "DllReferencePlugin",
+        "line": 40
       },
       {
         "hook": "compile",
         "type": "tap",
-        "plugin": "DllReferencePlugin"
+        "plugin": "DllReferencePlugin",
+        "line": 73
       },
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "DllReferencePlugin"
+        "plugin": "DllReferencePlugin",
+        "line": 104
       }
     ],
     "calls": []
@@ -772,12 +899,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "DynamicEntryPlugin"
+        "plugin": "DynamicEntryPlugin",
+        "line": 31
       },
       {
         "hook": "make",
         "type": "tapAsync",
-        "plugin": "DynamicEntryPlugin"
+        "plugin": "DynamicEntryPlugin",
+        "line": 47
       }
     ],
     "calls": []
@@ -788,7 +917,8 @@
       {
         "hook": "entryOption",
         "type": "tap",
-        "plugin": "EntryOptionPlugin"
+        "plugin": "EntryOptionPlugin",
+        "line": 32
       }
     ],
     "calls": []
@@ -799,7 +929,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "EnvironmentPlugin"
+        "plugin": "EnvironmentPlugin",
+        "line": 50
       }
     ],
     "calls": []
@@ -810,7 +941,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "EvalDevToolModulePlugin"
+        "plugin": "EvalDevToolModulePlugin",
+        "line": 17
       }
     ],
     "calls": []
@@ -821,12 +953,14 @@
       {
         "hook": "module",
         "type": "tap",
-        "plugin": "EvalDevToolModuleTemplatePlugin"
+        "plugin": "EvalDevToolModuleTemplatePlugin",
+        "line": 22
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "EvalDevToolModuleTemplatePlugin"
+        "plugin": "EvalDevToolModuleTemplatePlugin",
+        "line": 54
       }
     ],
     "calls": []
@@ -837,12 +971,14 @@
       {
         "hook": "module",
         "type": "tap",
-        "plugin": "EvalSourceMapDevToolModuleTemplatePlugin"
+        "plugin": "EvalSourceMapDevToolModuleTemplatePlugin",
+        "line": 31
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "EvalSourceMapDevToolModuleTemplatePlugin"
+        "plugin": "EvalSourceMapDevToolModuleTemplatePlugin",
+        "line": 106
       }
     ],
     "calls": []
@@ -853,7 +989,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "EvalSourceMapDevToolPlugin"
+        "plugin": "EvalSourceMapDevToolPlugin",
+        "line": 28
       }
     ],
     "calls": []
@@ -864,12 +1001,14 @@
       {
         "hook": "renderWithEntry",
         "type": "tap",
-        "plugin": "ExportPropertyMainTemplatePlugin"
+        "plugin": "ExportPropertyMainTemplatePlugin",
+        "line": 40
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "ExportPropertyMainTemplatePlugin"
+        "plugin": "ExportPropertyMainTemplatePlugin",
+        "line": 46
       }
     ],
     "calls": []
@@ -880,17 +1019,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ExtendedAPIPlugin"
+        "plugin": "ExtendedAPIPlugin",
+        "line": 27
       },
       {
         "hook": "requireExtensions",
         "type": "tap",
-        "plugin": "ExtendedAPIPlugin"
+        "plugin": "ExtendedAPIPlugin",
+        "line": 37
       },
       {
         "hook": "globalHash",
         "type": "tap",
-        "plugin": "ExtendedAPIPlugin"
+        "plugin": "ExtendedAPIPlugin",
+        "line": 52
       }
     ],
     "calls": []
@@ -901,13 +1043,15 @@
       {
         "hook": "factory",
         "type": "tap",
-        "plugin": "ExternalModuleFactoryPlugin"
+        "plugin": "ExternalModuleFactoryPlugin",
+        "line": 17
       }
     ],
     "calls": [
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 94
       }
     ]
   },
@@ -917,7 +1061,8 @@
       {
         "hook": "compile",
         "type": "tap",
-        "plugin": "ExternalsPlugin"
+        "plugin": "ExternalsPlugin",
+        "line": 15
       }
     ],
     "calls": []
@@ -928,22 +1073,26 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "FlagDependencyExportsPlugin"
+        "plugin": "FlagDependencyExportsPlugin",
+        "line": 22
       },
       {
         "hook": "finishModules",
         "type": "tap",
-        "plugin": "FlagDependencyExportsPlugin"
+        "plugin": "FlagDependencyExportsPlugin",
+        "line": 25
       },
       {
         "hook": "rebuildModule",
         "type": "tap",
-        "plugin": "FlagDependencyExportsPlugin"
+        "plugin": "FlagDependencyExportsPlugin",
+        "line": 129
       },
       {
         "hook": "finishRebuildingModule",
         "type": "tap",
-        "plugin": "FlagDependencyExportsPlugin"
+        "plugin": "FlagDependencyExportsPlugin",
+        "line": 135
       }
     ],
     "calls": []
@@ -954,12 +1103,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "FlagDependencyUsagePlugin"
+        "plugin": "FlagDependencyUsagePlugin",
+        "line": 27
       },
       {
         "hook": "optimizeDependencies",
         "type": "tap",
-        "plugin": "FlagDependencyUsagePlugin"
+        "plugin": "FlagDependencyUsagePlugin",
+        "line": 28
       }
     ],
     "calls": []
@@ -970,12 +1121,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "FlagInitialModulesAsUsedPlugin"
+        "plugin": "FlagInitialModulesAsUsedPlugin",
+        "line": 13
       },
       {
         "hook": "afterOptimizeChunks",
         "type": "tap",
-        "plugin": "FlagInitialModulesAsUsedPlugin"
+        "plugin": "FlagInitialModulesAsUsedPlugin",
+        "line": 16
       }
     ],
     "calls": []
@@ -986,7 +1139,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "FunctionModulePlugin"
+        "plugin": "FunctionModulePlugin",
+        "line": 11
       }
     ],
     "calls": []
@@ -997,17 +1151,20 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "FunctionModuleTemplatePlugin"
+        "plugin": "FunctionModuleTemplatePlugin",
+        "line": 12
       },
       {
         "hook": "package",
         "type": "tap",
-        "plugin": "FunctionModuleTemplatePlugin"
+        "plugin": "FunctionModuleTemplatePlugin",
+        "line": 36
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "FunctionModuleTemplatePlugin"
+        "plugin": "FunctionModuleTemplatePlugin",
+        "line": 94
       }
     ],
     "calls": []
@@ -1018,12 +1175,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "HashedModuleIdsPlugin"
+        "plugin": "HashedModuleIdsPlugin",
+        "line": 28
       },
       {
         "hook": "beforeModuleIds",
         "type": "tap",
-        "plugin": "HashedModuleIdsPlugin"
+        "plugin": "HashedModuleIdsPlugin",
+        "line": 30
       }
     ],
     "calls": []
@@ -1034,39 +1193,48 @@
     "calls": [
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 60
       },
       {
         "hook": "i",
-        "type": "call"
+        "type": "call",
+        "line": 161
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 227
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 270
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 375
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 443
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 528
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 549
       },
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 558
       }
     ]
   },
@@ -1076,95 +1244,114 @@
       {
         "hook": "additionalPass",
         "type": "tapAsync",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 31
       },
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 150
       },
       {
         "hook": "record",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 180
       },
       {
         "hook": "afterHash",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 205
       },
       {
         "hook": "shouldGenerateChunkAssets",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 223
       },
       {
         "hook": "needAdditionalPass",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 229
       },
       {
         "hook": "additionalChunkAssets",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 235
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 304
       },
       {
         "hook": "moduleRequire",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 308
       },
       {
         "hook": "requireExtensions",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 315
       },
       {
         "hook": "bootstrap",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 337
       },
       {
         "hook": "globalHash",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 358
       },
       {
         "hook": "currentHash",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 363
       },
       {
         "hook": "moduleObj",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 374
       },
       {
         "hook": "normalModuleLoader",
         "type": "tap",
-        "plugin": "HotModuleReplacementPlugin"
+        "plugin": "HotModuleReplacementPlugin",
+        "line": 394
       }
     ],
     "calls": [
       {
         "hook": "hotAcceptCallback",
-        "type": "call"
+        "type": "call",
+        "line": 106
       },
       {
         "hook": "hotAcceptWithoutCallback",
-        "type": "call"
+        "type": "call",
+        "line": 113
       },
       {
         "hook": "chunkAsset",
-        "type": "call"
+        "type": "call",
+        "line": 288
       },
       {
         "hook": "hotBootstrap",
-        "type": "call"
+        "type": "call",
+        "line": 340
       }
     ]
   },
@@ -1178,15 +1365,18 @@
     "calls": [
       {
         "hook": "modules",
-        "type": "call"
+        "type": "call",
+        "line": 54
       },
       {
         "hook": "render",
-        "type": "call"
+        "type": "call",
+        "line": 61
       },
       {
         "hook": "hash",
-        "type": "call"
+        "type": "call",
+        "line": 76
       }
     ]
   },
@@ -1196,22 +1386,26 @@
       {
         "hook": "normalModuleFactory",
         "type": "tap",
-        "plugin": "IgnorePlugin"
+        "plugin": "IgnorePlugin",
+        "line": 100
       },
       {
         "hook": "beforeResolve",
         "type": "tap",
-        "plugin": "IgnorePlugin"
+        "plugin": "IgnorePlugin",
+        "line": 101
       },
       {
         "hook": "contextModuleFactory",
         "type": "tap",
-        "plugin": "IgnorePlugin"
+        "plugin": "IgnorePlugin",
+        "line": 103
       },
       {
         "hook": "beforeResolve",
         "type": "tap",
-        "plugin": "IgnorePlugin"
+        "plugin": "IgnorePlugin",
+        "line": 104
       }
     ],
     "calls": []
@@ -1222,41 +1416,49 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "JavascriptModulesPlugin"
+        "plugin": "JavascriptModulesPlugin",
+        "line": 15
       },
       {
         "hook": "renderManifest",
         "type": "tap",
-        "plugin": "JavascriptModulesPlugin"
+        "plugin": "JavascriptModulesPlugin",
+        "line": 48
       },
       {
         "hook": "modules",
         "type": "tap",
-        "plugin": "JavascriptModulesPlugin"
+        "plugin": "JavascriptModulesPlugin",
+        "line": 83
       },
       {
         "hook": "renderManifest",
         "type": "tap",
-        "plugin": "JavascriptModulesPlugin"
+        "plugin": "JavascriptModulesPlugin",
+        "line": 95
       },
       {
         "hook": "contentHash",
         "type": "tap",
-        "plugin": "JavascriptModulesPlugin"
+        "plugin": "JavascriptModulesPlugin",
+        "line": 125
       }
     ],
     "calls": [
       {
         "hook": "modules",
-        "type": "call"
+        "type": "call",
+        "line": 166
       },
       {
         "hook": "render",
-        "type": "call"
+        "type": "call",
+        "line": 172
       },
       {
         "hook": "renderWithEntry",
-        "type": "call"
+        "type": "call",
+        "line": 179
       }
     ]
   },
@@ -1266,7 +1468,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "JsonModulesPlugin"
+        "plugin": "JsonModulesPlugin",
+        "line": 12
       }
     ],
     "calls": []
@@ -1277,7 +1480,8 @@
       {
         "hook": "emit",
         "type": "tapAsync",
-        "plugin": "LibManifestPlugin"
+        "plugin": "LibManifestPlugin",
+        "line": 17
       }
     ],
     "calls": []
@@ -1288,7 +1492,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "LibraryTemplatePlugin"
+        "plugin": "LibraryTemplatePlugin",
+        "line": 62
       }
     ],
     "calls": []
@@ -1299,12 +1504,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "LoaderOptionsPlugin"
+        "plugin": "LoaderOptionsPlugin",
+        "line": 27
       },
       {
         "hook": "normalModuleLoader",
         "type": "tap",
-        "plugin": "LoaderOptionsPlugin"
+        "plugin": "LoaderOptionsPlugin",
+        "line": 28
       }
     ],
     "calls": []
@@ -1315,12 +1522,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "LoaderTargetPlugin"
+        "plugin": "LoaderTargetPlugin",
+        "line": 13
       },
       {
         "hook": "normalModuleLoader",
         "type": "tap",
-        "plugin": "LoaderTargetPlugin"
+        "plugin": "LoaderTargetPlugin",
+        "line": 14
       }
     ],
     "calls": []
@@ -1353,118 +1562,145 @@
       {
         "hook": "startup",
         "type": "tap",
-        "plugin": "MainTemplate"
+        "plugin": "MainTemplate",
+        "line": 133
       },
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "MainTemplate"
+        "plugin": "MainTemplate",
+        "line": 148
       },
       {
         "hook": "localVars",
         "type": "tap",
-        "plugin": "MainTemplate"
+        "plugin": "MainTemplate",
+        "line": 172
       },
       {
         "hook": "require",
         "type": "tap",
-        "plugin": "MainTemplate"
+        "plugin": "MainTemplate",
+        "line": 179
       },
       {
         "hook": "moduleObj",
         "type": "tap",
-        "plugin": "MainTemplate"
+        "plugin": "MainTemplate",
+        "line": 228
       },
       {
         "hook": "requireExtensions",
         "type": "tap",
-        "plugin": "MainTemplate"
+        "plugin": "MainTemplate",
+        "line": 234
       }
     ],
     "calls": [
       {
         "hook": "modules",
-        "type": "call"
+        "type": "call",
+        "line": 160
       },
       {
         "hook": "moduleObj",
-        "type": "call"
+        "type": "call",
+        "line": 188
       },
       {
         "hook": "requireEnsure",
-        "type": "call"
+        "type": "call",
+        "line": 245
       },
       {
         "hook": "renderManifest",
-        "type": "call"
+        "type": "call",
+        "line": 358
       },
       {
         "hook": "bootstrap",
-        "type": "call"
+        "type": "call",
+        "line": 374
       },
       {
         "hook": "localVars",
-        "type": "call"
+        "type": "call",
+        "line": 382
       },
       {
         "hook": "require",
-        "type": "call"
+        "type": "call",
+        "line": 386
       },
       {
         "hook": "requireExtensions",
-        "type": "call"
+        "type": "call",
+        "line": 390
       },
       {
         "hook": "beforeStartup",
-        "type": "call"
+        "type": "call",
+        "line": 393
       },
       {
         "hook": "startup",
-        "type": "call"
+        "type": "call",
+        "line": 394
       },
       {
         "hook": "render",
-        "type": "call"
+        "type": "call",
+        "line": 412
       },
       {
         "hook": "renderWithEntry",
-        "type": "call"
+        "type": "call",
+        "line": 423
       },
       {
         "hook": "moduleRequire",
-        "type": "call"
+        "type": "call",
+        "line": 442
       },
       {
         "hook": "addModule",
-        "type": "call"
+        "type": "call",
+        "line": 459
       },
       {
         "hook": "currentHash",
-        "type": "call"
+        "type": "call",
+        "line": 476
       },
       {
         "hook": "assetPath",
-        "type": "call"
+        "type": "call",
+        "line": 488
       },
       {
         "hook": "assetPath",
-        "type": "call"
+        "type": "call",
+        "line": 495
       },
       {
         "hook": "hash",
-        "type": "call"
+        "type": "call",
+        "line": 506
       },
       {
         "hook": "hashForChunk",
-        "type": "call"
+        "type": "call",
+        "line": 520
       },
       {
         "hook": "globalHashPaths",
-        "type": "call"
+        "type": "call",
+        "line": 532
       },
       {
         "hook": "globalHash",
-        "type": "call"
+        "type": "call",
+        "line": 533
       }
     ]
   },
@@ -1480,23 +1716,28 @@
     "calls": [
       {
         "hook": "content",
-        "type": "call"
+        "type": "call",
+        "line": 59
       },
       {
         "hook": "module",
-        "type": "call"
+        "type": "call",
+        "line": 65
       },
       {
         "hook": "render",
-        "type": "call"
+        "type": "call",
+        "line": 71
       },
       {
         "hook": "package",
-        "type": "call"
+        "type": "call",
+        "line": 77
       },
       {
         "hook": "hash",
-        "type": "call"
+        "type": "call",
+        "line": 91
       }
     ]
   },
@@ -1512,18 +1753,21 @@
       {
         "hook": "done",
         "type": "tap",
-        "plugin": "MultiCompiler"
+        "plugin": "MultiCompiler",
+        "line": 37
       },
       {
         "hook": "invalid",
         "type": "tap",
-        "plugin": "MultiCompiler"
+        "plugin": "MultiCompiler",
+        "line": 48
       }
     ],
     "calls": [
       {
         "hook": "done",
-        "type": "call"
+        "type": "call",
+        "line": 44
       }
     ]
   },
@@ -1533,12 +1777,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "MultiEntryPlugin"
+        "plugin": "MultiEntryPlugin",
+        "line": 31
       },
       {
         "hook": "make",
         "type": "tapAsync",
-        "plugin": "MultiEntryPlugin"
+        "plugin": "MultiEntryPlugin",
+        "line": 47
       }
     ],
     "calls": []
@@ -1549,7 +1795,8 @@
     "calls": [
       {
         "hook": "watchClose",
-        "type": "call"
+        "type": "call",
+        "line": 28
       }
     ]
   },
@@ -1559,12 +1806,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "NamedChunksPlugin"
+        "plugin": "NamedChunksPlugin",
+        "line": 17
       },
       {
         "hook": "beforeChunkIds",
         "type": "tap",
-        "plugin": "NamedChunksPlugin"
+        "plugin": "NamedChunksPlugin",
+        "line": 18
       }
     ],
     "calls": []
@@ -1575,12 +1824,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "NamedModulesPlugin"
+        "plugin": "NamedModulesPlugin",
+        "line": 22
       },
       {
         "hook": "beforeModuleIds",
         "type": "tap",
-        "plugin": "NamedModulesPlugin"
+        "plugin": "NamedModulesPlugin",
+        "line": 23
       }
     ],
     "calls": []
@@ -1591,17 +1842,20 @@
       {
         "hook": "shouldEmit",
         "type": "tap",
-        "plugin": "NoEmitOnErrorsPlugin"
+        "plugin": "NoEmitOnErrorsPlugin",
+        "line": 9
       },
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "NoEmitOnErrorsPlugin"
+        "plugin": "NoEmitOnErrorsPlugin",
+        "line": 12
       },
       {
         "hook": "shouldRecord",
         "type": "tap",
-        "plugin": "NoEmitOnErrorsPlugin"
+        "plugin": "NoEmitOnErrorsPlugin",
+        "line": 13
       }
     ],
     "calls": []
@@ -1612,7 +1866,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "NodeStuffPlugin"
+        "plugin": "NodeStuffPlugin",
+        "line": 20
       }
     ],
     "calls": []
@@ -1623,7 +1878,8 @@
     "calls": [
       {
         "hook": "normalModuleLoader",
-        "type": "call"
+        "type": "call",
+        "line": 206
       }
     ]
   },
@@ -1644,38 +1900,46 @@
       {
         "hook": "factory",
         "type": "tap",
-        "plugin": "NormalModuleFactory"
+        "plugin": "NormalModuleFactory",
+        "line": 123
       },
       {
         "hook": "resolver",
         "type": "tap",
-        "plugin": "NormalModuleFactory"
+        "plugin": "NormalModuleFactory",
+        "line": 159
       }
     ],
     "calls": [
       {
         "hook": "resolver",
-        "type": "call"
+        "type": "call",
+        "line": 124
       },
       {
         "hook": "afterResolve",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 138
       },
       {
         "hook": "createModule",
-        "type": "call"
+        "type": "call",
+        "line": 144
       },
       {
         "hook": "module",
-        "type": "call"
+        "type": "call",
+        "line": 153
       },
       {
         "hook": "beforeResolve",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 377
       },
       {
         "hook": "factory",
-        "type": "call"
+        "type": "call",
+        "line": 391
       }
     ]
   },
@@ -1685,17 +1949,20 @@
       {
         "hook": "normalModuleFactory",
         "type": "tap",
-        "plugin": "NormalModuleReplacementPlugin"
+        "plugin": "NormalModuleReplacementPlugin",
+        "line": 18
       },
       {
         "hook": "beforeResolve",
         "type": "tap",
-        "plugin": "NormalModuleReplacementPlugin"
+        "plugin": "NormalModuleReplacementPlugin",
+        "line": 21
       },
       {
         "hook": "afterResolve",
         "type": "tap",
-        "plugin": "NormalModuleReplacementPlugin"
+        "plugin": "NormalModuleReplacementPlugin",
+        "line": 32
       }
     ],
     "calls": []
@@ -1706,11 +1973,13 @@
     "calls": [
       {
         "hook": "name",
-        "type": "call"
+        "type": "call",
+        "line": 46
       },
       {
         "hook": "name",
-        "type": "call"
+        "type": "call",
+        "line": 51
       }
     ]
   },
@@ -1754,91 +2023,113 @@
     "calls": [
       {
         "hook": "statement",
-        "type": "call"
+        "type": "call",
+        "line": 871
       },
       {
         "hook": "statementIf",
-        "type": "call"
+        "type": "call",
+        "line": 954
       },
       {
         "hook": "import",
-        "type": "call"
+        "type": "call",
+        "line": 1135
       },
       {
         "hook": "importSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1142
       },
       {
         "hook": "importSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1145
       },
       {
         "hook": "importSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1153
       },
       {
         "hook": "exportImport",
-        "type": "call"
+        "type": "call",
+        "line": 1163
       },
       {
         "hook": "export",
-        "type": "call"
+        "type": "call",
+        "line": 1165
       },
       {
         "hook": "exportDeclaration",
-        "type": "call"
+        "type": "call",
+        "line": 1169
       },
       {
         "hook": "exportSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1179
       },
       {
         "hook": "exportImportSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1194
       },
       {
         "hook": "exportSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1202
       },
       {
         "hook": "exportSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1232
       },
       {
         "hook": "export",
-        "type": "call"
+        "type": "call",
+        "line": 1238
       },
       {
         "hook": "exportDeclaration",
-        "type": "call"
+        "type": "call",
+        "line": 1245
       },
       {
         "hook": "exportExpression",
-        "type": "call"
+        "type": "call",
+        "line": 1260
       },
       {
         "hook": "exportSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1261
       },
       {
         "hook": "exportImport",
-        "type": "call"
+        "type": "call",
+        "line": 1272
       },
       {
         "hook": "exportImportSpecifier",
-        "type": "call"
+        "type": "call",
+        "line": 1273
       },
       {
         "hook": "expressionConditionalOperator",
-        "type": "call"
+        "type": "call",
+        "line": 1638
       },
       {
         "hook": "importCall",
-        "type": "call"
+        "type": "call",
+        "line": 1755
       },
       {
         "hook": "program",
-        "type": "call"
+        "type": "call",
+        "line": 2049
       }
     ]
   },
@@ -1848,12 +2139,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "PrefetchPlugin"
+        "plugin": "PrefetchPlugin",
+        "line": 19
       },
       {
         "hook": "make",
         "type": "tapAsync",
-        "plugin": "PrefetchPlugin"
+        "plugin": "PrefetchPlugin",
+        "line": 28
       }
     ],
     "calls": []
@@ -1864,27 +2157,32 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ProgressPlugin"
+        "plugin": "ProgressPlugin",
+        "line": 121
       },
       {
         "hook": "buildModule",
         "type": "tap",
-        "plugin": "ProgressPlugin"
+        "plugin": "ProgressPlugin",
+        "line": 127
       },
       {
         "hook": "failedModule",
         "type": "tap",
-        "plugin": "ProgressPlugin"
+        "plugin": "ProgressPlugin",
+        "line": 135
       },
       {
         "hook": "succeedModule",
         "type": "tap",
-        "plugin": "ProgressPlugin"
+        "plugin": "ProgressPlugin",
+        "line": 136
       },
       {
         "hook": "done",
         "type": "tap",
-        "plugin": "ProgressPlugin"
+        "plugin": "ProgressPlugin",
+        "line": 240
       }
     ],
     "calls": []
@@ -1895,7 +2193,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ProvidePlugin"
+        "plugin": "ProvidePlugin",
+        "line": 19
       }
     ],
     "calls": []
@@ -1906,27 +2205,32 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RecordIdsPlugin"
+        "plugin": "RecordIdsPlugin",
+        "line": 48
       },
       {
         "hook": "recordModules",
         "type": "tap",
-        "plugin": "RecordIdsPlugin"
+        "plugin": "RecordIdsPlugin",
+        "line": 49
       },
       {
         "hook": "reviveModules",
         "type": "tap",
-        "plugin": "RecordIdsPlugin"
+        "plugin": "RecordIdsPlugin",
+        "line": 74
       },
       {
         "hook": "recordChunks",
         "type": "tap",
-        "plugin": "RecordIdsPlugin"
+        "plugin": "RecordIdsPlugin",
+        "line": 161
       },
       {
         "hook": "reviveChunks",
         "type": "tap",
-        "plugin": "RecordIdsPlugin"
+        "plugin": "RecordIdsPlugin",
+        "line": 187
       }
     ],
     "calls": []
@@ -1937,7 +2241,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RequireJsStuffPlugin"
+        "plugin": "RequireJsStuffPlugin",
+        "line": 13
       }
     ],
     "calls": []
@@ -1956,17 +2261,20 @@
       {
         "hook": "renderWithEntry",
         "type": "tap",
-        "plugin": "SetVarMainTemplatePlugin"
+        "plugin": "SetVarMainTemplatePlugin",
+        "line": 48
       },
       {
         "hook": "globalHashPaths",
         "type": "tap",
-        "plugin": "SetVarMainTemplatePlugin"
+        "plugin": "SetVarMainTemplatePlugin",
+        "line": 54
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "SetVarMainTemplatePlugin"
+        "plugin": "SetVarMainTemplatePlugin",
+        "line": 61
       }
     ],
     "calls": []
@@ -1977,12 +2285,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "SingleEntryPlugin"
+        "plugin": "SingleEntryPlugin",
+        "line": 30
       },
       {
         "hook": "make",
         "type": "tapAsync",
-        "plugin": "SingleEntryPlugin"
+        "plugin": "SingleEntryPlugin",
+        "line": 40
       }
     ],
     "calls": []
@@ -1993,17 +2303,20 @@
       {
         "hook": "buildModule",
         "type": "tap",
-        "plugin": "SourceMapDevToolModuleOptionsPlugin"
+        "plugin": "SourceMapDevToolModuleOptionsPlugin",
+        "line": 17
       },
       {
         "hook": "buildModule",
         "type": "tap",
-        "plugin": "SourceMapDevToolModuleOptionsPlugin"
+        "plugin": "SourceMapDevToolModuleOptionsPlugin",
+        "line": 25
       },
       {
         "hook": "buildModule",
         "type": "tap",
-        "plugin": "SourceMapDevToolModuleOptionsPlugin"
+        "plugin": "SourceMapDevToolModuleOptionsPlugin",
+        "line": 32
       }
     ],
     "calls": []
@@ -2014,7 +2327,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "SourceMapDevToolPlugin"
+        "plugin": "SourceMapDevToolPlugin",
+        "line": 94
       }
     ],
     "calls": []
@@ -2025,22 +2339,26 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "TemplatedPathPlugin"
+        "plugin": "TemplatedPathPlugin",
+        "line": 119
       },
       {
         "hook": "assetPath",
         "type": "tap",
-        "plugin": "TemplatedPathPlugin"
+        "plugin": "TemplatedPathPlugin",
+        "line": 122
       },
       {
         "hook": "globalHash",
         "type": "tap",
-        "plugin": "TemplatedPathPlugin"
+        "plugin": "TemplatedPathPlugin",
+        "line": 127
       },
       {
         "hook": "hashForChunk",
         "type": "tap",
-        "plugin": "TemplatedPathPlugin"
+        "plugin": "TemplatedPathPlugin",
+        "line": 148
       }
     ],
     "calls": []
@@ -2051,17 +2369,20 @@
       {
         "hook": "renderWithEntry",
         "type": "tap",
-        "plugin": "UmdMainTemplatePlugin"
+        "plugin": "UmdMainTemplatePlugin",
+        "line": 282
       },
       {
         "hook": "globalHashPaths",
         "type": "tap",
-        "plugin": "UmdMainTemplatePlugin"
+        "plugin": "UmdMainTemplatePlugin",
+        "line": 288
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "UmdMainTemplatePlugin"
+        "plugin": "UmdMainTemplatePlugin",
+        "line": 295
       }
     ],
     "calls": []
@@ -2072,12 +2393,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "UseStrictPlugin"
+        "plugin": "UseStrictPlugin",
+        "line": 17
       },
       {
         "hook": "program",
         "type": "tap",
-        "plugin": "UseStrictPlugin"
+        "plugin": "UseStrictPlugin",
+        "line": 21
       }
     ],
     "calls": []
@@ -2088,12 +2411,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "WarnCaseSensitiveModulesPlugin"
+        "plugin": "WarnCaseSensitiveModulesPlugin",
+        "line": 11
       },
       {
         "hook": "seal",
         "type": "tap",
-        "plugin": "WarnCaseSensitiveModulesPlugin"
+        "plugin": "WarnCaseSensitiveModulesPlugin",
+        "line": 14
       }
     ],
     "calls": []
@@ -2104,7 +2429,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "WarnNoModeSetPlugin"
+        "plugin": "WarnNoModeSetPlugin",
+        "line": 11
       }
     ],
     "calls": []
@@ -2115,7 +2441,8 @@
       {
         "hook": "afterEnvironment",
         "type": "tap",
-        "plugin": "WatchIgnorePlugin"
+        "plugin": "WatchIgnorePlugin",
+        "line": 91
       }
     ],
     "calls": []
@@ -2126,39 +2453,48 @@
     "calls": [
       {
         "hook": "watchRun",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 40
       },
       {
         "hook": "shouldEmit",
-        "type": "call"
+        "type": "call",
+        "line": 46
       },
       {
         "hook": "needAdditionalPass",
-        "type": "call"
+        "type": "call",
+        "line": 57
       },
       {
         "hook": "done",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 63
       },
       {
         "hook": "additionalPass",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 66
       },
       {
         "hook": "failed",
-        "type": "call"
+        "type": "call",
+        "line": 94
       },
       {
         "hook": "done",
-        "type": "callAsync"
+        "type": "callAsync",
+        "line": 99
       },
       {
         "hook": "invalid",
-        "type": "call"
+        "type": "call",
+        "line": 139
       },
       {
         "hook": "watchClose",
-        "type": "call"
+        "type": "call",
+        "line": 171
       }
     ]
   },
@@ -2168,15 +2504,18 @@
     "calls": [
       {
         "hook": "entryOption",
-        "type": "call"
+        "type": "call",
+        "line": 295
       },
       {
         "hook": "afterPlugins",
-        "type": "call"
+        "type": "call",
+        "line": 476
       },
       {
         "hook": "afterResolvers",
-        "type": "call"
+        "type": "call",
+        "line": 514
       }
     ]
   },
@@ -2186,11 +2525,13 @@
     "calls": [
       {
         "hook": "environment",
-        "type": "call"
+        "type": "call",
+        "line": 40
       },
       {
         "hook": "afterEnvironment",
-        "type": "call"
+        "type": "call",
+        "line": 41
       }
     ]
   },
@@ -2200,12 +2541,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "AMDPlugin"
+        "plugin": "AMDPlugin",
+        "line": 34
       },
       {
         "hook": "afterResolvers",
         "type": "tap",
-        "plugin": "AMDPlugin"
+        "plugin": "AMDPlugin",
+        "line": 199
       }
     ],
     "calls": []
@@ -2216,7 +2559,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "CommonJsPlugin"
+        "plugin": "CommonJsPlugin",
+        "line": 28
       }
     ],
     "calls": []
@@ -2227,7 +2571,8 @@
       {
         "hook": "program",
         "type": "tap",
-        "plugin": "HarmonyDetectionParserPlugin"
+        "plugin": "HarmonyDetectionParserPlugin",
+        "line": 12
       }
     ],
     "calls": []
@@ -2238,32 +2583,38 @@
       {
         "hook": "export",
         "type": "tap",
-        "plugin": "HarmonyExportDependencyParserPlugin"
+        "plugin": "HarmonyExportDependencyParserPlugin",
+        "line": 20
       },
       {
         "hook": "exportImport",
         "type": "tap",
-        "plugin": "HarmonyExportDependencyParserPlugin"
+        "plugin": "HarmonyExportDependencyParserPlugin",
+        "line": 33
       },
       {
         "hook": "exportExpression",
         "type": "tap",
-        "plugin": "HarmonyExportDependencyParserPlugin"
+        "plugin": "HarmonyExportDependencyParserPlugin",
+        "line": 54
       },
       {
         "hook": "exportDeclaration",
         "type": "tap",
-        "plugin": "HarmonyExportDependencyParserPlugin"
+        "plugin": "HarmonyExportDependencyParserPlugin",
+        "line": 83
       },
       {
         "hook": "exportSpecifier",
         "type": "tap",
-        "plugin": "HarmonyExportDependencyParserPlugin"
+        "plugin": "HarmonyExportDependencyParserPlugin",
+        "line": 87
       },
       {
         "hook": "exportImportSpecifier",
         "type": "tap",
-        "plugin": "HarmonyExportDependencyParserPlugin"
+        "plugin": "HarmonyExportDependencyParserPlugin",
+        "line": 121
       }
     ],
     "calls": []
@@ -2274,22 +2625,26 @@
       {
         "hook": "import",
         "type": "tap",
-        "plugin": "HarmonyImportDependencyParserPlugin"
+        "plugin": "HarmonyImportDependencyParserPlugin",
+        "line": 21
       },
       {
         "hook": "importSpecifier",
         "type": "tap",
-        "plugin": "HarmonyImportDependencyParserPlugin"
+        "plugin": "HarmonyImportDependencyParserPlugin",
+        "line": 40
       },
       {
         "hook": "hotAcceptCallback",
         "type": "tap",
-        "plugin": "HarmonyImportDependencyParserPlugin"
+        "plugin": "HarmonyImportDependencyParserPlugin",
+        "line": 168
       },
       {
         "hook": "hotAcceptWithoutCallback",
         "type": "tap",
-        "plugin": "HarmonyImportDependencyParserPlugin"
+        "plugin": "HarmonyImportDependencyParserPlugin",
+        "line": 197
       }
     ],
     "calls": []
@@ -2300,7 +2655,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "HarmonyModulesPlugin"
+        "plugin": "HarmonyModulesPlugin",
+        "line": 30
       }
     ],
     "calls": []
@@ -2311,7 +2667,8 @@
       {
         "hook": "importCall",
         "type": "tap",
-        "plugin": "ImportParserPlugin"
+        "plugin": "ImportParserPlugin",
+        "line": 21
       }
     ],
     "calls": []
@@ -2322,7 +2679,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ImportPlugin"
+        "plugin": "ImportPlugin",
+        "line": 20
       }
     ],
     "calls": []
@@ -2333,17 +2691,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "LoaderPlugin"
+        "plugin": "LoaderPlugin",
+        "line": 22
       },
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "LoaderPlugin"
+        "plugin": "LoaderPlugin",
+        "line": 32
       },
       {
         "hook": "normalModuleLoader",
         "type": "tap",
-        "plugin": "LoaderPlugin"
+        "plugin": "LoaderPlugin",
+        "line": 33
       }
     ],
     "calls": []
@@ -2354,22 +2715,26 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RequireContextPlugin"
+        "plugin": "RequireContextPlugin",
+        "line": 26
       },
       {
         "hook": "alternatives",
         "type": "tap",
-        "plugin": "RequireContextPlugin"
+        "plugin": "RequireContextPlugin",
+        "line": 60
       },
       {
         "hook": "alternatives",
         "type": "tap",
-        "plugin": "RequireContextPlugin"
+        "plugin": "RequireContextPlugin",
+        "line": 87
       },
       {
         "hook": "alternatives",
         "type": "tap",
-        "plugin": "RequireContextPlugin"
+        "plugin": "RequireContextPlugin",
+        "line": 122
       }
     ],
     "calls": []
@@ -2380,7 +2745,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RequireEnsurePlugin"
+        "plugin": "RequireEnsurePlugin",
+        "line": 18
       }
     ],
     "calls": []
@@ -2391,7 +2757,8 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RequireIncludePlugin"
+        "plugin": "RequireIncludePlugin",
+        "line": 14
       }
     ],
     "calls": []
@@ -2402,13 +2769,15 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "SystemPlugin"
+        "plugin": "SystemPlugin",
+        "line": 16
       }
     ],
     "calls": [
       {
         "hook": "importCall",
-        "type": "call"
+        "type": "call",
+        "line": 91
       }
     ]
   },
@@ -2418,12 +2787,14 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "NodeChunkTemplatePlugin"
+        "plugin": "NodeChunkTemplatePlugin",
+        "line": 12
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "NodeChunkTemplatePlugin"
+        "plugin": "NodeChunkTemplatePlugin",
+        "line": 24
       }
     ],
     "calls": []
@@ -2434,7 +2805,8 @@
       {
         "hook": "beforeRun",
         "type": "tap",
-        "plugin": "NodeEnvironmentPlugin"
+        "plugin": "NodeEnvironmentPlugin",
+        "line": 23
       }
     ],
     "calls": []
@@ -2445,12 +2817,14 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "NodeHotUpdateChunkTemplatePlugin"
+        "plugin": "NodeHotUpdateChunkTemplatePlugin",
+        "line": 11
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "NodeHotUpdateChunkTemplatePlugin"
+        "plugin": "NodeHotUpdateChunkTemplatePlugin",
+        "line": 23
       }
     ],
     "calls": []
@@ -2461,27 +2835,32 @@
       {
         "hook": "localVars",
         "type": "tap",
-        "plugin": "NodeMainTemplatePlugin"
+        "plugin": "NodeMainTemplatePlugin",
+        "line": 22
       },
       {
         "hook": "requireExtensions",
         "type": "tap",
-        "plugin": "NodeMainTemplatePlugin"
+        "plugin": "NodeMainTemplatePlugin",
+        "line": 41
       },
       {
         "hook": "requireEnsure",
         "type": "tap",
-        "plugin": "NodeMainTemplatePlugin"
+        "plugin": "NodeMainTemplatePlugin",
+        "line": 63
       },
       {
         "hook": "hotBootstrap",
         "type": "tap",
-        "plugin": "NodeMainTemplatePlugin"
+        "plugin": "NodeMainTemplatePlugin",
+        "line": 263
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "NodeMainTemplatePlugin"
+        "plugin": "NodeMainTemplatePlugin",
+        "line": 316
       }
     ],
     "calls": []
@@ -2492,12 +2871,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "NodeSourcePlugin"
+        "plugin": "NodeSourcePlugin",
+        "line": 58
       },
       {
         "hook": "afterResolvers",
         "type": "tap",
-        "plugin": "NodeSourcePlugin"
+        "plugin": "NodeSourcePlugin",
+        "line": 124
       }
     ],
     "calls": []
@@ -2508,7 +2889,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "NodeTemplatePlugin"
+        "plugin": "NodeTemplatePlugin",
+        "line": 19
       }
     ],
     "calls": []
@@ -2519,7 +2901,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "ReadFileCompileWasmTemplatePlugin"
+        "plugin": "ReadFileCompileWasmTemplatePlugin",
+        "line": 16
       }
     ],
     "calls": []
@@ -2530,12 +2913,14 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "AggressiveMergingPlugin"
+        "plugin": "AggressiveMergingPlugin",
+        "line": 24
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "AggressiveMergingPlugin"
+        "plugin": "AggressiveMergingPlugin",
+        "line": 27
       }
     ],
     "calls": []
@@ -2546,27 +2931,32 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "AggressiveSplittingPlugin"
+        "plugin": "AggressiveSplittingPlugin",
+        "line": 43
       },
       {
         "hook": "optimize",
         "type": "tap",
-        "plugin": "AggressiveSplittingPlugin"
+        "plugin": "AggressiveSplittingPlugin",
+        "line": 50
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "AggressiveSplittingPlugin"
+        "plugin": "AggressiveSplittingPlugin",
+        "line": 55
       },
       {
         "hook": "recordHash",
         "type": "tap",
-        "plugin": "AggressiveSplittingPlugin"
+        "plugin": "AggressiveSplittingPlugin",
+        "line": 219
       },
       {
         "hook": "needAdditionalSeal",
         "type": "tap",
-        "plugin": "AggressiveSplittingPlugin"
+        "plugin": "AggressiveSplittingPlugin",
+        "line": 274
       }
     ],
     "calls": []
@@ -2577,12 +2967,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ChunkModuleIdRangePlugin"
+        "plugin": "ChunkModuleIdRangePlugin",
+        "line": 22
       },
       {
         "hook": "moduleIds",
         "type": "tap",
-        "plugin": "ChunkModuleIdRangePlugin"
+        "plugin": "ChunkModuleIdRangePlugin",
+        "line": 23
       }
     ],
     "calls": []
@@ -2593,17 +2985,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "EnsureChunkConditionsPlugin"
+        "plugin": "EnsureChunkConditionsPlugin",
+        "line": 11
       },
       {
         "hook": "optimizeChunksBasic",
         "type": "tap",
-        "plugin": "EnsureChunkConditionsPlugin"
+        "plugin": "EnsureChunkConditionsPlugin",
+        "line": 58
       },
       {
         "hook": "optimizeExtractedChunksBasic",
         "type": "tap",
-        "plugin": "EnsureChunkConditionsPlugin"
+        "plugin": "EnsureChunkConditionsPlugin",
+        "line": 62
       }
     ],
     "calls": []
@@ -2614,12 +3009,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "FlagIncludedChunksPlugin"
+        "plugin": "FlagIncludedChunksPlugin",
+        "line": 9
       },
       {
         "hook": "optimizeChunkIds",
         "type": "tap",
-        "plugin": "FlagIncludedChunksPlugin"
+        "plugin": "FlagIncludedChunksPlugin",
+        "line": 10
       }
     ],
     "calls": []
@@ -2630,12 +3027,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "LimitChunkCountPlugin"
+        "plugin": "LimitChunkCountPlugin",
+        "line": 17
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "LimitChunkCountPlugin"
+        "plugin": "LimitChunkCountPlugin",
+        "line": 18
       }
     ],
     "calls": []
@@ -2646,12 +3045,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "MergeDuplicateChunksPlugin"
+        "plugin": "MergeDuplicateChunksPlugin",
+        "line": 9
       },
       {
         "hook": "optimizeChunksBasic",
         "type": "tap",
-        "plugin": "MergeDuplicateChunksPlugin"
+        "plugin": "MergeDuplicateChunksPlugin",
+        "line": 12
       }
     ],
     "calls": []
@@ -2662,12 +3063,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "MinChunkSizePlugin"
+        "plugin": "MinChunkSizePlugin",
+        "line": 19
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "MinChunkSizePlugin"
+        "plugin": "MinChunkSizePlugin",
+        "line": 20
       }
     ],
     "calls": []
@@ -2678,12 +3081,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "ModuleConcatenationPlugin"
+        "plugin": "ModuleConcatenationPlugin",
+        "line": 25
       },
       {
         "hook": "optimizeChunkModules",
         "type": "tap",
-        "plugin": "ModuleConcatenationPlugin"
+        "plugin": "ModuleConcatenationPlugin",
+        "line": 62
       }
     ],
     "calls": []
@@ -2694,12 +3099,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "NaturalChunkOrderPlugin"
+        "plugin": "NaturalChunkOrderPlugin",
+        "line": 15
       },
       {
         "hook": "optimizeChunkOrder",
         "type": "tap",
-        "plugin": "NaturalChunkOrderPlugin"
+        "plugin": "NaturalChunkOrderPlugin",
+        "line": 16
       }
     ],
     "calls": []
@@ -2710,12 +3117,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "OccurrenceOrderChunkIdsPlugin"
+        "plugin": "OccurrenceOrderChunkIdsPlugin",
+        "line": 18
       },
       {
         "hook": "optimizeChunkOrder",
         "type": "tap",
-        "plugin": "OccurrenceOrderChunkIdsPlugin"
+        "plugin": "OccurrenceOrderChunkIdsPlugin",
+        "line": 21
       }
     ],
     "calls": []
@@ -2726,12 +3135,14 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "OccurrenceOrderModuleIdsPlugin"
+        "plugin": "OccurrenceOrderModuleIdsPlugin",
+        "line": 18
       },
       {
         "hook": "optimizeModuleOrder",
         "type": "tap",
-        "plugin": "OccurrenceOrderModuleIdsPlugin"
+        "plugin": "OccurrenceOrderModuleIdsPlugin",
+        "line": 21
       }
     ],
     "calls": []
@@ -2742,17 +3153,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "OccurrenceOrderPlugin"
+        "plugin": "OccurrenceOrderPlugin",
+        "line": 20
       },
       {
         "hook": "optimizeModuleOrder",
         "type": "tap",
-        "plugin": "OccurrenceOrderPlugin"
+        "plugin": "OccurrenceOrderPlugin",
+        "line": 21
       },
       {
         "hook": "optimizeChunkOrder",
         "type": "tap",
-        "plugin": "OccurrenceOrderPlugin"
+        "plugin": "OccurrenceOrderPlugin",
+        "line": 98
       }
     ],
     "calls": []
@@ -2763,27 +3177,32 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RemoveEmptyChunksPlugin"
+        "plugin": "RemoveEmptyChunksPlugin",
+        "line": 9
       },
       {
         "hook": "optimizeChunksBasic",
         "type": "tap",
-        "plugin": "RemoveEmptyChunksPlugin"
+        "plugin": "RemoveEmptyChunksPlugin",
+        "line": 23
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "RemoveEmptyChunksPlugin"
+        "plugin": "RemoveEmptyChunksPlugin",
+        "line": 27
       },
       {
         "hook": "optimizeExtractedChunksBasic",
         "type": "tap",
-        "plugin": "RemoveEmptyChunksPlugin"
+        "plugin": "RemoveEmptyChunksPlugin",
+        "line": 31
       },
       {
         "hook": "optimizeExtractedChunksAdvanced",
         "type": "tap",
-        "plugin": "RemoveEmptyChunksPlugin"
+        "plugin": "RemoveEmptyChunksPlugin",
+        "line": 35
       }
     ],
     "calls": []
@@ -2794,17 +3213,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "RemoveParentModulesPlugin"
+        "plugin": "RemoveParentModulesPlugin",
+        "line": 29
       },
       {
         "hook": "optimizeChunksBasic",
         "type": "tap",
-        "plugin": "RemoveParentModulesPlugin"
+        "plugin": "RemoveParentModulesPlugin",
+        "line": 116
       },
       {
         "hook": "optimizeExtractedChunksBasic",
         "type": "tap",
-        "plugin": "RemoveParentModulesPlugin"
+        "plugin": "RemoveParentModulesPlugin",
+        "line": 120
       }
     ],
     "calls": []
@@ -2815,12 +3237,14 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "RuntimeChunkPlugin"
+        "plugin": "RuntimeChunkPlugin",
+        "line": 18
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "RuntimeChunkPlugin"
+        "plugin": "RuntimeChunkPlugin",
+        "line": 19
       }
     ],
     "calls": []
@@ -2831,27 +3255,32 @@
       {
         "hook": "normalModuleFactory",
         "type": "tap",
-        "plugin": "SideEffectsFlagPlugin"
+        "plugin": "SideEffectsFlagPlugin",
+        "line": 23
       },
       {
         "hook": "module",
         "type": "tap",
-        "plugin": "SideEffectsFlagPlugin"
+        "plugin": "SideEffectsFlagPlugin",
+        "line": 24
       },
       {
         "hook": "module",
         "type": "tap",
-        "plugin": "SideEffectsFlagPlugin"
+        "plugin": "SideEffectsFlagPlugin",
+        "line": 43
       },
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "SideEffectsFlagPlugin"
+        "plugin": "SideEffectsFlagPlugin",
+        "line": 51
       },
       {
         "hook": "optimizeDependencies",
         "type": "tap",
-        "plugin": "SideEffectsFlagPlugin"
+        "plugin": "SideEffectsFlagPlugin",
+        "line": 52
       }
     ],
     "calls": []
@@ -2862,17 +3291,20 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "SplitChunksPlugin"
+        "plugin": "SplitChunksPlugin",
+        "line": 325
       },
       {
         "hook": "unseal",
         "type": "tap",
-        "plugin": "SplitChunksPlugin"
+        "plugin": "SplitChunksPlugin",
+        "line": 327
       },
       {
         "hook": "optimizeChunksAdvanced",
         "type": "tap",
-        "plugin": "SplitChunksPlugin"
+        "plugin": "SplitChunksPlugin",
+        "line": 330
       }
     ],
     "calls": []
@@ -2883,7 +3315,8 @@
       {
         "hook": "afterEmit",
         "type": "tap",
-        "plugin": "SizeLimitsPlugin"
+        "plugin": "SizeLimitsPlugin",
+        "line": 23
       }
     ],
     "calls": []
@@ -2894,18 +3327,21 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "WasmFinalizeExportsPlugin"
+        "plugin": "WasmFinalizeExportsPlugin",
+        "line": 11
       },
       {
         "hook": "finishModules",
         "type": "tap",
-        "plugin": "WasmFinalizeExportsPlugin"
+        "plugin": "WasmFinalizeExportsPlugin",
+        "line": 12
       }
     ],
     "calls": [
       {
         "hook": "hasOwnProperty",
-        "type": "call"
+        "type": "call",
+        "line": 39
       }
     ]
   },
@@ -2915,22 +3351,26 @@
       {
         "hook": "localVars",
         "type": "tap",
-        "plugin": "WasmMainTemplatePlugin"
+        "plugin": "WasmMainTemplatePlugin",
+        "line": 169
       },
       {
         "hook": "requireEnsure",
         "type": "tap",
-        "plugin": "WasmMainTemplatePlugin"
+        "plugin": "WasmMainTemplatePlugin",
+        "line": 195
       },
       {
         "hook": "requireExtensions",
         "type": "tap",
-        "plugin": "WasmMainTemplatePlugin"
+        "plugin": "WasmMainTemplatePlugin",
+        "line": 322
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "WasmMainTemplatePlugin"
+        "plugin": "WasmMainTemplatePlugin",
+        "line": 336
       }
     ],
     "calls": []
@@ -2941,17 +3381,20 @@
       {
         "hook": "compilation",
         "type": "tap",
-        "plugin": "WebAssemblyModulesPlugin"
+        "plugin": "WebAssemblyModulesPlugin",
+        "line": 27
       },
       {
         "hook": "renderManifest",
         "type": "tap",
-        "plugin": "WebAssemblyModulesPlugin"
+        "plugin": "WebAssemblyModulesPlugin",
+        "line": 55
       },
       {
         "hook": "afterChunks",
         "type": "tap",
-        "plugin": "WebAssemblyModulesPlugin"
+        "plugin": "WebAssemblyModulesPlugin",
+        "line": 89
       }
     ],
     "calls": []
@@ -2962,7 +3405,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "FetchCompileWasmTemplatePlugin"
+        "plugin": "FetchCompileWasmTemplatePlugin",
+        "line": 15
       }
     ],
     "calls": []
@@ -2973,17 +3417,20 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "JsonpChunkTemplatePlugin"
+        "plugin": "JsonpChunkTemplatePlugin",
+        "line": 27
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "JsonpChunkTemplatePlugin"
+        "plugin": "JsonpChunkTemplatePlugin",
+        "line": 56
       },
       {
         "hook": "hashForChunk",
         "type": "tap",
-        "plugin": "JsonpChunkTemplatePlugin"
+        "plugin": "JsonpChunkTemplatePlugin",
+        "line": 62
       }
     ],
     "calls": []
@@ -2994,17 +3441,20 @@
       {
         "hook": "renderWithEntry",
         "type": "tap",
-        "plugin": "JsonpExportMainTemplatePlugin"
+        "plugin": "JsonpExportMainTemplatePlugin",
+        "line": 26
       },
       {
         "hook": "globalHashPaths",
         "type": "tap",
-        "plugin": "JsonpExportMainTemplatePlugin"
+        "plugin": "JsonpExportMainTemplatePlugin",
+        "line": 32
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "JsonpExportMainTemplatePlugin"
+        "plugin": "JsonpExportMainTemplatePlugin",
+        "line": 40
       }
     ],
     "calls": []
@@ -3015,12 +3465,14 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "JsonpHotUpdateChunkTemplatePlugin"
+        "plugin": "JsonpHotUpdateChunkTemplatePlugin",
+        "line": 11
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "JsonpHotUpdateChunkTemplatePlugin"
+        "plugin": "JsonpHotUpdateChunkTemplatePlugin",
+        "line": 25
       }
     ],
     "calls": []
@@ -3031,76 +3483,91 @@
       {
         "hook": "localVars",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 102
       },
       {
         "hook": "jsonpScript",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 141
       },
       {
         "hook": "linkPreload",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 204
       },
       {
         "hook": "linkPrefetch",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 237
       },
       {
         "hook": "requireEnsure",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin load"
+        "plugin": "JsonpMainTemplatePlugin load",
+        "line": 259
       },
       {
         "hook": "requireExtensions",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 330
       },
       {
         "hook": "bootstrap",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 345
       },
       {
         "hook": "beforeStartup",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 457
       },
       {
         "hook": "beforeStartup",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 479
       },
       {
         "hook": "startup",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 498
       },
       {
         "hook": "hotBootstrap",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 528
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "JsonpMainTemplatePlugin"
+        "plugin": "JsonpMainTemplatePlugin",
+        "line": 582
       }
     ],
     "calls": [
       {
         "hook": "jsonpScript",
-        "type": "call"
+        "type": "call",
+        "line": 286
       },
       {
         "hook": "linkPreload",
-        "type": "call"
+        "type": "call",
+        "line": 319
       },
       {
         "hook": "linkPrefetch",
-        "type": "call"
+        "type": "call",
+        "line": 397
       }
     ]
   },
@@ -3110,7 +3577,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "JsonpTemplatePlugin"
+        "plugin": "JsonpTemplatePlugin",
+        "line": 13
       }
     ],
     "calls": []
@@ -3121,12 +3589,14 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "WebWorkerChunkTemplatePlugin"
+        "plugin": "WebWorkerChunkTemplatePlugin",
+        "line": 11
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "WebWorkerChunkTemplatePlugin"
+        "plugin": "WebWorkerChunkTemplatePlugin",
+        "line": 27
       }
     ],
     "calls": []
@@ -3137,12 +3607,14 @@
       {
         "hook": "render",
         "type": "tap",
-        "plugin": "WebWorkerHotUpdateChunkTemplatePlugin"
+        "plugin": "WebWorkerHotUpdateChunkTemplatePlugin",
+        "line": 10
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "WebWorkerHotUpdateChunkTemplatePlugin"
+        "plugin": "WebWorkerHotUpdateChunkTemplatePlugin",
+        "line": 27
       }
     ],
     "calls": []
@@ -3153,27 +3625,32 @@
       {
         "hook": "localVars",
         "type": "tap",
-        "plugin": "WebWorkerMainTemplatePlugin"
+        "plugin": "WebWorkerMainTemplatePlugin",
+        "line": 17
       },
       {
         "hook": "requireEnsure",
         "type": "tap",
-        "plugin": "WebWorkerMainTemplatePlugin"
+        "plugin": "WebWorkerMainTemplatePlugin",
+        "line": 36
       },
       {
         "hook": "bootstrap",
         "type": "tap",
-        "plugin": "WebWorkerMainTemplatePlugin"
+        "plugin": "WebWorkerMainTemplatePlugin",
+        "line": 106
       },
       {
         "hook": "hotBootstrap",
         "type": "tap",
-        "plugin": "WebWorkerMainTemplatePlugin"
+        "plugin": "WebWorkerMainTemplatePlugin",
+        "line": 138
       },
       {
         "hook": "hash",
         "type": "tap",
-        "plugin": "WebWorkerMainTemplatePlugin"
+        "plugin": "WebWorkerMainTemplatePlugin",
+        "line": 185
       }
     ],
     "calls": []
@@ -3184,7 +3661,8 @@
       {
         "hook": "thisCompilation",
         "type": "tap",
-        "plugin": "WebWorkerTemplatePlugin"
+        "plugin": "WebWorkerTemplatePlugin",
+        "line": 13
       }
     ],
     "calls": []
