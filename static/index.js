@@ -111,7 +111,11 @@ const option = {
                 return v.data.color;
             }
         },
-        links: forceData.links
+        links: [
+            ...forceData.links.call,
+            ...forceData.links.register,
+            ...forceData.links.contain
+        ]
     }]
 };
 
@@ -142,6 +146,7 @@ myChart.on('click', params => {
                 calls
             } = json[params.name];
 
+            document.getElementById('js-info-name').innerText = params.name;
             document.getElementById('js-info-contain').innerHTML = (
                 hooks.length ? dereplicate(hooks.map(i => i.name)).join('<br>') : '无'
             );
@@ -188,7 +193,36 @@ function resize() {
     myChart.setOption(option);
 }
 
+const relationType = {
+    call: true,
+    register: true,
+    contain: true
+};
+function selectRelationType(type, el) {
+    relationType[type] = !relationType[type];
+    if (relationType[type]) {
+        el.classList.add('active');
+    }
+    else {
+        el.classList.remove('active');
+    }
+    let links = [];
+    Object.keys(relationType).forEach(type => {
+        if (relationType[type]) {
+            links = [...links, ...forceData.links[type]];
+        }
+    });
+    option.series[0].links = links;
+    myChart.setOption(option);
+}
+
 // bind click
 document.getElementById('js-select-none').addEventListener('click', selectNone);
 document.getElementById('js-select-all').addEventListener('click', selectAll);
 window.addEventListener('resize', resize);
+document.querySelectorAll('.tooltip-item').forEach(ele => {
+    ele.addEventListener('click', e => {
+        console.log(e.target.dataset);
+        selectRelationType(e.target.dataset.type, e.target);
+    });
+});

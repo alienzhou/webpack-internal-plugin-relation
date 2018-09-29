@@ -13,9 +13,9 @@
         <span>loading ...</span>
     </div>
     <section class="tooltip">
-        <div class="contain"></div>
-        <div class="register"></div>
-        <div class="call"></div>
+        <div class="tooltip-item call active" data-type="call"></div>
+        <div class="tooltip-item register active" data-type="register"></div>
+        <div class="tooltip-item contain active" data-type="contain"></div>
     </section>
     <section class="category">
         <div class="module"></div>
@@ -26,6 +26,7 @@
         <button class="operation-btn" id="js-select-none">取消</button>
     </section>
     <section class="info" id="js-info">
+        <div id="js-info-name" class="info-name">---</div>
         <div class="info-title">包含的hook</div>
         <div id="js-info-contain" class="info-text">无</div>
         <div class="info-title">注册的hook</div>
