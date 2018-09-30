@@ -4,7 +4,7 @@
 
 ## 介绍
 
-一个用来展示webpack内置插件调用关系（钩子）的小工具。 
+一个用来展示webpack内置插件调用关系（钩子）的小工具。
 
 [https://alienzhou.github.io/webpack-internal-plugin-relation/index.html](https://alienzhou.github.io/webpack-internal-plugin-relation/index.html)
 
@@ -12,9 +12,29 @@
 
 ![](./doc/img/sample.png)
 
+## 起因
+
+- webpack使用tapable的钩子虽然能有效解耦，但是类似事件监听这种模式，其注册与调用几乎完全无关，很难将一个钩子的创建 - 注册 - 调用有效联系起来。对此，往往只能使用关键词搜索。
+
+- webpack内部的钩子非常多，数量达到了180+。除了官网列出的`compiler`与`compilation`中那些常用的钩子，还存在着众多其他可以使用的钩子。有些挺有用的钩子你可能都无从知晓。
+
+- webpack v4+ 本身内置了许多插件，即使非插件，webpack的模块也经常使用tapable钩子来交互。甚至你可以认为，webpack项目中的各个模块都是“插件化”的。这也使得模块间的调用与方法的触发关系更加不明确了。
+
+这些主要导致了，想要全局细致了解webpack中模块（插件）、钩子之间的关系具有一定的困难。为了帮助理解与阅读webpack源码，我制作了一个工具应用，来进行可视化展示，并支持一些交互操作。
+
 ## 演示
 
-![](./doc/img/example.gif)
+**关系展示：**
+
+![](./doc/img/1.gif)
+
+**点击交互，展示模块信息，跳转到相应源码位置：**
+
+![](./doc/img/2.gif)
+
+**筛选关系类型进行展示：**
+
+![](./doc/img/3.gif)
 
 ## 功能
 
