@@ -52,12 +52,32 @@ body {
     padding-top: 20px;
     width: 100%;
     text-align: center;
-    color: #f2f2f2;
+    color: #ddd;
     text-transform: Capitalize;
+
+    span {
+        position: relative;
+    }
+
+    .github {
+        position: absolute;
+        top: 10px;
+        right: -45px;
+        width: 24px;
+        height: 24px;
+        opacity: .8;
+        cursor: pointer;
+        transition: opacity .2s;
+        &:hover {
+            opacity: 1;
+        }
+    }
 }
+
 .main {
     height: 100%;
 }
+
 .tooltip {
     position: fixed;
     top: 140px;
@@ -69,32 +89,33 @@ body {
         position: relative;
         cursor: pointer;
         &::after {
+            width: 100px;
             font-size: 14px;
             position: absolute;
             top: 16px;
             left: 50px;
-            color: #888;
+            color: #444;
         }
         &.active::after {
-            color: #eee;
+            color: #888;
         }
         &:hover::after {
-            color: #F1DAF0;
+            color: #eee;
         }
     }
 
     .contain::after {
-        content: 'contain';
+        content: '「创建」关系 ';
         font-size: 14px;
     }
 
     .register::after {
-        content: 'register';
+        content: '「注册」关系 ';
         font-size: 14px;
     }
 
     .call::after {
-        content: 'call';
+        content: '「调用」关系 ';
         font-size: 14px;
     }
 }
@@ -125,10 +146,10 @@ body {
     }
 
     .module::after {
-        content: 'javascript module';
+        content: '模块/内部插件';
     }
     .hook::after {
-        content: 'webpack hook';
+        content: 'webpack钩子';
     }
 }
 

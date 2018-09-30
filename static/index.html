@@ -7,10 +7,17 @@
     <title>webpack internal plugin relation</title>
 </head>
 <body>
-    <h1 class="title">webpack internal plugin relation</h1>
+    <h1 class="title">
+        <span>
+            webpack 内部插件与钩子关系
+            <a href="https://github.com/alienzhou/webpack-internal-plugin-relation" target="_blank">
+                <img class="github" src="${ require('./github.png') }" />
+            </a>
+        </span>
+    </h1>
     <main id="main" class="main"></main>
     <div id="js-loading-mask" class="loading-mask">
-        <span>loading ...</span>
+        <span>加载中 ...</span>
     </div>
     <section class="tooltip">
         <div class="tooltip-item call active" data-type="call"></div>
@@ -27,11 +34,11 @@
     </section>
     <section class="info" id="js-info">
         <div id="js-info-name" class="info-name">---</div>
-        <div class="info-title">包含的hook</div>
+        <div class="info-title">创建的hook(钩子)</div>
         <div id="js-info-contain" class="info-text">无</div>
-        <div class="info-title">注册的hook</div>
+        <div class="info-title">注册的hook(钩子)</div>
         <div id="js-info-register" class="info-text">无</div>
-        <div class="info-title">调用的hook</div>
+        <div class="info-title">调用的hook(钩子)</div>
         <div id="js-info-call" class="info-text">无</div>
     </section>
 </body>

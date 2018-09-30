@@ -18,12 +18,21 @@ const config = {
                 {
                     loader: MiniCssExtractPlugin.loader,
                     options: {
-                      publicPath: '../'
+                        publicPath: '../'
                     }
                 },
                 'css-loader',
                 'less-loader'
             ]
+        }, {
+            test: /\.(png|jpg|gif)$/,
+            use: [{
+                loader: 'file-loader',
+                options: {
+                    name: '[path][name].[ext]',
+                    context: 'static'
+                }
+            }]
         }]
     },
     plugins: [
