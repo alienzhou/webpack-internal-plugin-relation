@@ -6,9 +6,9 @@
 
 一个用来展示webpack内置插件调用关系（钩子）的小工具。
 
-[https://alienzhou.github.io/webpack-internal-plugin-relation/index.html](https://alienzhou.github.io/webpack-internal-plugin-relation/index.html)
+[https://alienzhou.github.io/webpack-internal-plugin-relation](https://alienzhou.github.io/webpack-internal-plugin-relation)
 
-也许可以用来帮助理清webpack内部插件之间的关系，促进webpack源码结构的理解与阅读。
+也许可以用来帮助理清webpack内部插件之间的关系，促进webpack源码结构的理解与阅读。
 
 ![](./doc/img/sample.png)
 
@@ -85,4 +85,4 @@ npm run data
 npm run build
 ```
 
-生成的静态文件位于 `dist/` 目录下，可将站点应用托管至任何静态文件服务器。
+生成的静态文件位于 `dist/` 目录下，可将站点应用托管至任何静态文件服务器。
