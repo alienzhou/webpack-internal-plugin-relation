@@ -13,12 +13,12 @@ import * as echarts from 'echarts/lib/echarts';
 import 'echarts/lib/component/tooltip';
 import 'echarts/lib/chart/graph';
 import 'echarts/lib/component/legendScroll';
+import {version as webpackVersion} from 'webpack/package.json';
 
 import forceData from '../config/forceData.json';
 import colors from '../config/color.json';
 
 import './index.less';
-import { join } from 'path';
 
 // modify style
 document.querySelectorAll('.tooltip .contain').forEach(
@@ -128,7 +128,7 @@ myChart.on('rendered', () => {
 });
 
 myChart.on('dblclick', params => {
-    const base = 'https://github.com/webpack/webpack/tree/master/';
+    const base = `https://github.com/webpack/webpack/blob/v${webpackVersion}/`;
     if (params.dataType === 'node' && params.data.type === 'module') {
         window.open(`${base}${params.name}`, null);
     }
