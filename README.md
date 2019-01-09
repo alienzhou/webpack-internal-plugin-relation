@@ -53,6 +53,10 @@
 ### 启动服务预览
 
 ```bash
+# 拷贝代码库
+git clone git@github.com:alienzhou/webpack-internal-plugin-relation.git
+cd webpack-internal-plugin-relation
+
 # 安装依赖
 npm i
 
