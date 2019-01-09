@@ -83,6 +83,56 @@ npm run data
 
 ![](./doc/img/datapath.png)
 
+`hook.json`数据格式如下：
+
+```json
+"lib/MultiCompiler.js": {
+  "hooks": [
+    {
+      "name": "done",
+      "line": 17
+    },
+    {
+      "name": "invalid",
+      "line": 18
+    },
+    {
+      "name": "run",
+      "line": 19
+    },
+    {
+      "name": "watchClose",
+      "line": 20
+    },
+    {
+      "name": "watchRun",
+      "line": 21
+    }
+  ],
+  "taps": [
+    {
+      "hook": "done",
+      "type": "tap",
+      "plugin": "MultiCompiler",
+      "line": 37
+    },
+    {
+      "hook": "invalid",
+      "type": "tap",
+      "plugin": "MultiCompiler",
+      "line": 48
+    }
+  ],
+  "calls": [
+    {
+      "hook": "done",
+      "type": "call",
+      "line": 44
+    }
+  ]
+}
+```
+
 ### 应用构建
 
 ```bash
